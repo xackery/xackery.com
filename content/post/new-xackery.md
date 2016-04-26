@@ -1,12 +1,12 @@
 +++
 banner = "/post/images/site.jpg"
-categories = ["Site"]
+categories = ["site"]
 date = "2016-04-23T01:19:18-07:00"
 description = "A new xackery.com is now up, check it out"
 images = ["/post/images/site.jpg"]
 menu = ""
-tags = []
-title = "New Xackery Is Now Up!"
+tags = ["news"]
+title = "New Xackery Is Now Up"
 
 +++
 Welcome to the new and improved xackery.com! This site will be changed more often and be more awesomer.
