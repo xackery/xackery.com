@@ -1,0 +1,93 @@
+baseurl = "http://xackery.com/"
+languageCode = "en-us"
+title = "Xackery"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "xackery"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-29343126-2"
+# Define the number of posts per page
+paginate = 10
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus-theme"
+
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+
+[params]
+    # Tell me who you are
+    author = "Xackery"
+    bio = "Blogger - Programmer - Gopher"
+    location = "Seattle, WA"
+    site_description = "Xackery is my little area to post everything and anything."
+    copyright  = "No real copyrights, except those expressed by the content posted."
+    avatar = "css/images/avatar.png"
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://www.youtube.com/subscription_center?add_user=PlazmaICE"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = "xackery"
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = "plazmaice"
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = "xackeryx"
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = "xackery"
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = "xackeryx"
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = "xackery"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true
