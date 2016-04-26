@@ -2,6 +2,10 @@
 <td><a href="//github.com/{{.}}" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
 {{ end }}
 
+{{ with .Site.Social.twitch }}
+<td><a href="//twitch.tv/{{.}}" target="_blank" title="Twitch"><i class="fa fa-twitch"></i></a></td>
+{{ end }}
+
 {{ with .Site.Social.bitbucket }}
 <td><a href="//bitbucket.com/{{.}}" target="_blank" title="Bitbucket"><i class="fa fa-bitbucket"></i></a></td>
 {{ end }}

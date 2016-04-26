@@ -84,6 +84,7 @@ theme = "hugo-icarus-theme"
     facebook_admin  = ""
     twitter_domain  = ""
     twitter         = "xackery"
+    twitch          = "xackery"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
