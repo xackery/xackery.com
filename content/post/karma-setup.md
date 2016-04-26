@@ -2,14 +2,14 @@
 banner = "/post/images/karma/karma-search.png"
 categories = ["minecraft"]
 date = "2016-04-25T20:27:32-07:00"
-description = "How to set up Karma"
+description = "How to set up Karma using ATLauncher"
 images = []
 menu = ""
 tags = ["minecraft"]
 title = "How to set up Karma"
 +++
 
-Karma is a modpack for Minecraft, and is one of the most fun intense tech/exploration ones available.
+Karma is a modpack for Minecraft, and is one of the most fun intense tech/exploration ones available. To play it, you'll need ATLauncher
 <!--more-->
 
 To install Karma, you need to:
