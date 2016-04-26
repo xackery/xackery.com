@@ -3,7 +3,7 @@ banner = "/post/images/karma/karma-day-10.png"
 categories = ["minecraft"]
 date = "2016-04-26T00:52:46-07:00"
 description = "How to get started playing Karma, a modpack for Minecraft"
-images = []
+images = ["/post/images/karma/karma-day-10.png"]
 menu = ""
 tags = ["minecraft"]
 title = "Getting Started With Karma"
@@ -14,7 +14,7 @@ When playing Karma, expect a lot of surprises. There are many things out to kill
 
 Some primary goals are:
 
-## Establish a hideout
+## Establish a Hideout
 
 Establishing a hideout is as simple as digging into a wall, and making chests and a crafting bench.
 <img src="/post/images/karma/karma-chest.png">

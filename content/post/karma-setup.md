@@ -3,7 +3,7 @@ banner = "/post/images/karma/karma-search.png"
 categories = ["minecraft"]
 date = "2016-04-25T20:27:32-07:00"
 description = "How to set up Karma using ATLauncher"
-images = []
+images = ["/post/images/karma/karma-search.png"]
 menu = ""
 tags = ["minecraft"]
 title = "How to set up Karma"
@@ -28,4 +28,3 @@ To install Karma, you need to:
 * Click close. Now press play.
 * Go to multiplayer in game, and Add Server.
 * Type in the address of the server you wish to join. Success!
-
