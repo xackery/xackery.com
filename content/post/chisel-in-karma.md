@@ -6,7 +6,7 @@ description = "Chisel is a mod that lets you decorate blocks to make them more a
 images = ["/post/images/karma/chisel-bridge.png"]
 menu = ""
 tags = ["minecraft"]
-title = "chisel in karma"
+title = "Chisel in Karma"
 
 +++
 
