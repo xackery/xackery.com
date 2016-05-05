@@ -10,7 +10,6 @@ paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 
-
 [permalinks]
     post = "/:year/:month/:day/:slug"
 

@@ -38,6 +38,7 @@ Note that Tinkerer's Construct is not able to be enchanted, nor can artifacts.
 |Flim Flam|All|Openblocks|Brings bad luck to anything that attacks the player, most are useless combat wise.([more](http://ftbwiki.org/Enchantment))
 |Fortune|Axe, Pickaxe, Shovel|Vanilla|Increases yield from blocks that drop items
 |Frost|Bow|MoreEnchants|Arrows cause slowness effect on target
+|Fuel Efficiency|Chest|Simply Jetpacks|Lowers the cost of fuel to fly with a jetpack
 |Harvest|Axe, Pickaxe|MoreEnchants|Adds a unique effect
 |Ice Aspect|Axe, Sword|MoreEnchants|Melee attacks cause target to be slowed
 |Infinity|Bow|Vanilla|Arrows no longer are consumed
