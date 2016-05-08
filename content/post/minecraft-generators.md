@@ -1,15 +1,15 @@
 +++
-banner = "post/images/karma/karma-search.png"
+banner = "post/images/karma/generators.png"
 categories = ["minecraft"]
 date = "2016-05-04T18:29:10-07:00"
 description = ""
-images = ["post/images/karma/karma-search.png"]
+images = ["post/images/karma/generators.png"]
 menu = ""
 tags = ["minecraft"]
 title = "Minecraft Generators"
 
 +++
-Minecraft is full of ways to make power generators of various shapes and sizes. Here is a comparison chart of energy in minecraft to assist in determining your next generator to build.
+Minecraft is full of ways to make power generators of various shapes and sizes. Here is a comparison chart of energy in minecraft to assist in determining an ideal generator to build.
 <!--more-->
 
 I used the following conversion chart for going between power types
@@ -20,8 +20,6 @@ I used the following conversion chart for going between power types
 |4 RF|1 EU|
 |0.25 RF|1 J|
 |0.006 RF|1 W|
-
-
 
 |Mod|Name|Fuel|Tier|RF/tick|
 |---|---|---|---|---|
