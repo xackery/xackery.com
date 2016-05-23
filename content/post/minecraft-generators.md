@@ -2,7 +2,7 @@
 banner = "post/images/karma/generators.png"
 categories = ["minecraft"]
 date = "2016-05-04T18:29:10-07:00"
-description = ""
+description = "Minecraft is full of ways to make power generators of various shapes and sizes. Here is a comparison chart of energy in minecraft to assist in determining an ideal generator to build."
 images = ["post/images/karma/generators.png"]
 menu = ""
 tags = ["minecraft"]
