@@ -2,7 +2,7 @@
 banner = "post/images/karma/chisel-bridge.png"
 categories = ["minecraft"]
 date = "2016-04-26T23:55:26-07:00"
-description = "Chisel is a mod that lets you decorate blocks to make them more aesthetically interesting, as well as give unique attributes in some cases."
+description = "Chisel is a mod that lets you decorate blocks to make them more aesthetically interesting, as well as give unique attributes in some cases. Enjoy."
 images = ["post/images/karma/chisel-bridge.png"]
 menu = ""
 tags = ["minecraft"]
