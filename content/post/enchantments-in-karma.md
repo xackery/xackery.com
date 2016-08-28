@@ -13,6 +13,8 @@ There are many mods providing enchantments in the Karma modpack. Here's a handy 
 <!--more-->
 Note that Tinkerer's Construct is not able to be enchanted, nor can artifacts.
 
+
+
 |Enchantment|Types|Mod|Description|
 |---|---|---|---|
 |Absorption|Armor|Vanilla|Improves overall damage reduction
