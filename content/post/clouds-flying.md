@@ -9,5 +9,5 @@ tags = ["photography", "bellevue"]
 title = "Clouds Flying"
 
 +++
-Flying from San Fransisco to Seattle, a beautiful mattress of clouds.
+Flying from San Fransisco to Seattle, a beautiful mattress of clouds, this photo captures the majesty of flight, a modern phenomena we take for granted.
 <!--more-->
