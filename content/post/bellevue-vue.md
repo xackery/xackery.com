@@ -9,5 +9,5 @@ tags = ["photography", "bellevue"]
 title = "Bellevue View"
 
 +++
-A view of Bellevue.
+A view of Bellevue from a residential point.
 <!--more-->
