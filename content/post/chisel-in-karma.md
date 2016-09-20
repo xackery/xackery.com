@@ -30,4 +30,4 @@ And unlock unique things, like turn glass into soul glass (mobs are unable to wa
 Or make concrete, which improves your movement speed, great for highways! To make concrete, you simply need to cook gravel in a furnace, then use a chisel to transform it to asphalt or other concrete colors.
 <img src="/post/images/karma/chisel-concrete.png" title="Concrete in Chisel">
 
-The possibilities are endless for designing when chisel is included in your mod packs, and it's prebuilt into Karma!
+The possibilities are endless for designing when chisel is included in your mod packs, and it's prebuilt into Karma! Chisel is great, isn't it?
