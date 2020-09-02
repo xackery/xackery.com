@@ -1,5 +1,5 @@
 # xackery.com
-Because, why not?
+Source code to xackery.com
 
 Theme is from http://themes.gohugo.io/hugo-icarus/
 
