@@ -6,8 +6,12 @@ title =  "Xackery"
 theme = "xackery"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
-
+googleAnalytics = "UA-29343126-2"
+paginate = 10
 disqusShortname = "eqcodex"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
 
 [params]
   editURL = "https://github.com/xackery/xackery.com/edit/master/content/"

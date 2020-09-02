@@ -1,6 +1,6 @@
 ---
 title: Blog
-weight: -25
+weight: -99
 chapter: true
 ---
 

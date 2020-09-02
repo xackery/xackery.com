@@ -1,6 +1,6 @@
 ---
 title: Minecraft
-weight: -25
+weight: 0
 chapter: true
 ---
 

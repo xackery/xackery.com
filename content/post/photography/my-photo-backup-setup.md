@@ -4,12 +4,12 @@ categories:  ["tech"]
 date:  "2017-07-10T00:52:46-07:00"
 description:  "How to get started playing Karma, a modpack for Minecraft"
 images:  ["post/images/karma/karma-day-10.png"]
-menu:  ""
+menuTitle: "How I do backups"
 tags:  ["tech"]
 title:  "How I do backups"
-hidden:  "true"
+
 ---
-I had a conversation with <a href="https://www.youtube.com/photojoseph" target="_blank">PhotoJoseph (Youtuber)</a> during his live stream today, and felt inspired to write up a guide of how I do my backup solution. While it may be technical to some, the overall design is made to be low cost, versatile, easy once setup and scalable with at least some technical knowledge. There is the saying "You pay for convienence", but that isn't always the case.
+I had a conversation with [PhotoJoseph (Youtuber)](https://www.youtube.com/photojoseph) during his live stream today, and felt inspired to write up a guide of how I do my backup solution. While it may be technical to some, the overall design is made to be low cost, versatile, easy once setup and scalable with at least some technical knowledge. There is the saying "You pay for convienence", but that isn't always the case.
 <!--more-->
 
 ## The Scenario
@@ -28,11 +28,11 @@ Over time, the local copy, external backup, and shared drive are likely to run o
 
 ## My setup
 
-* <b>(external backup) <a href="https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/rsync.1.html">rsync</a></b> is built into OSX.</a>
-* <b>(external backup) <a href="https://support.apple.com/en-us/HT201250" target="_blank">Timemachine</a> is built into OSX.</b> Cost: Free
-* <b>(shared drive) <a href="https://photos.google.com/" target="_blank">Google Photos</a> for shared drive backup/distribution.</b></b> Cost: Free (for resized images)
-* <b>(LTS cloud) <a href="https://cloud.google.com/storage/pricing" target="_blank">Coldline from Google Storage</a> for remote cloud backup storage.</b> Cost: $0.007/GB/mo.
-* <b>(optional shared drive) <a href="https://syncthing.net/" target="_blank">Syncthing</a> for shared drive backup/distribution.</b> Cost: Free. Once they add a preview and not sync option to this, it will be viable for this setup.
+* (external backup) [rsync](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/rsync.1.html) is built into OSX.</a>
+* (external backup) [Time Machine](https://support.apple.com/en-us/HT201250) is built into OSX.</b> Cost: Free
+* <b>(shared drive) [Google Photos](https://photos.google.com/) for shared drive backup/distribution.</b></b> Cost: Free (for resized images)
+* <b>(LTS cloud) (Coldline from Google Stoage)[https://cloud.google.com/storage/pricing] Coldline from Google Storage</a> for remote cloud backup storage.</b> Cost: $0.007/GB/mo.
+* <b>(optional shared drive) (Syncthing)[https://syncthing.net/] for shared drive backup/distribution.</b> Cost: Free. Once they add a preview and not sync option to this, it will be viable for this setup.
 
 ### My breakdown of setup:
 
@@ -40,7 +40,7 @@ Over time, the local copy, external backup, and shared drive are likely to run o
 2. Purchase at least 4 external drives. If you need high performance you can opt in for internal drives, but be sure your computer supports hot-swappable SATA (or alternatively e-SATA). In my case, each drive is 4 terabytes.
 3. Plug in each drive and label them, e.g. A, A-Backup, B, B-Backup. I give my drives unique labels to easily identify them. You can also date them or however you like to label.
 4. Take any older computer you have laying around and install the external drives.
-5. Install <a href="https://photos.google.com/apps" target="_blank">Desktop Uploader</a> to sync each drive to your google photos. (For OSX/Linux, you can use <a href="https://github.com/prasmussen/gdrive" target="_blank">gDrive</a> to do automated CLI interactions/rsync style backup). By default, RAW and other unsupported formats are ignored, but this is primarily for tracking and sharing with customers.
+5. Install [Desktop Uploader](https://photos.google.com/apps) to sync each drive to your google photos. (For OSX/Linux, you can use [gDrive](https://github.com/prasmussen/gdrive) to do automated CLI interactions/rsync style backup). By default, RAW and other unsupported formats are ignored, but this is primarily for tracking and sharing with customers.
 6. (technical, dropbox is an alternative) Configure sharing (samba or windows network sharing in any form) on the server of each letter drive, so users can access the drives.
 7. (technical, dropbox is an alternative) Configure VPN to allow your sharing to be accessible from remote devices.
 8. Create crons to rsync A to A-Backup (and all lettered drives), and email on failure.
