@@ -1,3 +1,4 @@
 public/
 *.cache
 *.log
+.hugo_build.lock
