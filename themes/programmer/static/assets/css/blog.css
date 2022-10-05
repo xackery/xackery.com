@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,300;0,400;0,800;1,100;1,300;1,400;1,800&display=swap");
 
 :root {
-  --gray-1: #3f3f3f;
+  --gray-1: #5c5f64;
   --gray-2: #32353a;
-  --gray-3: #25282c;
-  --gray-4: #151618;
-  --gray-5: #151618;
-  --gray-6: #111111;
-  --white-1: #eeeeee;
-  --white-2: #a9abb3;
+  --gray-3: #3A3B3C;
+  --gray-4: #3A3B3C;
+  --gray-5: #242526;
+  --gray-6: #18191A;
+  --white-1: #d1ccc7;
+  --white-2: #d1ccc7;;
 }
 * {
   font-family: inherit;

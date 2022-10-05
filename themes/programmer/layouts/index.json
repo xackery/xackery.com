@@ -10,15 +10,14 @@
 "author": { "name": "{{ .Site.Params.author }}" },
 {{ end }}
   "items": [
-  {{ range $i, $e := first 20 (.Paginate ( where site.RegularPages "Section" "posts" ).ByDate.Reverse).Pages }}
+  {{ range $i, $e := first 20 (.Paginate (  first 20 .Pages.ByDate.Reverse)).Pages }}
   {{ if $i }}, {{ end }}
     {
       "id": "{{ .Permalink }}",
       "title": "{{ .Title }}",
       "content_text": {{ .Summary | jsonify }},
       "url": "{{ .Permalink }}",
-      "date_published": "{{ .Date }}",
-      "tags": ["{{ delimit .Params.tags "," }}"]
+      "date_published": "{{ .Date }}"
     }
   {{ end }}
   ]

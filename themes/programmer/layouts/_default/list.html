@@ -6,18 +6,15 @@
       {{ partial "header.html" . }}
       {{ partial "bio.html" . }}
       <section class="articles">
-        {{ range (.Paginate ( where site.RegularPages "Section" "posts" ).ByDate.Reverse).Pages }}
+        {{ range (.Paginate (  first 20 .Pages.ByDate.Reverse)).Pages }}
+        <a href="{{ .Permalink }}" title="{{ .Title }}"> 
         <article class="article">
           <h2 class="article-title">
-            <a href="{{ .Permalink }}" title="{{ .Title }}"> {{ .Title }} </a>
+            {{ .Title }}
           </h2>
-          <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>
-          <div class="tags">
-            {{ range .Params.Tags }}
-            <a href="{{site.BaseURL}}tags/{{ . }}" class="tag">{{ . }}</a>
-            {{ end }}
-          </div>
+          <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>          
         </article>
+        </a>
         {{ end }}
       </section>
       {{ partial "footer.html" . }}
