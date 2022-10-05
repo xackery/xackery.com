@@ -40,9 +40,11 @@ header .site-title {
   color: var(--white-1);
 }
 main {
-  margin: 0 auto;
+  /*margin: 0 auto;
   max-width: 650px;
-  padding: 3rem 0;
+  padding: 3rem 0;*/
+  margin-inline: auto;
+  width: min(100% - 10px, 1200px);
 }
 
 /* header */
