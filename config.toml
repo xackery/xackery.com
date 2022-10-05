@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 
 title =  "Xackery"
-theme = "xackery"
+theme = "programmer"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 googleAnalytics = "G-Y9XZCMEGZ7"
