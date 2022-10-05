@@ -16,7 +16,7 @@ Last Updated: A19.1
 Note that this is normal attacks only, no buffs, no perks.
 
 name|dps|damage|delay|range
---|--|--|--|--|--
+--|--|--|--|--
 Auger|0.8|4.2|5.0|2.35
 Baseball Bat|20.1|17.4|0.9|2.4
 Bone Knife|2.5|5.1|2.0|2.0

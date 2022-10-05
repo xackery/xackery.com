@@ -15,7 +15,7 @@ Last Updated: A19.1 DF 3.0.1
 Note that this is normal attacks only, no buffs, no perks.
 
 name|dps|damage|delay|range
---|--|--|--|--|--
+--|--|--|--|--
 .44 Magnum Coilround|0|0|0|5
 7.62mm Coilround|0|0|0|5
 adminJunkTurret|6.7|11.8|1.8|15
