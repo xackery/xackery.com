@@ -1,0 +1,69 @@
+baseURL = "/"
+title =  "Xackery"
+paginate = 5
+languageCode = "en-US"
+theme = "papermod"
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+googleAnalytics = "G-Y9XZCMEGZ7"
+paginate = 10
+disqusShortname = "eqcodex"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+[params]
+  editURL = "https://github.com/xackery/xackery.com/edit/master/content/"
+  description = "Xackery.com"
+  author = "Xackery"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = true
+  themeVariant = "eqcodex"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title =  "Xackery"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
+identifier = "ds"
+url = "https://github.com/xackery/xackery.com"
+weight = 30
+
+
+[Languages.fr]
+title =  "Xackery"
+weight = 2
+languageName = "Français"
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-discord'></i> Discord"
+url = "https://discord.gg/nZNvXEm"
+weight = 10
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
+url = "/credits"
+weight = 20
+
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
+identifier = "ds"
+url = "https://github.com/eqcodex/eqcodex"
+weight = 30
+

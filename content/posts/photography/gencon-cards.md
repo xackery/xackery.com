@@ -3,7 +3,7 @@ categories:  ["photography"]
 date:  "2016-08-08T23:55:26-07:00"
 description:  ""
 menuTitle: "Gencon Cards"
-tags:  ["photography", "gencon", "magic the gathering"]
+tags:  ["photography", "gencon"]
 title:  "Gencon Cards"
 
 ---

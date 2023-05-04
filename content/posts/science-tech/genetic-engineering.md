@@ -5,7 +5,7 @@ date:  "2016-08-09T23:55:26-07:00"
 description:  "Chisel is a mod that lets you decorate blocks to make them more aesthetically interesting, as well as give unique attributes in some cases."
 images:  ["post/images/science/genetic-engineering.png"]
 menuTitle: ""
-tags:  ["science"]
+tags:  ["tech"]
 title:  "Genetic Engineering"
 
 ---

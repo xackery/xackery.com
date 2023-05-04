@@ -5,7 +5,7 @@ date:  "2016-08-13T07:15:40-07:00"
 description:  ""
 
 menuTitle: "Ghost Train"
-tags:  ["photography", "seatac", "seattle"]
+tags:  ["photography", "seattle"]
 title:  "Ghost Train"
 
 ---
