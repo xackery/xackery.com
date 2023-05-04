@@ -1,0 +1,34 @@
+name: Platform Tests & Build
+on: [push]
+
+jobs:
+  platform_tests:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        go-version: [tip]
+        os: [ubuntu-latest]
+
+    steps:
+
+    - uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+
+    - name: Set version
+      run: make set-version
+
+    - name: Get distro dependencies
+      run: sudo apt-get update && sudo apt-get install bc make hugo npm
+      if: ${{ runner.os == 'Linux' }}
+
+    - name: Build hugo
+      run: make server
+
+    - name: Log in to firebase and deploy
+      run: |
+        npm install -g firebase-tools
+        firebase deploy --token ${{ secrets.FIREBASE_TOKEN }}
+      env:
+        FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
