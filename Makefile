@@ -1,3 +1,6 @@
+VERSION ?= 1.0.0
+NAME := xackery.com
+
 .PHONY: server
 server:
 	@hugo server
@@ -11,3 +14,5 @@ relogin:
 	firebase use xackery
 deploy: build
 	@firebase deploy
+set-version:
+	@echo "VERSION=${VERSION}" >> $$GITHUB_ENV
