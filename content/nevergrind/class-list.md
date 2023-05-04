@@ -2,33 +2,32 @@
 title: NeverGrind Online Class List
 weight: 10
 categories: "nevergrind"
-date: "2023-05-027T00:55:26-07:00"
+date: "2023-05-04T00:55:26-07:00"
 description: "NeverGrind Online Class List Overview"
-menuTitle: ""
 menuTitle: "NeverGrind Online Class List"
 ---
 
 Click each section to learn more about a specific class's skills
 
-- [Bard](#Bard)
-- [Cleric](#Cleric)
-- [Crusader](#Crusader)
-- [Druid](#Druid)
-- [Enchanter](#Enchanter)
-- [Monk](#Monk)
-- [Ranger](#Ranger)
-- [Rogue](#Rogue)
-- [Shadow Knight](#Knight)
-- [Shaman](#Shaman)
-- [Templar](#Templar)
-- [Warlock](#Warlock)
-- [Warrior](#Warrior)
-- [Wizard](#Wizard)
+- [Bard](#bard)
+- [Cleric](#cleric)
+- [Crusader](#crusader)
+- [Druid](#druid)
+- [Enchanter](#enchanter)
+- [Monk](#monk)
+- [Ranger](#ranger)
+- [Rogue](#rogue)
+- [Shadow Knight](#knight)
+- [Shaman](#shaman)
+- [Templar](#templar)
+- [Warlock](#warlock)
+- [Warrior](#warrior)
+- [Wizard](#wizard)
 
 
 <!--more-->
 
-## Bard
+# Bard
 
 Stats are based on 14 ATK, 15 STR, 20 STA/AGI/DEX, 15 WIS/INT, 20 CHA, 3-6 damage dagger
 Name|Cost|Lvl|Effect|Target|Element|Damage|Threat|Cast|Cooldown|Type
@@ -46,13 +45,13 @@ Melody of Mana|2 SP|2|45s 3 MP regen, 10% casting haste|Group|Arcane|0|30%|3s|35
 Righteous Rhapsody|2 SP|23|45s -5% Resist All|All Enemies|Arcane|0|40%|3s|0s|Alteration
 Chromatic Sonata|2 SP|5|45s 12 AC 3% Resist All|Group|Arcane|0|0%|3s|35s|Alteration
 
-## Cleric
+# Cleric
 
 Stats are based on 13 ATK, 15 STR/DEX/CHA, 20 STA/AGI/WIS/INT, 3-7 damage club
 Name|Cost|Lvl|Effect|Target|Element|Damage|Threat|Cast|Cooldown|Type
 ---|---|---|---|---|---|---|---|---|---|---
 Smite|8 MP|1||1|Arcane|24-30|200%|3s|0s|Evocation
-Deliverance|7 MP||3|Fire|22-25|100%|2.5s|15s|Evocation
+Deliverance|7 MP|3||Fire|22-25|100%|2.5s|15s|Evocation
 Condemnation|11 MP|2|Stagger, 50% dmg to demon/undead|2|Arcane|25-28|70%|3s|12s|Evocation
 Sacred Revelation|10 MP|5|3s Stun|3|Arcane|18-19|160%|Instant|30s|Evocation
 Holy Sanctuary|6 MP|3||All Enemies|Arcane|14-15|-250%|2.5s|10s|Conjuration
