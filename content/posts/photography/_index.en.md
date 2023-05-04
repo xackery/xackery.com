@@ -6,4 +6,4 @@ chapter: true
 
 ### Photography
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}

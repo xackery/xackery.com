@@ -6,4 +6,4 @@ chapter: true
 
 ### Blog
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}

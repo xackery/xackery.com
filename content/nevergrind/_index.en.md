@@ -6,4 +6,4 @@ chapter: true
 
 ### NeverGrind Online
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}

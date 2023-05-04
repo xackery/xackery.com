@@ -6,4 +6,4 @@ chapter: true
 
 ### Divinity Original Sin 2
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}

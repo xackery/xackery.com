@@ -6,4 +6,4 @@ chapter: false
 
 ### Darkness Falls
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}

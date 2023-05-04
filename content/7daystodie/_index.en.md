@@ -6,4 +6,4 @@ chapter: true
 
 ### 7 Days to Die
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}

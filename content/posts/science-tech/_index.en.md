@@ -6,4 +6,4 @@ chapter: true
 
 ### Science and Technology
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}

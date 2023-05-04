@@ -6,4 +6,4 @@ chapter: true
 
 ### Modifications
 
-{{% children depth="3" %}}
+{{% children depth="3" %}}{{%/children%}}
