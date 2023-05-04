@@ -7,7 +7,7 @@ description: "NeverGrind Online Class List Overview"
 menuTitle: "NeverGrind Online Class List"
 ---
 
-Click each section to learn more about a specific class's skills
+Check each section to learn more about a specific class's skills
 
 - [Bard](#bard)
 - [Cleric](#cleric)
