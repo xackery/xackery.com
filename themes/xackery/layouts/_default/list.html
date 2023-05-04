@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 {{ if eq .Kind "section" }}
-	{{ .Content }}
+	{{ .Content | replaceRE "(<h[1-6]\\sid=\"([^\"]+)\"\\s?>)(.+)(</h[1-6]+>)" "${1}<a href=\"#${2}\">${3}</a>${4}" }}
 {{end}}
 
 {{ if or (eq .Kind "taxonomy") (eq .Kind "taxonomyTerm") }}
