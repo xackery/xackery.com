@@ -19,6 +19,8 @@ minify:
     disableXML: true
     # minifyOutput: true
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
 languages:
     en:
         languageName: "English"
