@@ -216,3 +216,108 @@ Deathknight|1|Cowardslayer|+5 to Damage vs Missile Units
 Deathknight|3|Necromancy|Cast 1 spell of this sphere
 Deathknight|9|Constitution|+15 to Life Points
 Deathknight|15|Leech|Leech +0.25 times victim ASP mana from each opponent killed
+Defiler|10|Gift of Plague|Melee units you control get disease strikes of strength 9. If a melee unit already had a disease attack, instead, they gain +3 disease strength.
+Defiler|10|Tainted Putrefaction|Disease your side inflicts degenerates 40% faster.
+Defiler|1|Magery|Your hero receives no penalty when using staffs. Also has range elemental attack when no weapon is equipped.
+Defiler|1|Contagion Magic|Cast 1 spell of this sphere
+Defiler|1|Ritual|+1 to Spell Level
+Defiler|1|Energy|+1 Mana Regeneration
+Defiler|9|Purulence|+15% HP regeneration for units that can transmit Disease, Scourge, or Ghoulplague
+Defiler|15|Execration|+2% affliction strength for all non-hero afflictions you control (units, buildings, spells)
+Dragonslayer|10|Dragontamer|Dragons cost 35% less.
+Dragonslayer|10|Allows your hero to use the Crippling Whirlwind ability. When activated, enemies within a radius of 4 of the hero receive damage equal to 1.5*<hero's damage> and make a roll against Crippled with a strength of 12. Crippling Whirlwind recovers in 3 minutes.
+Dragonslayer|1|Throwing|Your hero receives no penalty when using throwable items. Also has ranged crushing attack when no weapon is equipped.
+Dragonslayer|1|Sky Hunter|+8 Damage vs. Fliers
+Dragonslayer|1|Ferocity|+0.50 to Combat Skill
+Dragonslayer|3|Airmaster|+1 to XP for all flying units
+Dragonslayer|9|Wealth|+0.14 Gold per second and start off with +25 resources
+Dragonslayer|15|Sky Mastery|+8% discount on all Dragon abilities
+Elementalist|10|Antipode|Casting a Pyromancy or Ice spell increases the next Ice or Pyromancy spell level by +10 for 15 seconds.
+Elementalist|10|Elementalism|Allows your hero to cast the Elementalism spell, which summons a Fire, Earth, Air of Water Elemental. Costs 35 mana, +0.2 units summoned per spell level.
+Elementalist|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Elementalist|1|Pyromancy|Cast 1 spell of this sphere
+Elementalist|1|Ice Magic|Cast 1 spell of this sphere
+Elementalist|3|Elemental Lore|+4 to XP for all Elementals
+Elementalist|9|Geomancy|Cast 1 spell of this sphere
+Elementalist|15|Warding|+0.5% to Armor for all your troops
+Grand Oracle|10|Voice of the Gods|Units you control within your command radius get +15 Morale
+Grand Oracle|10|Wise Counsel|Units you control within your command radius get +180%XP for each kill.
+Grand Oracle|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Grand Oracle|1|Divination Magic|Cast 1 spell of this sphere
+Grand Oracle|1|Ritual|+1 to Spell Level
+Grand Oracle|3|Energy|+1 Mana Regeneration
+Grand Oracle|9|Occultism|+25% to Mana regeneration for units you control and unit abilities cooldown +25% faster
+Grand Oracle|15|Longevity|+6% to spell duration
+Healer|10|Healing Tent|Allows your hero to use the Healing Tent ability, which, when activated, target a nearby location. A Healing Tent is summoned to the target location under your control. Healing Tents have a radius of 12 which increases HP regeneration of allied units by +500%. Healing Tent recovers in 3 minutes and if activated whilst your side controls a Healing Tent, that Healing Tent is removed (a side can only have 1 Healing Tent at a time).
+Healer|10|Resuscitate|Allows your hero to use the Resuscitate ability. When activated, a number of nearby target units you control with up to a total of 20 ASP are resurrected with 5% of their max HP and with the Crippled affliction. Resuscitate recovers in 3 minutes.
+Healer|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Healer|1|Healing Magic|Cast 1 spell of this sphere
+Healer|1|Ritual|+1 to Spell Level
+Healer|3|Elcor's Aura|+6% healing from spells
+Healer|9|Frugal Investor|+0.74% Discount on purchases and start off with +6 resources
+Healer|15|Leadership|+1 to Morale for all sides
+High Druid|10|Nature's Plight|Whenever your side destroys a non-wall building, an Oakman spawns at that location under your control.
+High Druid|10|Wolf Companion|Allows your hero to use the Wolf Companion ability. When activated, a Wolf spawns adjacent to your hero under your control. This Wolf has the Autonomous affliction, is set to guard your hero, takes up no army limit and has a level equal to 20+<hero level> (max 50). Wolf Companion recovers in 3 minutes.
+High Druid|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+High Druid|1|Nature Magic|Cast 1 spell of this sphere
+High Druid|1|Ritual|+1 to Spell Level
+High Druid|3|Energy|+1 Mana Regeneration
+High Druid|9|Calling|+0 to number of units summoned by your hero
+High Druid|15|Occultism|+25% to Mana regeneration for units you control and unit abilities cooldown +25% faster
+High Inquisitor|10|Judgement|Whenever your hero casts a Pyromancy or Divination spell, a number of nearby target enemy units equal to ((<spell level of cast spell>-1)*<mana cost of cast spell>*0.2+<mana cost of cast spell>)/13 make a roll against Blindness with a strength of 12
+High Inquisitor|10|Swords of Justice|Your hero attacks summon one Sword that costs no AL and always guards your hero. It can only summon a fixed amount of swords based on your hero's level. Your sword counter replenishes after a while.
+High Inquisitor|0|No Ranged Skill|High Inquisitors do not get a ranged perk.
+High Inquisitor|1|Divination Magic|Cast 1 spell of this sphere
+High Inquisitor|1|WitchHunter|+10 to Damage vs. enchanted (affected by spells) units & heroes
+High Inquisitor|3|Pyromancy|Cast 1 spell of this sphere
+High Inquisitor|9|Leech|Leech +0.25 times victim ASP mana from each opponent killed
+High Inquisitor|15|Fervor|Gives +0.50 times victim ASP HP to nearby friendly units when your hero kills a unit
+Ice Mage|10|Chillcreep|Whenever your hero casts an Ice spell, a number of nearby target enemy units equal to ((<spell level of cast spell>-1)*<mana cost of cast spell>)/12 make a roll against Frostbite with a strength of 12.
+Ice Mage|10|FRozen Flames|Cold criticals caused by units on your side also inflict a burn.
+Ice Mage|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Ice Mage|1|Ice Magic|Cast 1 spell of this sphere
+Ice Mage|1|Ritual|+1 to Spell Level
+Ice Mage|3|Lore|+4 to Maximum Mana
+Ice Mage|9|Gemcutting|+0.14 Crystal per second and start off with +25 resources
+Ice Mage|15|Longevity|+6% to spell duration
+Illusionist|10|Shrouding Mists|Gives your hero an aura which decreases the View of enemies by 75% when within a radius of 30 of your hero.
+Illusionist|10|Delusion|Your hero gains a special attack effect, which chains to up to 4 targets (only the Confusion effect chains, the hero's damage does not chain). When your hero's attack deals damage to an enemy, if that enemy has a psychologial affliction, they automatically receive the Confusion affliction with no roll to resist.
+Illusionist|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Illusionist|1|Illusion Magic|Cast 1 spell of this sphere
+Illusionist|1|Ritual|+1 to Spell Level
+Illusionist|3|Lore|+4 to Maximum Mana
+Illusionist|9|Hex|+7% affliction strength for hero spells
+Illusionist|15|Longevity|+6% to spell duration
+Lichlord|10|Aging Touch|Your hero gets +8 melee damage and their melee attacks automatically inflict the Crippled affliction with no roll to resist and drain 10 XP.
+Lichlord|10|Phylactery|When your hero dies it is resurrected after 3 minutes with 30% of their HP. Hero Resurrection costs 50% less and takes 99% less time to research.
+Lichlord|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Lichlord|1|Necromancy|Cast 1 spell of this sphere
+Lichlord|1|Chronomancy|Cast 1 spell of this sphere
+Lichlord|3|Mage King|+2 to XP for all spellcaster units
+Lichlord|9|Shadow Strength|+3 to Combat Skill at Night
+Lichlord|15|WitchHunter|+10 to Damage vs. enchanted (affected by spells) units & heroes
+Master Paladin|10|Celestial Reckoning|Allows your hero to use the Celestial Reckoning ability. Celestial Reckoning has a cast time of 3 seconds and when activated, the hero gains +300 magic damage and crystallises kills for a duration of 15 seconds or until the hero makes an attack. Celestial Reckoning recovers in 3 minutes.
+Master Paladin|10|Righteous Fury|When your hero casts a Healing Magic spell, they get +75% attack speed for a duration equal to the <mana cost of the cast spell>. If your hero already has a Righteous Fury enchantment active and they cast a spell, that spell adds its time onto the pre-existing enchantment's timer.
+Master Paladin|0|No Ranged Skill|Master Paladins do not get a ranged perk.
+Master Paladin|1|WitchHunter|+10 to Damage vs. enchanted (affected by spells) units & heroes
+Master Paladin|1|Ferocity|+0.50 to Combat Skill
+Master Paladin|3|Healing Magic|Cast 1 spell of this sphere
+Master Paladin|9|Constitution|+15 to Life Points
+Master Paladin|15|Fervor|Gives +0.50 times victim ASP HP to nearby friendly units when your hero kills a unit
+Merchant|10|Hostile Acquisition|Gives +5% to your trade rates and also allows your hero to use the Hostile Acquisition ability. When activated, a Shop within your command radius is converted to your side. Hostile Acquisition recovers in 3 minutes.
+Merchant|10|Silvertongue|Your hero gets the Bribery ability at spell level 18. This ability costs 100 gold to use and allows your hero to convert enemy units in your hero's command radius to your side. The ability recovers in 3 minutes.
+Merchant|0|No Ranged Skill|Merchants do not get a ranged perk.
+Merchant|1|Frugal Investor|+0.74% Discount on purchases and start off with +6 resources
+Merchant|1|Diplomacy|+1 extra Army Setup Points and discounts retinue costs ny +4% (max 90%)
+Merchant|3|Wealth|+0.14 Gold per second and start off with +25 resources
+Merchant|9|Tactician|Units in command radius get +10% Combat and +2% Speed
+Merchant|15|Gemcutting|+0.14 Crystal per second and start off with +25 resources
+Monk|10|Flurry of Blows|Allows your hero to use the Flurry of Blows ability. When activated, your hero's melee attacks gets +165% attack speed for a duration of 10 seconds. Flurry of Blows recovers in 3 minutes.
+Monk|10|Shattering Palm|Allows your hero to use the Shattering Palm ability. Shattering Palm has a cast time of 3 seconds, and when activated, your hero's melee attacks inflicts the Crippled affliction and critical stun effect, neither of which can be resisted, and your hero's melee attack gets +235 crushing damage. Shattering Palm has a duratino of 15 seconds or until the hero makes a melee attack and recovers in 3 minutes.
+Monk|1|Throwing|Your hero receives no penalty when using throwable items. Also has ranged crushing attack when no weapon is equipped.
+Monk|1|Swiftness|+1 Attack Speed
+Monk|1|Ferocity|+0.50 to Combat Skill
+Monk|3|Chronomancy|Cast 1 spell of this sphere
+Monk|9|Evasion|+1 Combat penalty to attacking ranged units and buildings
+Monk|15|Warding|+0.5% to Armor for all your troops
+Monk|0|When your hero has no Body Armor equipped, they get +12 Running skill and +3 Swiftness skill. When your hero has no weapon equipped, their damage type becomes Crushing and they get +12 Ferocity skill and +3 Swiftness skill.
