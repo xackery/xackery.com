@@ -1,10 +1,10 @@
 ---
-title: WBC3 TPC Hero Choices
+title: WBC3 TPE Hero Choices
 weight: 0
 chapter: true
 ---
 
-This was last updated for TPC 0.9
+This was last updated for TPE 0.9
 
 ## Races
 
