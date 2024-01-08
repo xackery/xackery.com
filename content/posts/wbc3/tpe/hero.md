@@ -313,11 +313,11 @@ Merchant|3|Wealth|+0.14 Gold per second and start off with +25 resources
 Merchant|9|Tactician|Units in command radius get +10% Combat and +2% Speed
 Merchant|15|Gemcutting|+0.14 Crystal per second and start off with +25 resources
 Monk|10|Flurry of Blows|Allows your hero to use the Flurry of Blows ability. When activated, your hero's melee attacks gets +165% attack speed for a duration of 10 seconds. Flurry of Blows recovers in 3 minutes.
-Monk|10|Shattering Palm|Allows your hero to use the Shattering Palm ability. Shattering Palm has a cast time of 3 seconds, and when activated, your hero's melee attacks inflicts the Crippled affliction and critical stun effect, neither of which can be resisted, and your hero's melee attack gets +235 crushing damage. Shattering Palm has a duratino of 15 seconds or until the hero makes a melee attack and recovers in 3 minutes.
+Monk|10|Shattering Palm|Allows your hero to use the Shattering Palm ability. Shattering Palm has a cast time of 3 seconds, and when activated, your hero's melee attacks inflicts the Crippled affliction and critical stun effect, neither of which can be resisted, and your hero's melee attack gets +235 crushing damage. Shattering Palm has a duration of 15 seconds or until the hero makes a melee attack and recovers in 3 minutes.
 Monk|1|Throwing|Your hero receives no penalty when using throwable items. Also has ranged crushing attack when no weapon is equipped.
 Monk|1|Swiftness|+1 Attack Speed
 Monk|1|Ferocity|+0.50 to Combat Skill
 Monk|3|Chronomancy|Cast 1 spell of this sphere
 Monk|9|Evasion|+1 Combat penalty to attacking ranged units and buildings
 Monk|15|Warding|+0.5% to Armor for all your troops
-Monk|0|When your hero has no Body Armor equipped, they get +12 Running skill and +3 Swiftness skill. When your hero has no weapon equipped, their damage type becomes Crushing and they get +12 Ferocity skill and +3 Swiftness skill.
+Monk|0|Monastic Arts|When your hero has no Body Armor equipped, they get +12 Running skill and +3 Swiftness skill. When your hero has no weapon equipped, their damage type becomes Crushing and they get +12 Ferocity skill and +3 Swiftness skill.
