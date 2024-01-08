@@ -137,3 +137,26 @@ Plaguelords|1|Regeneration|+1 Life Regeneration
 Plaguelords|6|Purulence|+15% HP regeneration for units that can transmit Disease, Scourge, or Ghoulplague
 Plaguelords|12|Lore|+4 to Maximum Mana
 Plaguelords|20|Leech|Leech 0.25 times victim ASP mana from each opponent killed
+
+## Classes
+
+
+Class|Lvl|Name|Description
+---|---|---|---
+Alchemist|10|Reagents|Allows units you control to use the Quaff Healing Potion ability, which, when activated, heals the unit by 100 + 50HP per keep level. Quaff Healing Potion costs 75 crystal, recovers in 40 seconds.
+Alchemist|10|Chrysopoeia|Allows your hero to use the Chrysopoeia ability, which turns a selected buildin's resources production into gold production. Can be disenchanted at any time by recasting it on anything
+Alchemist|5|Magery|Your hero receives no penalty when using staffs. Also has a ranged elemental attack when no weapon is equipped.
+Alchemist|1|Alchemy|Cast 1 spell of this sphere
+Alchemist|1|Lore|+4 to Maximum Mana
+Alchemist|3|Ritual|+1 to Spell Level
+Alchemist|9|Metallurgy|+15% HP regeneration for Mechanical units
+Alchemist|15|Potionmaster|Health Potions give your hero +1 Resistance for a duration of 1 minute 30 seconds, and Mana Potions give your hero +1 Ritual skill for a duration of 15 seconds
+Alchemist|0|Wild Experimentation|Spells cost 25% less mana to cast but also cost an amount of resources equal to <mana cost of spell>*1.11
+Archmage|10|Sporadic Research|Allows your hero to use the Sporadic Research ability, which, when activated, gives your hero +1 Energy (max +10 per battle) after 50 seconds of staying garrisoned and not casting spells.
+Archmage|5|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Archmage|1|Spellshield|+6% damage reduction from spells
+Archmage|1|Leadership|+1 Morale for all sides
+Archmage|3|Lore|+4 to Maximum Mana
+Archmage|9|Marksmanship|Increased damage of ranged weapons by +1
+Archmage|15|Longevity|+6% to spell duration
+Archmage|0|Knowledge of the Spheres|You have all spell spheres unlocked
