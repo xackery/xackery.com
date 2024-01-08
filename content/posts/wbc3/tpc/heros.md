@@ -160,3 +160,59 @@ Archmage|3|Lore|+4 to Maximum Mana
 Archmage|9|Marksmanship|Increased damage of ranged weapons by +1
 Archmage|15|Longevity|+6% to spell duration
 Archmage|0|Knowledge of the Spheres|You have all spell spheres unlocked
+Assassin|10|Cloak of Shadows|Makes you Invisible unless you make n action (cast a spell, attack or convert) or move within a range of 4 of enemy units (In which the cloak will fade for 15 secs).
+Assassin|10|Anatomical Knowledge|Increases the Assassination chance by +5%, for a total of 25%.
+Assassin|0|No Ranged Skill|Assassins do not get a ranged perk.
+Assassin|1|Assassin|20% chance for an instant kill, if target is below 40 hp
+Assassin|1|Swiftness|+1 Attack Speed
+Assassin|3|Shadow Strength|+3 To Combat Skill at Night
+Assassin|9|Lethal Blow|Increases the assassination HP threshold by +14%
+Assassin|15|Evasion|+1 Combat penalty to attacking ranged units and buildings
+Bard|10|Beguiling Presence|Your hero gets an Awe aura of strength 12 and range 7.
+Bard|10|Dance of Wonders|When your hero casts a spell, it gets +10 combat and +5 speed for a duration equal to the mana cost of the casted spell. Duration stacks.
+Bard|1|Archery|Your hero receives no penalty when using bows. Also has ranged piercing attack when no weapon is equipped.
+Bard|1|Leadership|+1 to Morale for all sides
+Bard|1|Diplomacy|+1 extra Army Setup Points and discounts retinue costs ny +4% (max 90%)
+Bard|3|Wealth|+0.14 Gold per second and start off with +25 resources.
+Bard|9|Marksmanship|Increases damage of ranged weapons by +1
+Bard|15|Divination Magic|Cast 1 spell of this sphere
+Blightlord|10|Mutagens|Disease, Poison and Lethal Poisons your side inflicts degenerates 20% faster.
+Blightlord|10|Gift of Toxicity|Melee units you control get disease and poison strikes of strength 6. If a melee unit already had a disease or poison attack, instead, they gain +3 disease or poison strength respectively
+Blightlord|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Blightlord|1|Contagion Magic|Cast 1 spell of this sphere
+Blightlord|1|Poison Magic|Cast 1 spell of this sphere
+Blightlord|3|Ritual|+1 to Spell Level
+Blightlord|9|Hex|+7% affliction strength for hero spells
+Blightlord|15|+2% affliction strength for all non-hero afflictions you control (units, buildings, spells)
+Chieftain|10|Stampede|Cavalry units take 25% less time to produce.
+Chieftain|10|Cavalry Herald|Your hero gets +0.33 Running skill and +0.33 Swiftness skill for each Cavalry unit within their command radius, up to a maximum of +5 Running and +5 Swiftness.
+Chieftain|1|Throwing|Your hero receives no penalty when using throwable items. Also has ranged crushing attack when no weapon is equipped.
+Chieftain|1|Ferocity|+0.50 to Combat Skill
+Chieftain|1|Riding|+2 to XP for all cavalry
+Chieftain|3|Leadership|+1 to Morale for all sides
+Chieftain|9|Running|+0.33 to Speed
+Chieftain|15|Mighty Blow|+1 damage to each melee attack
+Chronomancer|10|Wave of Entropy|+3 second cast time to enemy abilities and spells when within your command radius.
+Chronomancer|10|Wave of Alacrity|Units you produce take 10% less time to produce.
+Chronomancer|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Chronomancer|1|Chronomancy|Cast 1 spell of this sphere
+Chronomancer|1|Ritual|+1 to Spell Level
+Chronomancer|3|Energy|+1 Mana Regeneration
+Chronomancer|9|Convincing|+8% faster conversion for your hero
+Chronomancer|15|Longevity|+6% to spell duration
+Daemonologist|10|Stable Conduit|Allows your hero to use the Stable Conduit ability, which gives a non-wall building you control a HP regen aura of +1000% for summoned units
+Daemonologist|10|Reality Tear|Whenever your hero casts Summon Quaist, Summon Imp, Summon Nightmare, Soulharvest or Daemongate, a Dimensional Breach entity is summoned that has a Fear aura of strength 10 and radius 8, and has a duration equal to <mana cost of cast spell>.
+Daemonologist|1|MAgery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Daemonologist|1|Summoning Magic|Cast 1 spell of this sphere
+Daemonologist|1|Ritual|+1 to Spell Level
+Daemonologist|3|Energy|+1 Mana Regeneration
+Daemonologist|9|Gate|+1.50 to XP for all summoned units
+Daemonologist|15|Occultism|+25% to Mana regeneration for units you control and unit abilities cooldown +25% faster
+Deathknight|10|Lord of the Dead|Allows your hero to use the Lord of the Dead ability, When activated, non-Mechanical units that your hero kills are raised as Undead units on your side. Has a duration of 15 seconds and recovers in 1 minute 30 seconds.
+Deathknight|10|Thirst for Power|When your hero kills a unit, it produces an Empowering Soul on your side. Each Empowering Soul gives your hero a bonus based on the army point cost of the unit killed and have a duration of 1 minute 30 seconds. Thrill for Power has a duration of 15 seconds and recovers in 1 minute 30 seconds.
+Deathknight|0|No Ranged Skill|Deathknights do not get a ranged perk.
+Deathknight|1|Ferocity|+0.50 to Combat Skill
+Deathknight|1|Cowardslayer|+5 to Damage vs Missile Units
+Deathknight|3|Necromancy|Cast 1 spell of this sphere
+Deathknight|9|Constitution|+15 to Life Points
+Deathknight|15|Leech|Leech +0.25 times victim ASP mana from each opponent killed
