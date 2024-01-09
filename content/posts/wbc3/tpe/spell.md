@@ -5,7 +5,9 @@ chapter: true
 ---
 
 AP is Ability Point Cost.
-Tier is 0 for the initial no pre-req spells. TT2 is top top tier column 2, TB2 is top bottom column 2. BT2 is bottom top column 2, BB2 is bottom bottm column 2.
+
+Tier is 0 for the initial no pre-req spells. When reading tiers, pay attention to the # for column, and first letter (T for Top, B for Bottom) for placement and pre-reqs.
+
 
 ## Healing
 
@@ -51,3 +53,34 @@ Nature|2|BT2|Wall of Thorns|17|Creates a wall of brambles that damages nearby en
 Nature|4|BB2|Summon Unicorns|29|Summons Unicorns to serve the caster (1 unit, +0.2 units per level)
 Nature|5|B3|Summon Treants|49|Summons Treants to serve the caster (1 unit, +0.2 units per level)
 Nature|6|4|Call of the Wild|55|The caster can choose one of the four Lairs to summon near him (and controls it from level 3)
+
+## Illusion
+
+School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
+Illusion|1|0|Shadowform|12|Changes nearby allies into ethereal beings (2 speed, 10% armor for 30 secs, +0.4 speed & +2% armor per level)
+Illusion|1|T1|Scare|10|8 living enemies seeing the caster becomes afraid (6 str, +0.35 str per level). Heroes resist lvl 1.
+Illusion|1|TT2|Awe|10|8 living enemies seeing the caster become in awe (9 str, +0.5 str per level). Heroes resist lvl 1.
+Illusion|2|TB2|Spectral Horde|20|Creates a group of illusionary warriors (3 units for 2 minutes, +0.6 units per level)
+Illusion|3|T3|Call Shadow|33|Summons a Shadow to serve the caster (1 unit, 0.2 xp levels per level)
+Illusion|2|B1|Light/Darkness|18|Changes day to night and night to day (1 min weatherlock, +7% weatherlock duration per level)
+Illusion|5|BT2|Dragonfear|50|Creates an illusionary Dragon which casts terror (1 unit for 2 minutes, +1 terror strength per level)
+Illusion|5|BB2|Invisibility|52|Makes 3 nearby friendly units invisible (30 seconds, +1 target per level)
+Illusion|5|B3|Doppelganger|54|Creates an illusionary copy of your hero which can convert (1 unit for 2 minutes, +1 minute per level)
+Illusion|7|4|Fools Gold|65|Creates an Illusionary Gold Mine on your side, giving +2.5 gold per second for 2 min 30 secs (+30 secs per level)
+
+## Necromancy
+
+School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
+Necromancy|1|0|Raise Skeleton|6|Raises a corpse as a Skeleton to serve the caster (1 unit, +0.2 units per level)
+Necromancy|1|T1|Raise Zombie|6|Raises a corpse as a Zombie to serve the caster (1 unit, +0.2 units per level)
+Necromancy|1|TT2|Raise Wight|9|Raises a corpse as a Wight to serve the caster (1 unit, +0.2 units per level)
+Necromancy|1|TB2|Raise Wraith|9|Raises a corpse as a Wraith to serve the caster (1 unit, +0.2 units per level)
+Necromancy|1|T3|Call the Dead|36|Raises corpses as Skeletons/Zombies to serve the caster (5 corpses, +1 corpse per level)
+Necromancy|2|B1|Black Portal|21|Summons a Black Portal with 5 corpses to aid in raising undead (1 minute, +10 secs & +1 corpse per level)
+Necromancy|3|BT2|Darkstorm|27|Changes day to night and makes it rain at higher levels (lev 2 Causes night and rain. Storms at level 3+)
+Necromancy|4|BB2|Vampirism|30|Gives 7 nearby friendly non-mechanical units vampirism (5 vampirism for 1 minute, +1 vampirism per level)
+Necromancy|4|B3|Strip Flesh|40|Turns 7 enemy infantry into skeletons (10 strength, +0.25 strength per level)
+Necromancy|7|4|Call Undead Lord|60|Summons a liche, reaper, doomknight or vampire to serve the caster (+0.2 xp levels per level)
+
