@@ -41,3 +41,13 @@ Summoning|8|4|Daemongate|75|Summons a Pit Fiend to serve the caster (1 unit, +0.
 
 School|AP|Tier|Name|Cost|Description
 ---|---|---|---|---|---
+Nature|1|0|Gemberry|10|Increases hp regeneration by +250% for 5 nearby friendly units for 10 secs(+37.5% hp regen per level)
+Nature|2|T1|Summon Animals|17|Summons neutral animals and grants their vision for 1 min (1 unit, +0.5 units per level)
+Nature|3|TT2|Change Weather|27|Allows the caster to affect night/day fine/rain (1 min weatherlock, +7% weatherlock duration per level)
+Nature|1|TB1|Summon Sprites|10|Summons Sprites to serve the caster (1 unit, +0.2 units per level)
+Nature|2|T3|Call Lightning|40|Calls lightning down upon 2 nearby enemy troops and buildings (235 electrical damage, +0.4 targets per level)
+Nature|2|B1|Entangle|15|Slows down 8 enemies who are near the caster (-2 speed for 30 seconds, -0.2 speed per level)
+Nature|2|BT2|Wall of Thorns|17|Creates a wall of brambles that damages nearby enemy units (+20% hp per level)
+Nature|4|BB2|Summon Unicorns|29|Summons Unicorns to serve the caster (1 unit, +0.2 units per level)
+Nature|5|B3|Summon Treants|49|Summons Treants to serve the caster (1 unit, +0.2 units per level)
+Nature|6|4|Call of the Wild|55|The caster can choose one of the four Lairs to summon near him (and controls it from level 3)
