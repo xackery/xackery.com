@@ -8,7 +8,9 @@ AP is Ability Point Cost.
 Tier is 0 for the initial no pre-req spells. TT2 is top top tier column 2, TB2 is top bottom column 2. BT2 is bottom top column 2, BB2 is bottom bottm column 2.
 
 ## Healing
+
 School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
 Healing|1|0|Heal Self|10|Heals 40 points of damage on the caster (+6 hp per level)
 Healing|1|T1|Cure|8|Cures disease and poison on 3d nearby friendly units (+0.5 targets per level)
 Healing|2|TT2|Blessing|20|Gives 5 nearby friendly, non-mechanical units +2 combat for defense only, +10 hp for 30 secs (+0.4 combat & 2 hp per level)
@@ -23,6 +25,7 @@ Healing|7|4|Resurrection|70|Rairses non-undead, non-mechanical units from the de
 ## Summoning
 
 School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
 Summoning|1|0|Summon Quasits|10|Summons Quasits to serve the caster (1 unit, +0.2 units per level)
 Summoning|2|T1|Circle of Power|16|Summons a Circle of Power to aid in summoning (1 minute, +10 secs per level)
 Summoning|3|TT2|Blink Group|25|Teleports the caster and 4 friendly units nearby to a designated location (+1 target per level)
@@ -33,3 +36,8 @@ Summoning|4|BT2|Summon Nightmares|42|Summons Nightmares to serve the caster (1 u
 Summoning|4|BB2|Warp Gate|33|Summons a Warp Gate which can garrison units and can be un-garrisoned at any other Warp Gate you control (1 min, +15 secons per level)
 Summoning|5|B3|Banish|50|Banishes 12 enemy extradimensional creatures. High level may resist (10 strength, +2 strength per level)
 Summoning|8|4|Daemongate|75|Summons a Pit Fiend to serve the caster (1 unit, +0.2 xp levels per level)
+
+## Nature
+
+School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
