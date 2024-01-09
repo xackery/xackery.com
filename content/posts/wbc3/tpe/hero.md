@@ -225,7 +225,7 @@ Defiler|1|Energy|+1 Mana Regeneration
 Defiler|9|Purulence|+15% HP regeneration for units that can transmit Disease, Scourge, or Ghoulplague
 Defiler|15|Execration|+2% affliction strength for all non-hero afflictions you control (units, buildings, spells)
 Dragonslayer|10|Dragontamer|Dragons cost 35% less.
-Dragonslayer|10|Allows your hero to use the Crippling Whirlwind ability. When activated, enemies within a radius of 4 of the hero receive damage equal to 1.5*<hero's damage> and make a roll against Crippled with a strength of 12. Crippling Whirlwind recovers in 3 minutes.
+Dragonslayer|10|Crippling Whirlwind|Allows your hero to use the Crippling Whirlwind ability. When activated, enemies within a radius of 4 of the hero receive damage equal to 1.5*<hero's damage> and make a roll against Crippled with a strength of 12. Crippling Whirlwind recovers in 3 minutes.
 Dragonslayer|1|Throwing|Your hero receives no penalty when using throwable items. Also has ranged crushing attack when no weapon is equipped.
 Dragonslayer|1|Sky Hunter|+8 Damage vs. Fliers
 Dragonslayer|1|Ferocity|+0.50 to Combat Skill
