@@ -31,12 +31,12 @@ languages:
           series: series
         menu:
             main:
+                - name: WBC3 TPE
+                  url: posts/wbc3/tpe
+                  weight: 1 
                 - name: 7 Days to Die
                   url: posts/7daystodie/
                   weight: 1
-                - name: NeverGrind Online
-                  url: posts/nevergrind/
-                  weight: 1 
                 - name: Archive
                   url: archives
                   weight: 5
