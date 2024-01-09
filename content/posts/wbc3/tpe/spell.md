@@ -47,7 +47,7 @@ Nature|1|0|Gemberry|10|Increases hp regeneration by +250% for 5 nearby friendly 
 Nature|2|T1|Summon Animals|17|Summons neutral animals and grants their vision for 1 min (1 unit, +0.5 units per level)
 Nature|3|TT2|Change Weather|27|Allows the caster to affect night/day fine/rain (1 min weatherlock, +7% weatherlock duration per level)
 Nature|1|TB1|Summon Sprites|10|Summons Sprites to serve the caster (1 unit, +0.2 units per level)
-Nature|2|T3|Call Lightning|40|Calls lightning down upon 2 nearby enemy troops and buildings (235 electrical damage, +0.4 targets per level)
+Nature|4|T3|Call Lightning|40|Calls lightning down upon 2 nearby enemy troops and buildings (235 electrical damage, +0.4 targets per level)
 Nature|2|B1|Entangle|15|Slows down 8 enemies who are near the caster (-2 speed for 30 seconds, -0.2 speed per level)
 Nature|2|BT2|Wall of Thorns|17|Creates a wall of brambles that damages nearby enemy units (+20% hp per level)
 Nature|4|BB2|Summon Unicorns|29|Summons Unicorns to serve the caster (1 unit, +0.2 units per level)
@@ -80,7 +80,21 @@ Necromancy|1|TB2|Raise Wraith|9|Raises a corpse as a Wraith to serve the caster 
 Necromancy|1|T3|Call the Dead|36|Raises corpses as Skeletons/Zombies to serve the caster (5 corpses, +1 corpse per level)
 Necromancy|2|B1|Black Portal|21|Summons a Black Portal with 5 corpses to aid in raising undead (1 minute, +10 secs & +1 corpse per level)
 Necromancy|3|BT2|Darkstorm|27|Changes day to night and makes it rain at higher levels (lev 2 Causes night and rain. Storms at level 3+)
-Necromancy|4|BB2|Vampirism|30|Gives 7 nearby friendly non-mechanical units vampirism (5 vampirism for 1 minute, +1 vampirism per level)
+Necromancy|3|BB2|Vampirism|30|Gives 7 nearby friendly non-mechanical units vampirism (5 vampirism for 1 minute, +1 vampirism per level)
 Necromancy|4|B3|Strip Flesh|40|Turns 7 enemy infantry into skeletons (10 strength, +0.25 strength per level)
 Necromancy|7|4|Call Undead Lord|60|Summons a liche, reaper, doomknight or vampire to serve the caster (+0.2 xp levels per level)
 
+## Pyromancy
+
+School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
+Pyromancy|1|0|Hand of Flame|10|Enchants the caster, giving +20 fire damage for 5 seconds (+1 sec per level)
+Pyromancy|1|T1|Rites of Dawn|14|Changes weaher into daytime fine (1 min weatherlock, +7% weatherlock duration per level)
+Pyromancy|1|TT2|Resist Fire|11|8 friendly units become highly resistant to fire (25% resistance for 1 minute, +1 target per level)
+Pyromancy|3|TB2|Fireball|33|Launches a ball of fire which explodes at the target location (50 fire damage, +10 per level)
+Pyromancy|5|T3|Sunfall|45|Calls down pillars of fire to hit nearby enemies (175 fire damage on 3 targets, +0.6 targets per level)
+Pyromancy|2|B1|Cauterize|17|Heals 8 nearby, friendly, non-mechanical units (25 hp, +5 hp per level)
+Pyromancy|4|BT2|Conflagration|35|Sets 5 nearby enemy buildings on fire (22 fire damage/sec for 15 sec, +4.5 damage per level)
+Pyromancy|3|BB2|Firebreath|30|Gives 3 nearby melee units firebreath attacks (half damage & 2 range for 15 secs, + 0.6 targets per level)
+Pyromancy|4|B3|Firecall|35|Summons a Fire Elemental to serve the caster (1 unit, +0.2 xp levels per level)
+Pyromancy|8|4|Armageddon|75|Calls a meteor down on target location dealing 90 fire damage on a radius of 7 (1 meteor, + 0.2 meteors per level)
