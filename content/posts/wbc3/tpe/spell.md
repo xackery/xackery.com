@@ -98,3 +98,33 @@ Pyromancy|4|BT2|Conflagration|35|Sets 5 nearby enemy buildings on fire (22 fire 
 Pyromancy|3|BB2|Firebreath|30|Gives 3 nearby melee units firebreath attacks (half damage & 2 range for 15 secs, + 0.6 targets per level)
 Pyromancy|4|B3|Firecall|35|Summons a Fire Elemental to serve the caster (1 unit, +0.2 xp levels per level)
 Pyromancy|8|4|Armageddon|75|Calls a meteor down on target location dealing 90 fire damage on a radius of 7 (1 meteor, + 0.2 meteors per level)
+
+## Alchemy
+
+School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
+Alchemy|1|0|Create Item|28|Creates an item for the caster to use (+0.1 rarity & +500 durability per level)
+Alchemy|1|T1|Transmute|22|Exchanges one type of resource for another (50% exchange rate, +2% per level, max 90%)
+Alchemy|1|TT2|Charm|10|Gives a small discount on all purchases (+4 merchant skill for 50 secs, +0.5 merchant skill per level)
+Alchemy|3|TB2|Stone Golem|28|Summons Stone Golems to serve the caster (1 unit, +0.2 units per level)
+Alchemy|4|T3|Spellforge|40|Renders items useless for enemy heroes and doubles the power of caster's items. Does not affect mana abilities.
+Alchemy|2|B1|Repair Items|15|Repairs all items inthe backpack (+1000 durability per level, can improve items from level 3)
+Alchemy|3|BT2|Brew Potions|31|Creates healing potions for the caster (1 potion, +0.2 potions per level)
+Alchemy|2|BB2|Acquire|Instantly converts mines near the caster (1 mine, +0.2 mines per level)
+Alchemy|4|B3|Bronze Golem|60|Summons a Bronze Golem to serve the caster (1 unit, +0.2 xp levels per level)
+Alchemy|7|4|Create War Machine|35|Creates a Siege Weapon to serve the caster (1 unit, +0.2 xp levels per level)
+
+## Geomancy
+
+School|AP|Tier|Name|Cost|Description
+---|---|---|---|---|---
+Geomancy|1|0|Stoneskin|28|Greatly increases 5 friendly units' armor rating vs all physical attacks (+25% physical armor for 1 minute, +1 target per level)
+Geomancy|2|T1|Earthpower|18|Repairs 1 friendly building in the caster's command radius (850hp, +0.2 targets per level)
+Geomancy|1|TT2|Major Repair|45|Repairs 4 friendly buildings on the map (550hp, +0.8 targets per level)
+Geomancy|3|TB2|Doomstones|16|Creates large rocks which strike 3 nearby enemies (65 crushing damage, +12.5 damage per level)
+Geomancy|4|T3|Reconstruction|40|Restores a nearby friendly non-wall building from a pile of rubble (affects enemies from level 3, +0.2 buildings per level)
+Geomancy|2|B1|Undermine|8|Reduces armor of buildings near the caster (-25% armor for 30 seconds, +0.15 targets per level)
+Geomancy|3|BT2|Homeguard|30|A friendly non-Mine building gets 20 crushing damage and 8 range for 1 minute
+Geomancy|5|BB2|Summon Guardian|45|Summons a Guardian Statue to protect your lands (+20% hp per level)
+Geomancy|4|B3|Earthcall|35|Summons an Earth Elemental to serve the caster (1 unit, +0.2 xp levels per level)
+Geomancy|8|4|Earthquake|75|Stuns and deals 40 crushing damage to all enemies near the caster (+10 damage per level)
