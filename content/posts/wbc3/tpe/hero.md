@@ -344,8 +344,8 @@ Pyromancer|1|Pyromancy|Cast 1 spell of this sphere
 Pyromancer|1|Ritual|+1 to Spell Level
 Pyromancer|3|Energy|+1 Mana Regeneration
 Pyromancer|9|Smelting|+0.14 Metal per second and start off with +25 resources  
-Pyromancer|15|DEstruction|+6% to spell damage
-Ranger|Wild Allegiance|Allows your hero to use the Wild Allegiance ability. When activated, a Lair within your ommand radius is converted to your side. Wild Allegiance recovers in 3 minutes.
+Pyromancer|15|Destruction|+6% to spell damage
+Ranger|10|Wild Allegiance|Allows your hero to use the Wild Allegiance ability. When activated, a Lair within your ommand radius is converted to your side. Wild Allegiance recovers in 3 minutes.
 Ranger|10|Camouflage|Your hero becomes invisible in cover unless they make an attack (attack, cast spell etc.), in which case the invisibility fades for 15 seconds.
 Ranger|1|Archery|Your hero receives no penalty when using bows. Also has ranged piercing attack when no weapon is equipped.
 Ranger|1|Running|+0.33 to Speed
