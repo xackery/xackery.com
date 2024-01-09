@@ -321,3 +321,101 @@ Monk|3|Chronomancy|Cast 1 spell of this sphere
 Monk|9|Evasion|+1 Combat penalty to attacking ranged units and buildings
 Monk|15|Warding|+0.5% to Armor for all your troops
 Monk|0|Monastic Arts|When your hero has no Body Armor equipped, they get +12 Running skill and +3 Swiftness skill. When your hero has no weapon equipped, their damage type becomes Crushing and they get +12 Ferocity skill and +3 Swiftness skill.
+Necromancer|10|Evil Eye|Allows your hero to use the EVil Eye ability. When activated, target a location within your spell radius. All enemy units & heroes within ar adius of 4 of the target location become paralyzed as if the damage dealt was 75. Evil Eye recovers in 3 minutes.
+Necromancer|10|Deathmark|When an enemy kills a unit you control within the command radius of your hero, the enemy makes a resistance check against Scourge with a strength of 11.
+Necromancer|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Necromancer|1|Necromancy|Cast 1 spell of this sphere
+Necromancer|1|Ritual|+1 to Spell Level
+Necromancer|3|Energy|+1 Mana Regeneration
+Necromancer|9|Gate|+1.50 to XP for all summoned units
+Necromancer|15|Occultism|+25% to Mana regeneration for units you control and unit abilities cooldown +25% faster
+Priest|10|Blind Devotion|Units you control within your command radius get +20 Morale and +5 Resistance when your hero is garrisoned.
+Priest|10|Consecrated Ground|Buildings you control within your command radius get +25% armour vs all damage types.
+Priest|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Priest|1|Healing Magic|Cast 1 spell of this sphere
+Priest|1|Ritual|+1 to Spell Level
+Priest|3|Divination Magic|Cast 1 spell of this sphere
+Priest|9|Lore|+4 to Maximum Mana
+Priest|15|Occultism|+25% to Mana regeneration for units you control and unit abilities cooldown +25% faster
+Pyromancer|10|Burn to Ashes|Your hero gains a critical burn aura with a radius of 6 and inflicts fire damage as if the damage dealt was 30
+Pyromancer|10|Primal Terror|Whenever your side inflicts a critical burn on an enemy (except with the Burn to Ashes perk), they make a resistance check against Terror with a strength of 10.
+Pyromancer|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Pyromancer|1|Pyromancy|Cast 1 spell of this sphere
+Pyromancer|1|Ritual|+1 to Spell Level
+Pyromancer|3|Energy|+1 Mana Regeneration
+Pyromancer|9|Smelting|+0.14 Metal per second and start off with +25 resources  
+Pyromancer|15|DEstruction|+6% to spell damage
+Ranger|Wild Allegiance|Allows your hero to use the Wild Allegiance ability. When activated, a Lair within your ommand radius is converted to your side. Wild Allegiance recovers in 3 minutes.
+Ranger|10|Camouflage|Your hero becomes invisible in cover unless they make an attack (attack, cast spell etc.), in which case the invisibility fades for 15 seconds.
+Ranger|1|Archery|Your hero receives no penalty when using bows. Also has ranged piercing attack when no weapon is equipped.
+Ranger|1|Running|+0.33 to Speed
+Ranger|1|Marksmanship|Increases damage of ranged weapons by +1
+Ranger|3|Nature Magic|Cast 1 spell of this sphere
+Ranger|9|Winds of Nature|+1 to the ability level of Galesinger's Volley
+Ranger|15|Bow Mastery|+1% chance to cast Multi-Target when using a bow
+Ranger|0|Woodcraft|When your hero casts a Nature magic spell, they gain an amount of Woodcraft equal to the mana cost of the cast spell. Woodcraft can be used to cast Galesinger's VOlley, which increases caster's attack speed by +7.5% per level for 5 seconds.
+Rogue|10|Criminal Underworld|Allows your hero to use the Criminal Underworld ability. When activated, target a nearby building you control. That building receives an effect which reduces the cost of units and research by 75%. Criminal Underworld has a duration of 1 minute 10 seconds, costs 150 gold and recovers in 3 minutes.
+Rogue|10|Immobilizing Blow|Allows your hero to use the Immobilizing Blow ability. When activated, your hero's melee attack inflicts the Entangled and CRippled afflictions with no chance to resist and your hero's melee attack gets +160 damage. Immobilizing Blow has a duration of 15 seconds or until the hero makes a melee attack and recovers in 3 minutes.
+Rogue|1|Archery|Your hero receives no penalty when using bows. Also has ranged piercing attack when no weapon is equipped.
+Rogue|1|Ferocity|+0.50 to Combat Skill
+Rogue|1|Pillaging|When your hero kills a unit, you gain 3% the unit kill's resource cost
+Rogue|3|Regeneration|+1 Life Regeneration
+Rogue|9|Frugal Investor|+0.74% Discount on purchases and start off with +6 resources
+Rogue|15|Weaponmaster|+12% item power effect
+Runemaster|10|Earthshaping|Buildings you construct are built 20% faster.
+Runemaster|10|Stonemasonry|Buildings you construct cost 10% less.
+Runemaster|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Runemaster|1|Geomancy|Cast 1 spell of this sphere
+Runemaster|1|Ritual|+1 to Spell Level
+Runemaster|3|Lore|+4 to Maximum Mana
+Runemaster|9|Quarrying|+0.14 Stone per second and start off with +25 resources
+Runemaster|15|Engineer|+3% Life Points & Damage for Buildings and +1 Build Skill for your hero
+Shaman|10|Spiritual Disruption|Allows your hero to use the Spiritual Disruption ability. When activated, target a location within your spell radius. All enemies within a radius of 5 of the target location receive the Break Spirit critical effect. Spiritual Disruption recovers in 3 minutes.
+Shaman|10|Spiritual Dance|Allows your hero to use the Spiritual Dance toggle ability. When activated, your hero can't attack, move or use an ability/spell. Whilst activated, a Wraith is spawned adjacent to your hero every 5 seconds. Wraiths spawned this way have the Autonomous affliction, are set to guard the hero and don't take up any AL. A maximum of 7+0.5*(<hero level>-1) Wraiths can be spawned with this ability at any one time.
+Shaman|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Shaman|1|Chaos Magic|Cast 1 spell of this sphere
+Shaman|1|Ritual|+1 to Spell Level
+Shaman|3|Warding|+0.5% to Armor for all your troops
+Shaman|9|Energy|+1 Mana Regeneration
+Shaman|15|Occultism|+25% to Mana regeneration for units you control and unit abilities cooldown +25% faster
+Thief|10|Steal Item|Your hero has a 8% chance per hit that they steal a random item from an enemy hero (the item goes to your hero's backpack). Also gives +20% chance to steal items from shops.
+Thief|10|Clandestine Disguise|Allows your hero to use the Self Invisibility ability, which is the same as the unit ability Invisibility (as seen on the Shadow), except that it has no crystal cost and recovers in 3 minutes.
+Thief|0|No Ranged Skill|Thieves do not get a ranged perk.
+Thief|1|Thievery|20% chance to steal +2 of each resource type on hit
+Thief|1|Ferocity|+0.50 to Combat Skill
+Thief|3|Running|+0.33 to Speed
+Thief|9|Insurgence|Buildings you control are +8% harder for enemies to convert
+Thief|15|Convincing|+8% faster conversion for your hero
+Tinker|10|Frenzied Mechanic|Allows your hero to use the Frenzied Mechanic ability. When activated, the hero receives a timer of 30 seconds. When the timer has been completed, the Stone Golem, Bronze Golem, and Create War Machine spells cost 35 less Mana to cast and get +4 to spell levels. This ability can only be activated if garrisoned, and is cancelled if the hero un-garrisons or casts a spell. Frenzied Mechanic recovers in 3 minutes.
+Tinker|10|Experimental Mechanisms|Buildings you control within your command radius get +15 Morale.
+Tinker|0|No Ranged Skill|Tinkers do not get a ranged perk.
+Tinker|1|Engineer|+3% Life Points & Damage for Buildings and +1 Build Skill for your hero
+Tinker|1|Metallurgy|+15% HP regeneration for Mechanical units
+Tinker|3|Quarrying|+0.14 Stone per second and start off with +25 resources
+Tinker|9|Alchemy|Cast 1 spell of this sphere
+Tinker|15|Smelting|+0.14 Metal per second and start off with +25 resources
+Venomancer|10|Tainted Miasma|Poison your side inflicts degenerates 40% faster.
+Venomancer|10|Gift of Venom|Melee units you control get poison strikes of strength 9. If a melee unit already had a poison attack, instead, they gain +3 poison strength.
+Venomancer|1|Magery|Your hero receives no penalty when using staffs. Also has ranged elemental attack when no weapon is equipped.
+Venomancer|1|Poison Magic|Cast 1 spell of this sphere
+Venomancer|1|Ritual|+1 to Spell Level
+Venomancer|3|Energy|+1 Mana Regeneration
+Venomancer|9|Coil|+1 Morale and +3% Speed for units with Poison or Lethal Poison (does not apply to gains via spells or perks)
+Venomancer|15|Execration|+2% affliction strength for all non-hero afflictions you control (units, buildings, spells)
+Warlock|10|Death's Edge|If your hero has less than 66% of its total HP, it gets +50% Damage. If it has less than 33% of its total HP, instead, it gets +250% Damage.
+Warlock|10|Dark Ritual|All Summoning and Chaos spells, except Circle of Power, are affected by your Circle Power, instead of just unit-summoning spells.
+Warlock|0|No Ranged Skill|Warlocks do not get a ranged perk.
+Warlock|1|Summoning Magic|Cast 1 spell of this sphere
+Warlock|1|Lore|+4 to Maximum Mana
+Warlock|3|Chaos Magic|Cast 1 spell of this sphere
+Warlock|9|Regeneration|+1 Life Regeneration
+Warlock|15|Constitution|+15 to Life Points
+Warlock|0|Bloodrite|Spells cost +3.75*their Mana cost in HP. When the Warlock reaches Max Mana, their Mana is removed and they are healed twice the amount of Mana removed. Cannot be healed by spells/abilities.
+Warrior|10|Master of Arms|Your hero gains splash attack which deal 20% of its Damage to neighbouring cells to the left and right of the target.
+Warrior|10|Berserk Rage|Allows your hero to use the Berserk Rage ability. When activated, your hero gets +140% Damage and +100% attack speed for a duration of 10 seconds. Berserk Rage recovers in 3 minutes.
+Warrior|0|No Ranged Skill|Warriors do not get a ranged perk.
+Warrior|1|Ferocity|+0.50 to Combat Skill
+Warrior|1|Constitution|+15 to Life Points
+Warrior|3|Regeneration|+1 Life Regeneration
+Warrior|9|Weaponmaster|+12% item power effect
+Warrior|15|Mighty Blow|+1 damage to each melee attack
