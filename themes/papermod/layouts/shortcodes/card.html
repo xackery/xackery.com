@@ -1,0 +1,26 @@
+<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mb-4">
+    <div class="card h-100 bg-faded-light">
+        <div class="card-body toc">
+            <h3 id="{{ .Get "name"}}" class="title text-center">{{ .Get "name" }}</h3>
+            <div class="flex-container" style="display: flex;">
+                <div class="col-md-4" style="flex-basis: 33.33%; max-width: 33.33%;">
+                    <p class="fs-6 p-01">Combat: {{ .Get "combat" }}</p>
+                    <p class="fs-6 p-01">HP: {{ .Get "hp" }}</p>
+                    <p class="fs-6 p-01">Speed: {{ .Get "speed" }}</p>
+                    <p class="fs-6 p-01">Attack Ground: {{ .Get "ground" }}, Air: {{ .Get "air" }}</p>                    
+                </div>
+                <div class="col-md-4" style="flex-basis: 33.33%; max-width: 33.33%;">
+                    <p class="fs-6 p-01">Damage: {{ .Get "min" }}-{{ .Get "max"}} {{ .Get "type" }}</p>
+                    <p class="fs-6 p-01">Resistance: {{ .Get "resistance" }}</p>
+                    <p class="fs-6 p-01">View: {{ .Get "view" }}</p>
+                    <p class="fs-6 p-01">Resists: {{ .Get "resists" }}</p>
+                </div>
+                <div class="col-md-4" style="flex-basis: 33.33%; max-width: 33.33%;">
+                    <p class="fs-6 p-01">ID: {{ .Get "code"}}</p>
+                    <p class="fs-6 p-01">{{ .Get "strong" }}</p>
+                    <p class="fs-6 p-01">Flags: {{ .Get "flag" }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
