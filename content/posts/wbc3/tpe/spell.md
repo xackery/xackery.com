@@ -4,6 +4,8 @@ weight: 0
 chapter: true
 ---
 
+This was last updated for TPE 0.9
+
 AP is Ability Point Cost.
 
 Tier is 0 for the initial no pre-req spells. When reading tiers, pay attention to the # for column, and first letter (T for Top, B for Bottom) for placement and pre-reqs.
