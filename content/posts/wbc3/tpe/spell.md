@@ -38,7 +38,7 @@ Chaos|2|TB2|<img src="/tpe/spell/94.png">|Berserker|15|Burns 3 friendly living u
 Chaos|3|T3|<img src="/tpe/spell/97.png">|Shamanic Call|25|Summons a shaman to serve the caster (1 unit, +0.2 xp levels per level)
 Chaos|3|B1|<img src="/tpe/spell/92.png">|Arcana Curse|25|Casts a random offensive spell from another spell sphere (+1 cast spell level per level)
 Chaos|1|BT2|<img src="/tpe/spell/95.png">|Silence|6|Silences, with a strength of 12, 7 enemy units nearby (+0.7 strength per level)
-Chaos|4|BB2|<img src="/tpe/spell/96.png">|Whispers of Madness|40|RAndomly changes 8 units' sides with a strength of 10 (+0.5 strength per level)
+Chaos|4|BB2|<img src="/tpe/spell/96.png">|Whispers of Madness|40|Randomly changes 8 units' sides with a strength of 10 (+0.5 strength per level)
 Chaos|5|B3|<img src="/tpe/spell/98.png">|Transform|45|Changes 5 friendly units near the caster into something strong (+0.2 ASP value per level)
 Chaos|8|4|<img src="/tpe/spell/99.png">|Mutate|75|Turns 6 enemy units into harmless animals with a strength of 16 (+1.2 targets per level)
 
