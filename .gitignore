@@ -3,3 +3,4 @@ public/
 *.log
 .hugo_build.lock
 resources
+static/tpe/raw
