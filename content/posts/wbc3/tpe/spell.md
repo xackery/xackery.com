@@ -22,7 +22,7 @@ Alchemy|3|TB2|Stone Golem|28|Summons Stone Golems to serve the caster (1 unit, +
 Alchemy|4|T3|Spellforge|40|Renders items useless for enemy heroes and doubles the power of caster's items. Does not affect mana abilities.
 Alchemy|1|B1|Repair Items|15|Repairs all items inthe backpack (+1000 durability per level, can improve items from level 3)
 Alchemy|3|BT2|Brew Potions|31|Creates healing potions for the caster (1 potion, +0.2 potions per level)
-Alchemy|2|BB2|Acquire|Instantly converts mines near the caster (1 mine, +0.2 mines per level)
+Alchemy|2|BB2|Acquire|20|Instantly converts mines near the caster (1 mine, +0.2 mines per level)
 Alchemy|8|B3|Bronze Golem|60|Summons a Bronze Golem to serve the caster (1 unit, +0.2 xp levels per level)
 Alchemy|4|4|Create War Machine|35|Creates a Siege Weapon to serve the caster (1 unit, +0.2 xp levels per level)
 
@@ -99,7 +99,7 @@ Divination|3|TT2|Telepathy|25|Newly produced troops gain XP (+1 xp level for 15 
 Divination|1|TB2|Calm|13|Removes all psych effects on 3 units near the caster, giving them courage (+0.6 targets per level)
 Divination|4|T3|Scry|40|Caster gains line of sight of all enemy units and buildings for 10 secs (+2 secs per level)
 Divination|2|B1|Mind Leech|15|Caster gains an aura which gives the ability to steal XP from foes for 30 secs(3 xp, +0.6 xp per level)
-Divination|3|BT2|Comprehension|Researches are discounted by 15% for 35 secs (+1% discount per level)
+Divination|3|BT2|Comprehension|25|Researches are discounted by 15% for 35 secs (+1% discount per level)
 Divination|5|BB2|Call Mage|45|Summons a Sage, Mage, Oracle or Augur (1 unit, +0.2 xp levels per level)
 Divination|5|B3|Psychic Blast|45|All nearby enemies are stunned, reducing their combat stat by 45% for a few seconds (8 seconds, +5 per level)
 Divination|7|4|Divine Peace|70|All heroes, units and buildings cannot attack, cast spells or convert within a radius of 12 of the target location (30 seconds, 12 radius, +1.8 radius per level)
