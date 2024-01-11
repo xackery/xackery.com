@@ -46,31 +46,31 @@ Chaos|8|4|<img src="/tpe/spell/99.png">|Mutate|75|Turns 6 enemy units into harml
 
 School|AP|Tier|Icon|Name|Cost|Description
 ---|---|---|---|---|---|---
-Chronomancy|1|0|Weatherlock|12|Weather cannot change for 2 minutes (+8 seconds per level)
-Chronomancy|1|T1|Wisdom of Age|18|Up to 5 nearby friendly non-mechanical units get +5XP, up to a maximum of 10XP (+1XP & +2 max XP per level)
-Chronomancy|2|TT2|Slow|30|Decreases speed and attack speed of 8 nearby enemy units (-2 speed & -3.5% a.spd for 30 secs, -0.2 speed, -0.7% a.spd per level)
-Chronomancy|2|TB2|Haste|30|Increases speed and attack speed of 8 nearby friendly units (+2 speed & +3.5% a.spd for 30 secs, +0.2 speed, +0.7% a.spd per level)
-Chronomancy|3|T3|Reset|60|Fully heals and cures up to 3 nearby target friendly heroes, units or buildings (+0.6 targets per level)
-Chronomancy|2|B1|Overwork|18|Increaes your unit & building resource production by 15% for 20 seconds (+4 secs per level)
-Chronomancy|3|BT2|Foresight|11|Increases combat of 3 nearby friendly non-mech troops and saves them from death once (+1 combat for 30 secs, +0.2 combat per level)
-Chronomancy|4|BB2|Industrial Age|20|Targetted friendly building produces everything 35% faster for 40 seconds (+8 secs per level). Buildings still under construction are built 50% faster
-Chronomancy|4|B3|Chronostrutter|37|Slows down the whole world but quadruples the caster's speed/attackspeed (6 secs, +1.2 secs per level)
-Chronomancy|8|4|Disintegrate|75|Instantly kills 7 living enemy troops (12 strength, +0.65 strength per level)
+Chronomancy|1|0|<img src="/tpe/spell/130.png">|Weatherlock|12|Weather cannot change for 2 minutes (+8 seconds per level)
+Chronomancy|1|T1|<img src="/tpe/spell/131.png">|Wisdom of Age|18|Up to 5 nearby friendly non-mechanical units get +5XP, up to a maximum of 10XP (+1XP & +2 max XP per level)
+Chronomancy|2|TT2|<img src="/tpe/spell/133.png">|Slow|30|Decreases speed and attack speed of 8 nearby enemy units (-2 speed & -3.5% a.spd for 30 secs, -0.2 speed, -0.7% a.spd per level)
+Chronomancy|2|TB2|<img src="/tpe/spell/134.png">|Haste|30|Increases speed and attack speed of 8 nearby friendly units (+2 speed & +3.5% a.spd for 30 secs, +0.2 speed, +0.7% a.spd per level)
+Chronomancy|3|T3|<img src="/tpe/spell/137.png">|Reset|60|Fully heals and cures up to 3 nearby target friendly heroes, units or buildings (+0.6 targets per level)
+Chronomancy|2|B1|<img src="/tpe/spell/132.png">|Overwork|18|Increaes your unit & building resource production by 15% for 20 seconds (+4 secs per level)
+Chronomancy|3|BT2|<img src="/tpe/spell/135.png">|Foresight|11|Increases combat of 3 nearby friendly non-mech troops and saves them from death once (+1 combat for 30 secs, +0.2 combat per level)
+Chronomancy|4|BB2|<img src="/tpe/spell/136.png">|Industrial Age|20|Targetted friendly building produces everything 35% faster for 40 seconds (+8 secs per level). Buildings still under construction are built 50% faster
+Chronomancy|4|B3|<img src="/tpe/spell/138.png">|Chronostrutter|37|Slows down the whole world but quadruples the caster's speed/attackspeed (6 secs, +1.2 secs per level)
+Chronomancy|8|4|<img src="/tpe/spell/139.png">|Disintegrate|75|Instantly kills 7 living enemy troops (12 strength, +0.65 strength per level)
 
 ## Contagion
 
 School|AP|Tier|Icon|Name|Cost|Description
 ---|---|---|---|---|---|---
-Contagion|1|0|Epidemic|18|Inflicts disease on nearby enemy buildings (+100% range, +50% range per level)
-Contagion|1|T1|Poison Cloud|20|Diseases all living enemies within the caster's command radius (+50% range per level)
-Contagion|2|TT2|Antidote|18|Cures all poison and disease on units in the caster's command radius (+50% range per level)
-Contagion|1|TB2|Breakdown|10|Nearby enemy units get their resistance reduced for a time (-4 res, 1min, -2 resistance, +1 min per level)
-Contagion|3|T3|Call of Oros|8|Summons an Eye of Oros, a Gazer, a Spore or a Contaminator (1 unit, +0.2 xp levels per level)
-Contagion|4|B1|Detonating Sac|40|Friendly units gain explosive deaths for 20 secs (3 targets, +0.6 targets per level)
-Contagion|3|BT2|Sickening Touch|30|Creatures near the caster gain a Disease attack (100 disease strg & +3 dam for 1 min, +1 dm & +1 min/lev)
-Contagion|4|BB2|Decay|13|Decreases army limit for all enemies on the map depending on keep level (-12 to -60 food, -3 to -15 food, +1 minute per level)
-Contagion|4|B3|Curse of K'Oulis|40|Turns enemy infantry into ghouls (affects units of lower than two times the spell's level)
-Contagion|8|4|Rot|75|Nearby enemy units have their hit points halved and are diseased (+25% range per level)
+Contagion|1|0|<img src="/tpe/spell/140.png">|Epidemic|18|Inflicts disease on nearby enemy buildings (+100% range, +50% range per level)
+Contagion|1|T1|<img src="/tpe/spell/141.png">|Plague Cloud|20|Diseases all living enemies within the caster's command radius (+50% range per level)
+Contagion|2|TT2|<img src="/tpe/spell/143.png">|Antidote|18|Cures all poison and disease on units in the caster's command radius (+50% range per level)
+Contagion|1|TB2|<img src="/tpe/spell/144.png">|Breakdown|10|Nearby enemy units get their resistance reduced for a time (-4 res, 1min, -2 resistance, +1 min per level)
+Contagion|3|T3|<img src="/tpe/spell/147.png">|Call of Oros|8|Summons an Eye of Oros, a Gazer, a Spore or a Contaminator (1 unit, +0.2 xp levels per level)
+Contagion|4|B1|<img src="/tpe/spell/142.png">|Detonating Sac|40|Friendly units gain explosive deaths for 20 secs (3 targets, +0.6 targets per level)
+Contagion|3|BT2|<img src="/tpe/spell/145.png">|Sickening Touch|30|Creatures near the caster gain a Disease attack (100 disease strg & +3 dam for 1 min, +1 dm & +1 min/lev)
+Contagion|4|BB2|<img src="/tpe/spell/146.png">|Decay|13|Decreases army limit for all enemies on the map depending on keep level (-12 to -60 food, -3 to -15 food, +1 minute per level)
+Contagion|4|B3|<img src="/tpe/spell/148.png">|Curse of K'Oulis|40|Turns enemy infantry into ghouls (affects units of lower than two times the spell's level)
+Contagion|8|4|<img src="/tpe/spell/149.png">|Rot|75|Nearby enemy units have their hit points halved and are diseased (+25% range per level)
 
 
 ## Cryomancy
