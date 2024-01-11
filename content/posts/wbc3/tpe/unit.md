@@ -4,17 +4,19 @@ weight: 0
 chapter: true
 layout: data
 ---
-{{< card code="AAAA" name="Archangel" combat="8" hp="1300" speed="11" min="85" max="105" type="Magic" range="0" air="Y" ground="Y" resistance="20" view="10" resists="0,0,0,0,0,0,25" strong="Excellent versus all infrantry" flag="Large, Neutral, Flying, Extra-Planar, Advanced, Awe (20 str, 6 r)" weak="">}}
+{{< card code="AAAA" name="Archangel" combat="8" hp="1300" speed="11" min="85" max="105" type="Magic" range="0" air="Y" ground="Y" resistance="20" view="10" resists="0,0,0,0,0,0,25" strong="Excellent versus all infrantry" flag="Large, Neutral, Flying, Extra-Planar, Advanced, Awe (20 str, 6 r)">}}
 
-{{< card code="AAAR" name="Archon" combat="7" hp="480" speed="11" min="35" max="45" type="Fire" range="0" air="Y" ground="Y" resistance="18" view="10" resists="0,0,0,0,0,0,0" strong="Excellent versus all infrantry" flag="Average, Neutral, Flying, Extra-Planar, Melee, Advanced, Infrantry, Spellcaster, Awe (6 str, 4 r.)" weak="">}}
+{{< card code="AAAR" name="Archon" combat="7" hp="480" speed="11" min="35" max="45" type="Fire" range="0" air="Y" ground="Y" resistance="18" view="10" resists="0,0,0,0,0,0,0" strong="Excellent versus all infrantry" flag="Average, Neutral, Flying, Extra-Planar, Melee, Advanced, Infrantry, Spellcaster, Awe (6 str, 4 r.)">}}
 
-{{< card code="AABA" name="Giant Bat" combat="1" hp="27" speed="16" min="4" max="6" type="Slashing" range="0" air="N" ground="N" resistance="7" view="6" resists="0,0,0,0,0,0,0" strong="None" flag="Small, Neutral, Flying, Monstrous, Melee, Cavalry, Disease Immunity, Disease attacks (2 str)" weak="">}}
+{{< card code="AABA" name="Giant Bat" combat="1" hp="27" speed="16" min="4" max="6" type="Slashing" range="0" air="N" ground="N" resistance="7" view="6" resists="0,0,0,0,0,0,0" strong="None" flag="Small, Neutral, Flying, Monstrous, Melee, Cavalry, Disease Immunity, Disease attacks (2 str)">}}
 
-{{< card code="AABP" name="Dark Pegasus" combat="5" hp="165" speed="15" min="21" max="29" type="Ice" range="0" air="Y" ground="Y" resistance="12" view="15" resists="-25,0,0,0,0,0,0" flag="Excellent versus small/medium missile" strong="Large, Neutral, Flying, Daemon, Extra-Planar, Melee, Advanced, Cavalry, Fear (7 str, 4 r.)" weak="">}}
+{{< card code="AABP" name="Dark Pegasus" combat="5" hp="165" speed="15" min="21" max="29" type="Ice" range="0" air="Y" ground="Y" resistance="12" view="15" resists="-25,0,0,0,0,0,0" strong="Excellent versus small/medium missile" flag="Large, Neutral, Flying, Daemon, Extra-Planar, Melee, Advanced, Cavalry, Fear (7 str, 4 r.)">}}
 
-AABX|Engineer
 
-AACG|Clay Golem
+{{< card code="AABX" name="Engineer" combat="2" hp="93" speed="6" min="5" max="9" type="Crushing" range="0" air="N" ground="Y" resistance="13" view="8" resists="-25,25,0,0,0,0,0" strong="None" flag="Small, Neutral, Grounded, Dark Dwarf, Melee, Infrantry, Build (12 skill), Miner (2 eff.)">}}
+
+
+{{< card code="AACG" name="Clay Golem" combat="3" hp="132" speed="7" min="12" max="16" type="Crushing" range="0" air="N" ground="Y" resistance="11" view="8" resists="25,0,0,0,0,0,0" strong="Excellent versus small/medium Spearmen" flag="Large, Neutral, Grounded, Mechanical, Melee, Advanced, Infantry, Disease Immunity, Scourge Immunity, Ghoulplague Immunity, Poison Immunity">}}
 
 AADB|Storm Dragon
 
