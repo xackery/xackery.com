@@ -20,16 +20,19 @@
                 <div class="col-md-4" style="flex-basis: 33.33%; max-width: 33.33%;">
                     <p class="fs-6 p-01">Speed: {{ .Get "speed" }}</p>
                     <p class="fs-6 p-01">Damage: {{ .Get "min" }}-{{ .Get "max"}} {{ .Get "type" }}</p>
-                    <p class="fs-6 p-01">Attack Ground: {{ .Get "ground" }}, Air: {{ .Get "air" }}</p>                    
+                    <p class="fs-6 p-01">Attack: {{ .Get "attacktype" }}</p>                    
                     <p class="fs-6 p-01">Resistance: {{ .Get "resistance" }}</p>
                     <p class="fs-6 p-01">View: {{ .Get "view" }}</p>
                     <p class="fs-6 p-01">Resists: {{ .Get "resists" }}</p>
+                    <p> -- advanced --</p>
+                    <p class="fs-6 p-01">Movement Type: {{ .Get "movementtype" }}</p>
                 </div>
                 <div class="col-md-4" style="flex-basis: 33.33%; max-width: 33.33%;">
                     <p class="fs-6 p-01">General: {{ .Get "general" }}</p>
                     <p class="fs-6 p-01">Advanced: {{ .Get "advanced" }}</p>
                     <p class="fs-6 p-01">{{ .Get "strong" }}</p>
                     <p class="fs-6 p-01">Alignment: {{ .Get "alignment" }}</p>
+                    <p class="fs-6 p-01">Cost: {{ .Get "cost" }}</p>
                     <p class="fs-6 p-01">Flags: {{ .Get "flag" }}</p>
                 </div>
             </div>
