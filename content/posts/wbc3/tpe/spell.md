@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 ---
 
-This was last updated for TPE 0.9
+This was last updated for TPE 0.9.1 ([Changes](https://github.com/xackery/xackery.com/commit/532abc54e9dd3bcfab2dfc85f69a26e9a86259da))
 
 AP is Ability Point Cost.
 

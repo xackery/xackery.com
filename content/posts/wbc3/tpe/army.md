@@ -7,7 +7,7 @@ layout: data
 
 NOTICE! This is still heavily work in progress! Expect bugs. :)
 
-This was last updated for TPE 0.9.1
+This was last updated for TPE 0.9.1 ([Changelog](https://github.com/xackery/xackery.com/commit/a3ce10d4831f4d617c3ab055b565abb797fd0619))
 
 
 ### Barbarian
