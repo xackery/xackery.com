@@ -35,7 +35,7 @@ Chaos|1|0|<img src="/tpe/spell/90.png">|Wild Bolt|10|Deals 20 random elemental d
 Chaos|2|T1|<img src="/tpe/spell/91.png">|Morph Stats|20|Randomly increase stats of nearby friendly units or decrease for enemies
 Chaos|3|TT2|<img src="/tpe/spell/93.png">|Chaos Plague|30|6 nearby enemy units are affected by random affliction of strength 15 (+1 target per level)
 Chaos|2|TB2|<img src="/tpe/spell/94.png">|Berserker|15|Burns 3 friendly living units and makes them fight better for 15 seconds(+3 combat & +2 speed & -1 vampirism, +0.6 targets per level)
-Chaos|3|T3|<img src="/tpe/spell/97.png">|Shamanic Call|25|Summons a shaman to serve the caster (1 unit, +0.2 xp levels per level)
+Chaos|3|T3|<img src="/tpe/spell/97.png">|Shamanic Call|12|Summons a shaman to serve the caster (1 unit, +0.2 xp levels per level)
 Chaos|3|B1|<img src="/tpe/spell/92.png">|Arcana Curse|25|Casts a random offensive spell from another spell sphere (+1 cast spell level per level)
 Chaos|1|BT2|<img src="/tpe/spell/95.png">|Silence|6|Silences, with a strength of 12, 7 enemy units nearby (+0.7 strength per level)
 Chaos|4|BB2|<img src="/tpe/spell/96.png">|Whispers of Madness|40|Randomly changes 8 units' sides with a strength of 10 (+0.5 strength per level)
@@ -63,14 +63,14 @@ School|AP|Tier|Icon|Name|Cost|Description
 ---|---|---|---|---|---|---
 Contagion|1|0|<img src="/tpe/spell/140.png">|Epidemic|18|Inflicts disease on nearby enemy buildings (+100% range, +50% range per level)
 Contagion|1|T1|<img src="/tpe/spell/141.png">|Plague Cloud|20|Diseases all living enemies within the caster's command radius (+50% range per level)
-Contagion|2|TT2|<img src="/tpe/spell/143.png">|Antidote|18|Cures all poison and disease on units in the caster's command radius (+50% range per level)
+Contagion|2|TT2|<img src="/tpe/spell/143.png">|Antidote|18|5 nearby friendly units are cured of poison, disease, lethal poison, scourge and ghoulplague (+1 target per level)
 Contagion|1|TB2|<img src="/tpe/spell/144.png">|Breakdown|10|Nearby enemy units get their resistance reduced for a time (-4 res, 1min, -2 resistance, +1 min per level)
 Contagion|3|T3|<img src="/tpe/spell/147.png">|Call of Oros|8|Summons an Eye of Oros, a Gazer, a Spore or a Contaminator (1 unit, +0.2 xp levels per level)
 Contagion|4|B1|<img src="/tpe/spell/142.png">|Detonating Sac|40|Friendly units gain explosive deaths for 20 secs (3 targets, +0.6 targets per level)
 Contagion|3|BT2|<img src="/tpe/spell/145.png">|Sickening Touch|30|Creatures near the caster gain a Disease attack (100 disease strg & +3 dam for 1 min, +1 dm & +1 min/lev)
 Contagion|4|BB2|<img src="/tpe/spell/146.png">|Decay|13|Decreases army limit for all enemies on the map depending on keep level (-12 to -60 food, -3 to -15 food, +1 minute per level)
-Contagion|4|B3|<img src="/tpe/spell/148.png">|Curse of K'Oulis|40|Turns enemy infantry into ghouls (affects units of lower than two times the spell's level)
-Contagion|8|4|<img src="/tpe/spell/149.png">|Rot|75|Nearby enemy units have their hit points halved and are diseased (+25% range per level)
+Contagion|4|B3|<img src="/tpe/spell/148.png">|Curse of K'Oulis|40|Turns 5 non-mechanical, non-undead enemies into neutral ghouls (10 strength, +1 target per level)
+Contagion|8|4|<img src="/tpe/spell/149.png">|Rot|75|Nearby enemy units have their hit points halved and are diseased (+0.6 targets per level)
 
 
 ## Cryomancy
@@ -79,11 +79,11 @@ School|AP|Tier|Icon|Name|Cost|Description
 ---|---|---|---|---|---|---
 Cryomancy|1|0|<img src="/tpe/spell/80.png">|Hand of Ice|10|Enchants the caster, giving +20 cold damage for 5 seconds (+1 sec per level)
 Cryomancy|2|T1|<img src="/tpe/spell/81.png">|Snowfall|18|Alters fine weather to snowfall and blizzards (1 min weatherlock, +7% weatherlock duration per level)
-Cryomancy|3|TT2|<img src="/tpe/spell/83.png">|Freeze|30|Freezes 5 nearby enemies and inflicts frostbites with a stregnth of 13 (+1 target per level)
+Cryomancy|3|TT2|<img src="/tpe/spell/83.png">|Freeze|30|Freezes 5 nearby enemy units (as if the damage dealt was 30) and inflicts frostbites with a stregnth of 13 (+1 target per level)
 Cryomancy|3|TB2|<img src="/tpe/spell/84.png">|Ring of Ice|33|A hail of ice surrounds the caster, causing damage (50 cold damage, +10 damage per level)
 Cryomancy|4|T3|<img src="/tpe/spell/87.png">|Ice Incarnate|40|Turns the caster into an avatar of ice with cold attacks for 2 minutes (+4.5% stats per level)
 Cryomancy|1|B1|<img src="/tpe/spell/82.png">|Resist Ice|11|Makes 5 nearby friendly units highly resistant to cold-based attacks (+25% cold armor for 1 min, +1 target per level)
-Cryomancy|4|BT2|<img src="/tpe/spell/85.png">|Wall of Ice|20|Summons a small section of an icy wall, increasing Watercall if nearby (Lasts 10 minutes, +10 minutes and +100 HP per additional level)
+Cryomancy|4|BT2|<img src="/tpe/spell/85.png">|Wall of Ice|20|Summons a Wall of Ice which has a Freeze aura of strength 13 and range 5 as if the damage dealt was 20 (+20% HP per additional level)
 Cryomancy|4|BB2|<img src="/tpe/spell/86.png">|Frostblade|40|3 nearby friendly units gain armor & cold damage (+20% armor & +10% cold damage for 30 secs, +0.6 targets per level)
 Cryomancy|4|B3|<img src="/tpe/spell/88.png">|Watercall|35|Summons a Water Elemental to serve the caster (1 unit, +0.2 xp levels per level)
 Cryomancy|8|4|<img src="/tpe/spell/89.png">|Glaciate|75|Strikes enemy units with a powerful hail of ice, freezing & frostbiting the survivors (50 cold damage, +18 damage per level)
@@ -99,9 +99,9 @@ Divination|3|TT2|<img src="/tpe/spell/113.png">|Telepathy|25|Newly produced troo
 Divination|1|TB2|<img src="/tpe/spell/114.png">|Calm|13|Removes all psych effects on 3 units near the caster, giving them courage (+0.6 targets per level)
 Divination|4|T3|<img src="/tpe/spell/117.png">|Scry|40|Caster gains line of sight of all enemy units and buildings for 10 secs (+2 secs per level)
 Divination|2|B1|<img src="/tpe/spell/112.png">|Mind Leech|15|Caster gains an aura which gives the ability to steal XP from foes for 30 secs(3 xp, +0.6 xp per level)
-Divination|3|BT2|<img src="/tpe/spell/115.png">|Comprehension|25|Researches are discounted by 15% for 35 secs (+1% discount per level)
+Divination|3|BT2|<img src="/tpe/spell/115.png">|Comprehension|25|Researches are discounted by 15% (to a max of 75%) for 35 secs (+1% discount per level)
 Divination|5|BB2|<img src="/tpe/spell/116.png">|Call Mage|45|Summons a Sage, Mage, Oracle or Augur (1 unit, +0.2 xp levels per level)
-Divination|5|B3|<img src="/tpe/spell/118.png">|Psychic Blast|45|All nearby enemies are stunned, reducing their combat stat by 45% for a few seconds (8 seconds, +5 per level)
+Divination|5|B3|<img src="/tpe/spell/118.png">|Psychic Blast|45|Creates an aura that stuns nearby enemies as if the damage dealt was 35 (10 seconds, +2 per level)
 Divination|7|4|<img src="/tpe/spell/119.png">|Divine Peace|70|All heroes, units and buildings cannot attack, cast spells or convert within a radius of 12 of the target location (30 seconds, 12 radius, +1.8 radius per level)
 
 
@@ -127,12 +127,12 @@ School|AP|Tier|Icon|Name|Cost|Description
 ---|---|---|---|---|---|---
 Healing|1|0|<img src="/tpe/spell/0.png">|Heal Self|10|Heals 40 points of damage on the caster (+6 hp per level)
 Healing|1|T1|<img src="/tpe/spell/1.png">|Cure|8|Cures disease and poison on 3d nearby friendly units (+0.5 targets per level)
-Healing|2|TT2|<img src="/tpe/spell/3.png">|Blessing|20|Gives 5 nearby friendly, non-mechanical units +2 combat for defense only, +10 hp for 30 secs (+0.4 combat & 2 hp per level)
-Healing|4|TB2|<img src="/tpe/spell/4.png">|Heal Group|42|Heals 10 nearby friendly units (+50 hp, +10hp per level)
+Healing|2|TT2|<img src="/tpe/spell/3.png">|Blessing|20|Gives 8 nearby friendly, non-mechanical units +3 combat for defense only, +15 hp for 30 secs (+0.6 combat & +3 hp per level)
+Healing|4|TB2|<img src="/tpe/spell/4.png">|Heal Group|28|Heals 10 nearby friendly units (+50 hp, +10hp per level)
 Healing|4|T3|<img src="/tpe/spell/7.png">|Life Ward|40|Protects a hero against death in battle (2 mins, 30 secs & 200 hp upon revival, +40 hp per level)
-Healing|2|B1|<img src="/tpe/spell/2.png">|White Ward|15|Protects 6 friendly units from psychological effects (5 res for 30 secs, +1 res per level)
+Healing|2|B1|<img src="/tpe/spell/2.png">|White Ward|15|Protects 10 friendly units from psychological effects (5 res for 30 secs, +1 res per level)
 Healing|2|BT2|<img src="/tpe/spell/5.png">|Purify|20|Holy energy strikes 3 nearby enemy units and brings out the sun (70 magic dam, +14 per level)
-Healing|5|BB2|<img src="/tpe/spell/6.png">|Major Healing|50|Heals and cures 8 friendly units on the map (50 hp, +1.6 targets per level)
+Healing|5|BB2|<img src="/tpe/spell/6.png">|Major Healing|10|Heals and cures 10 friendly units on the map (50 hp, +2.4 targets per level)
 Healing|8|B3|<img src="/tpe/spell/8.png">|Call Archon|75|Summons an Archon to serve the caster (1 unit, +0.2 xp levels per level)
 Healing|7|4|<img src="/tpe/spell/9.png">|Resurrection|70|Raises non-undead, non-mechanical units from the dead (1315 worth of hp, +270 hp per level)
 
@@ -180,14 +180,14 @@ Necromancy|1|T3|<img src="/tpe/spell/47.png">|Call the Dead|36|Raises corpses as
 Necromancy|2|B1|<img src="/tpe/spell/42.png">|Black Portal|21|Summons a Black Portal with 5 corpses to aid in raising undead (1 minute, +10 secs & +1 corpse per level)
 Necromancy|3|BT2|<img src="/tpe/spell/45.png">|Darkstorm|27|Changes day to night and makes it rain at higher levels (lev 2 Causes night and rain. Storms at level 3+)
 Necromancy|3|BB2|<img src="/tpe/spell/46.png">|Vampirism|30|Gives 7 nearby friendly non-mechanical units vampirism (5 vampirism for 1 minute, +1 vampirism per level)
-Necromancy|4|B3|<img src="/tpe/spell/48.png">|Strip Flesh|40|Turns 7 enemy infantry into skeletons (10 strength, +0.25 strength per level)
+Necromancy|4|B3|<img src="/tpe/spell/48.png">|Strip Flesh|40|Turns 7 non-mechanical, non-undead enemies into neutral skeletons (10 strength, +0.25 strength per level)
 Necromancy|7|4|<img src="/tpe/spell/49.png">|Call Undead Lord|60|Summons a liche, reaper, doomknight or vampire to serve the caster (+0.2 xp levels per level)
 
 ## Poison
 
 School|AP|Tier|Icon|Name|Cost|Description
 ---|---|---|---|---|---|---
-Poison|1|0|<img src="/tpe/spell/100.png">|Immunity|12|3 nearby friendly units become immune to poison to disease for 30 seconds (+0.6 targets per level)
+Poison|1|0|<img src="/tpe/spell/100.png">|Immunity|12|3 nearby friendly units become immune to poison, disease, lethal poison, scourage and ghoulplague for 30 seconds (+0.6 targets per level)
 Poison|2|T1|<img src="/tpe/spell/101.png">|Poison Cloud|20|Poisons all living enemies within the caster's command radius (+50% range, +5% chance to lethally poison per level)
 Poison|2|TT2|<img src="/tpe/spell/103.png">|Mycotopia|18|Summons a poisonous Spore Fungus on the caster's side at a nearby target location (+0.75 poison strength per level)
 Poison|3|TB2|<img src="/tpe/spell/104.png">|Venom Touch|30|3 creatures within the caster's command radius gain a poison attack of 10 strength and +10% magic damage for 30 seconds(+0.6 targets per level)
@@ -207,7 +207,7 @@ Pyromancy|1|T1|<img src="/tpe/spell/51.png">|Rites of Dawn|14|Changes weaher int
 Pyromancy|1|TT2|<img src="/tpe/spell/53.png">|Resist Fire|11|8 friendly units become highly resistant to fire (25% resistance for 1 minute, +1 target per level)
 Pyromancy|3|TB2|<img src="/tpe/spell/54.png">|Fireball|33|Launches a ball of fire which explodes at the target location (50 fire damage, +10 per level)
 Pyromancy|5|T3|<img src="/tpe/spell/57.png">|Sunfall|45|Calls down pillars of fire to hit nearby enemies (175 fire damage on 3 targets, +0.6 targets per level)
-Pyromancy|2|B1|<img src="/tpe/spell/52.png">|Cauterize|17|Heals 8 nearby, friendly, non-mechanical units (25 hp, +5 hp per level)
+Pyromancy|2|B1|<img src="/tpe/spell/52.png">|Cauterize|12|Heals 8 nearby, friendly, non-mechanical units (25 hp, +5 hp per level)
 Pyromancy|4|BT2|<img src="/tpe/spell/55.png">|Conflagration|35|Sets 5 nearby enemy buildings on fire (22 fire damage/sec for 15 sec, +4.5 damage per level)
 Pyromancy|3|BB2|<img src="/tpe/spell/56.png">|Firebreath|30|Gives 3 nearby melee units firebreath attacks (half damage & 2 range for 15 secs, + 0.6 targets per level)
 Pyromancy|4|B3|<img src="/tpe/spell/58.png">|Firecall|35|Summons a Fire Elemental to serve the caster (1 unit, +0.2 xp levels per level)
@@ -222,7 +222,7 @@ Summoning|2|T1|<img src="/tpe/spell/11.png">|Circle of Power|16|Summons a Circle
 Summoning|3|TT2|<img src="/tpe/spell/13.png">|Blink Group|25|Teleports the caster and 4 friendly units nearby to a designated location (+1 target per level)
 Summoning|1|TB1|<img src="/tpe/spell/14.png">|Summon Imps|10|Summons Imps to serve the caster (1 unit, +0.2 units per level)
 Summoning|2|T3|<img src="/tpe/spell/17.png">|Soulharvest|20|Summons a Succubus to serve the caster (1 unit, +0.2 xp levels per level)
-Summoning|2|B1|<img src="/tpe/spell/12.png">|Corruption|0|When an enemy casts a summoning spell, you get a copy of that spell if you have enough mana (2 mins 45 secs, +20 secs per level)
+Summoning|2|B1|<img src="/tpe/spell/12.png">|Corruption|0|When an enemy casts a summoning spell, you get a copy of that spell if you have enough mana (2 min 45 secs, +20 secs per level)
 Summoning|4|BT2|<img src="/tpe/spell/15.png">|Summon Nightmares|42|Summons Nightmares to serve the caster (1 unit, +0.2 units per level)
 Summoning|4|BB2|<img src="/tpe/spell/16.png">|Warp Gate|33|Summons a Warp Gate which can garrison units and can be un-garrisoned at any other Warp Gate you control (1 min, +15 secons per level)
 Summoning|5|B3|<img src="/tpe/spell/18.png">|Banish|50|Banishes 12 enemy extradimensional creatures. High level may resist (10 strength, +2 strength per level)
