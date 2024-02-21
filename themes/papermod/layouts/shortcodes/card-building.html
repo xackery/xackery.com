@@ -14,6 +14,7 @@
                     <p class="fs-6 p-01">Race: {{ .Get "race" }}</p>
                     <p class="fs-6 p-01">Combat: {{ .Get "combat" }}</p>
                     <p class="fs-6 p-01">HP: {{ .Get "hp" }}</p>
+                    <p class="fs-6 p-01">Seconds To Produce: {{ .Get "secondstoproduce" }}</p>
                 </div>
                 <div class="col-md-4" style="flex-basis: 33.33%; max-width: 33.33%;">
                     <p class="fs-6 p-01">Damage: {{ if .Get "min"}}{{ .Get "min" }}-{{ .Get "max"}} {{ .Get "type" }}{{else}}None{{end}}</p>
