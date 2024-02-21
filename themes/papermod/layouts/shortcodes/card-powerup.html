@@ -1,0 +1,21 @@
+<div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mb-4">
+    <div class="card h-100 bg-faded-light">
+        <div class="card-body toc">
+            <div class="flex-container" style="display: flex; align-items: left; justify-content: left;">
+                <img src="{{ .Get "image" }}" alt="" style="flex-basis: 10%; max-width: 64px; height: 64px; align-self: left; border: 1px solid gray;">
+                <div class="spacer" style="flex-basis: 20px"></div>
+                <p id="{{ .Get "name"}}" style="flex-basis:85%; align-self: center">{{ .Get "name" }}</p>
+            </div>
+            
+
+            <div class="flex-container" style="display: flex;">
+                <div class="col-md-4" style="flex-basis: 100%; max-width: 100%;">
+                    <p class="fs-6 p-01">ID: {{ .Get "code"}}</p>
+                    <p class="fs-6 p-01">{{ .Get "requirement" }}</p>
+                    <p class="fs-6 p-01">{{ .Get "description" }}</p>
+                    <p class="fs-6 p-01">Hotkey: {{ .Get "hkey" }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
