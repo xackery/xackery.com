@@ -5,6 +5,23 @@ chapter: true
 layout: data
 ---
 
+temporary dump of icons: <i class="xa xa-lightning-storm"></i>
+<i class="xa xa-flaming-claw"></i>
+<i class="xa xa-anvil"></i>
+<i class="xa xa-dripping-blade"></i>
+<i class="xa xa-beer"></i>
+<i class="xa xa-lion"></i>
+<i class="xa xa-fairy"></i>
+<i class="xa xa-dragon"></i>
+<i class="xa xa-helmet"></i>
+<i class="xa xa-horns"></i>
+<i class="xa xa-blade-bite"></i>
+<i class="xa xa-eye-monster"></i>
+<i class="xa xa-dinosaur"></i>
+<i class="xa xa-beetle"></i>
+<i class="xa xa-skull"></i>
+<i class="xa xa-leaf"></i>
+
 Race|Faction|Description
 ---|---|---
 <i class="xa xa-lightning-storm"></i> Barbarian|[Alfheim, the Lost Valley](/posts/wbc3/tpe/faction/alfheim)|
