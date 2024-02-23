@@ -5,23 +5,6 @@ chapter: true
 layout: data
 ---
 
-temporary dump of icons: <i class="xa xa-lightning-storm"></i>
-<i class="xa xa-flaming-claw"></i>
-<i class="xa xa-anvil"></i>
-<i class="xa xa-dripping-blade"></i>
-<i class="xa xa-beer"></i>
-<i class="xa xa-lion"></i>
-<i class="xa xa-fairy"></i>
-<i class="xa xa-dragon"></i>
-<i class="xa xa-helmet"></i>
-<i class="xa xa-horns"></i>
-<i class="xa xa-blade-bite"></i>
-<i class="xa xa-eye-monster"></i>
-<i class="xa xa-dinosaur"></i>
-<i class="xa xa-beetle"></i>
-<i class="xa xa-skull"></i>
-<i class="xa xa-leaf"></i>
-
 Race|Faction|Description
 ---|---|---
 <i class="xa xa-lightning-storm"></i> Barbarian|[Alfheim, the Lost Valley](/posts/wbc3/tpe/faction/alfheim)|
@@ -33,8 +16,8 @@ Race|Faction|Description
 <i class="xa xa-flaming-claw"></i> Daemon|[Hadesha, World of Nightmares](/posts/wbc3/tpe/faction/hadesha)|
 <i class="xa xa-flaming-claw"></i> Daemon|[The Dark Path](/posts/wbc3/tpe/faction/darkpath)|
 <i class="xa xa-flaming-claw"></i> Daemon|[The Iron Fortress](/posts/wbc3/tpe/faction/ironfortress)|
-<i class="xa xa-anvil"></i> Dark Dwarf|[Khaz-Tor, the Cursed Empire](/posts/wbc3/tpe/faction/khaztor)|
-<i class="xa xa-anvil"></i> Dark Dwarf|[The Verkanian Coalition](/posts/wbc3/tpe/faction/verkanian)|
+<i class="xa xa-gear-hammer"></i> Dark Dwarf|[Khaz-Tor, the Cursed Empire](/posts/wbc3/tpe/faction/khaztor)|
+<i class="xa xa-gear-hammer"></i> Dark Dwarf|[The Verkanian Coalition](/posts/wbc3/tpe/faction/verkanian)|
 <i class="xa xa-dripping-blade"></i> Dark Elf|[Archanon](/posts/wbc3/tpe/faction/archanon)|
 <i class="xa xa-dripping-blade"></i> Dark Elf|[Doomwood, The Dark Forest](/posts/wbc3/tpe/faction/doomwood)|
 <i class="xa xa-dripping-blade"></i> Dark Elf|[Tierremar, Land of Eternal Grief](/posts/wbc3/tpe/faction/tierremar)|
@@ -43,16 +26,16 @@ Race|Faction|Description
 <i class="xa xa-beer"></i> Dwarf|[Holy City of Duernoth](/posts/wbc3/tpe/faction/duernoth)|
 <i class="xa xa-beer"></i> Dwarf|[Khamar, City of Artifice](/posts/wbc3/tpe/faction/khamar)|
 <i class="xa xa-beer"></i> Dwarf|[Khaz Agar](/posts/wbc3/tpe/faction/khazagar)|
-<i class="xa xa-lion"></i> Empire|[Diraqine Empire](/posts/wbc3/tpe/faction/diraqine)|
-<i class="xa xa-lion"></i> Empire|[Merchant State of Goldor](/posts/wbc3/tpe/faction/goldor)|
-<i class="xa xa-lion"></i> Empire|[New Lysean Empire](/posts/wbc3/tpe/faction/newlysean)|
-<i class="xa xa-lion"></i> Empire|[Selentine Empire](/posts/wbc3/tpe/faction/selentine)|
-<i class="xa xa-lion"></i> Empire|[Thalassian Empire](/posts/wbc3/tpe/faction/thalassian)|
+<i class="xa xa-queen-crown"></i> Empire|[Diraqine Empire](/posts/wbc3/tpe/faction/diraqine)|
+<i class="xa xa-queen-crown"></i> Empire|[Merchant State of Goldor](/posts/wbc3/tpe/faction/goldor)|
+<i class="xa xa-queen-crown"></i> Empire|[New Lysean Empire](/posts/wbc3/tpe/faction/newlysean)|
+<i class="xa xa-queen-crown"></i> Empire|[Selentine Empire](/posts/wbc3/tpe/faction/selentine)|
+<i class="xa xa-queen-crown"></i> Empire|[Thalassian Empire](/posts/wbc3/tpe/faction/thalassian)|
 <i class="xa xa-fairy"></i> Fey|[Sacred Guard of Vivellius Madra](/posts/wbc3/tpe/faction/vivellius)|
 <i class="xa xa-fairy"></i> Fey|[The Old Ones](/posts/wbc3/tpe/faction/oldones)|
-<i class="xa xa-dragon"></i> High Elf|[Ehlariel, Citadel of Ice](/posts/wbc3/tpe/faction/ehlariel)|
-<i class="xa xa-dragon"></i> High Elf|[Isle of Lunarion](/posts/wbc3/tpe/faction/lunarion)|
-<i class="xa xa-dragon"></i> High Elf|[The White Council](/posts/wbc3/tpe/faction/whitecouncil)|
+<i class="xa xa-moon-sun"></i> High Elf|[Ehlariel, Citadel of Ice](/posts/wbc3/tpe/faction/ehlariel)|
+<i class="xa xa-moon-sun"></i> High Elf|[Isle of Lunarion](/posts/wbc3/tpe/faction/lunarion)|
+<i class="xa xa-moon-sun"></i> High Elf|[The White Council](/posts/wbc3/tpe/faction/whitecouncil)|
 <i class="xa xa-helmet"></i> Knight|[Crownsmen of Bartonia](/posts/wbc3/tpe/faction/bartonia)|
 <i class="xa xa-helmet"></i> Knight|[Crusaders of Mirea](/posts/wbc3/tpe/faction/mirea)|
 <i class="xa xa-helmet"></i> Knight|[Longbowmen of Elenia](/posts/wbc3/tpe/faction/elenia)|
@@ -73,9 +56,9 @@ Race|Faction|Description
 <i class="xa xa-eye-monster"></i> Plaguelords|[Gol-Draaka](/posts/wbc3/tpe/faction/goldraaka)|
 <i class="xa xa-eye-monster"></i> Plaguelords|[Plaguebearers of Treb T'lar](/posts/wbc3/tpe/faction/trebtlar)|
 <i class="xa xa-eye-monster"></i> Plaguelords|[Revenants of K'Oulis](/posts/wbc3/tpe/faction/koulis)|
-<i class="xa xa-dinosaur"></i> Ssrathi|[Night Ssrathi of Tzicolotl](/posts/wbc3/tpe/faction/tzicolotl)|
-<i class="xa xa-dinosaur"></i> Ssrathi|[Sun Ssrathi of Kalpaxotl](/posts/wbc3/tpe/faction/kalpaxotl)|
-<i class="xa xa-dinosaur"></i> Ssrathi|[Tongu, the Blessed Haven](/posts/wbc3/tpe/faction/tongu)|
+<i class="xa xa-gecko"></i> Ssrathi|[Night Ssrathi of Tzicolotl](/posts/wbc3/tpe/faction/tzicolotl)|
+<i class="xa xa-gecko"></i> Ssrathi|[Sun Ssrathi of Kalpaxotl](/posts/wbc3/tpe/faction/kalpaxotl)|
+<i class="xa xa-gecko"></i> Ssrathi|[Tongu, the Blessed Haven](/posts/wbc3/tpe/faction/tongu)|
 <i class="xa xa-beetle"></i> Swarm|[Famra, the Mouth of Hunger](/posts/wbc3/tpe/faction/famra)|
 <i class="xa xa-beetle"></i> Swarm|[The Fertilum Sect](/posts/wbc3/tpe/faction/fertilum)|
 <i class="xa xa-beetle"></i> Swarm|[The Kagh'ri Sect](/posts/wbc3/tpe/faction/kaghri)|

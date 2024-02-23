@@ -17,7 +17,7 @@ This was last updated for TPE 0.9.1
 - Adds [<i class="xa xa-aura"></i>Blending](#PBLE) to [<i class="xa xa-tower"></i>Altar of Fecundity](#BPSQ)
 - Removes [<i class="xa xa-aura"></i>Morale (III)](#PMO2) from [<i class="xa xa-tower"></i>Altar of Fecundity](#BPSQ)
 - Adds [<i class="xa xa-aura"></i>Arachnid Dexterity](#PACD) to [<i class="xa xa-tower"></i>Altar of Fecundity](#BPSQ)
-- Removes [<i class="xa xa-player"></i>Frost Dragon](#AADW) from [<i class="xa xa-tower"></i>Brood](#BAE2)
+- Removes [<i class="xa xa-player"></i>Night Dragon](#AADN) from [<i class="xa xa-tower"></i>Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i>Swamp Dragon](#AADG) to [<i class="xa xa-tower"></i>Brood](#BAE2)
 - Removes [<i class="xa xa-aura"></i>Hollow Reawakening](#PMTH) from [<i class="xa xa-tower"></i>Dunekeep](#BKR0)
 - Adds [<i class="xa xa-aura"></i>Profane Venomancy](#PPFV) to [<i class="xa xa-tower"></i>Dunekeep](#BKR0)

@@ -29,11 +29,11 @@ This was last updated for TPE 0.9.1
 - Adds [<i class="xa xa-player"></i>Battering Ram](#ASBA) to [<i class="xa xa-tower"></i>Cess Pool](#BACP)
 - Removes [<i class="xa xa-aura"></i>Necrophagous Cannibalism](#PNCC) from [<i class="xa xa-tower"></i>Hall of Plague](#BKG0)
 - Adds [<i class="xa xa-aura"></i>Rimechant](#PRCH) to [<i class="xa xa-tower"></i>Hall of Plague](#BKG0)
-- Removes [<i class="xa xa-player"></i>Black Pegasus](#AABP) from [<i class="xa xa-tower"></i>Brood](#BAE1)
+- Removes [<i class="xa xa-player"></i>Griffon](#AARI) from [<i class="xa xa-tower"></i>Brood](#BAE1)
 - Adds [<i class="xa xa-player"></i>Harpy](#AAHA) to [<i class="xa xa-tower"></i>Brood](#BAE1)
 - Removes [<i class="xa xa-player"></i>Frost Dragon](#AADW) from [<i class="xa xa-tower"></i>Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i>Dragonliche](#AADU) to [<i class="xa xa-tower"></i>Brood](#BAE2)
-- Removes [<i class="xa xa-player"></i>Night Dragon](#AADN) from [<i class="xa xa-tower"></i>Brood](#BAE2)
+- Removes [<i class="xa xa-player"></i>Swamp Dragon](#AADG) from [<i class="xa xa-tower"></i>Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i>Frost Dragon](#AADW) to [<i class="xa xa-tower"></i>Brood](#BAE2)
 ### Units
 

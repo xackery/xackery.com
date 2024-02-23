@@ -11,7 +11,7 @@ This was last updated for TPE 0.9.1
 
 ### Changes
 
-- Removes [<i class="xa xa-player"></i>Swamp Dragon](#AADG) from [<i class="xa xa-tower"></i>Brood](#BAE2)
+- Removes [<i class="xa xa-player"></i>Frost Dragon](#AADW) from [<i class="xa xa-tower"></i>Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i>Night Dragon](#AADN) to [<i class="xa xa-tower"></i>Brood](#BAE2)
 - Removes [<i class="xa xa-aura"></i>Subterranean Network](#PSUB) from [<i class="xa xa-tower"></i>Egg Chamber](#BPEC)
 - Adds [<i class="xa xa-aura"></i>Banubir's Ceremony](#PBAN) to [<i class="xa xa-tower"></i>Egg Chamber](#BPEC)

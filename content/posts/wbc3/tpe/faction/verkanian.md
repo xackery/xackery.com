@@ -29,7 +29,7 @@ This was last updated for TPE 0.9.1
 - Adds [<i class="xa xa-aura"></i>Tanner (I)](#PTN0) to [<i class="xa xa-tower"></i>Furnace](#BKA0)
 - Removes [<i class="xa xa-aura"></i>Armorer (II)](#PAR1) from [<i class="xa xa-tower"></i>Furnace](#BKA0)
 - Adds [<i class="xa xa-aura"></i>Tanner (II)](#PTN1) to [<i class="xa xa-tower"></i>Furnace](#BKA0)
-- Removes [<i class="xa xa-player"></i>Storm Dragon](#AADB) from [<i class="xa xa-tower"></i>Eyrie](#BAV2)
+- Removes [<i class="xa xa-player"></i>Celestial Dragon](#AADC) from [<i class="xa xa-tower"></i>Eyrie](#BAV2)
 - Adds [<i class="xa xa-player"></i>Sol Dragon](#AADY) to [<i class="xa xa-tower"></i>Eyrie](#BAV2)
 ### Units
 
