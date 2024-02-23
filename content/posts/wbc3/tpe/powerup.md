@@ -1,5 +1,5 @@
 ---
-title: WBC3 Powerups
+title: TPE Powerups
 weight: 0
 chapter: true
 layout: data

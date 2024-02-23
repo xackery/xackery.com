@@ -1,5 +1,5 @@
 ---
-title: The Protectors Factions
+title: TPE Factions
 weight: 0
 chapter: true
 layout: data

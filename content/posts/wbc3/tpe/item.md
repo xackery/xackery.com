@@ -1,5 +1,5 @@
 ---
-title: WBC TPE Items
+title: TPE Items
 weight: 0
 chapter: true
 ---

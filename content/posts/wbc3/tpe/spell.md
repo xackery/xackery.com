@@ -1,5 +1,5 @@
 ---
-title: WBC TPE Spells
+title: TPE Spells
 weight: 0
 chapter: true
 ---

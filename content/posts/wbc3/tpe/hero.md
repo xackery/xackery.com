@@ -1,5 +1,5 @@
 ---
-title: WBC3 TPE Hero Choices
+title: TPE Hero Choices
 weight: 0
 chapter: true
 ---
