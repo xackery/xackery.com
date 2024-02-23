@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-Archanon is a Dark Elf faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+Archanon is a Dark Elf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1

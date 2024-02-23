@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-The White Council is a High Elf faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+The White Council is a High Elf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1
@@ -15,7 +15,7 @@ This was last updated for TPE 0.9.1
 - Healer produces Elcor's Panacea
 - Blizzard Call removed
 - Tower of the produces Divine Intervention
-- Swamp Dragon removed
+- Frost Dragon removed
 - Nest produces White Counsellor
 ### Units
 

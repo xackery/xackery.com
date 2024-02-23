@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-Sacred Guard of Vivellius Madra is a Fey faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+Sacred Guard of Vivellius Madra is a Fey faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1
@@ -17,8 +17,6 @@ This was last updated for TPE 0.9.1
 - Tome produces Haunting Apparition
 - Taming of the Stars removed
 - Tome produces Mistform
-- Celestial Dragon removed
-- Nest produces Storm Dragon
 ### Units
 
 {{< card code="AEXX" name="Pixie" combat="4" hp="75" speed="14" min="13" max="18" type="Ice" range="6" attacktype="None" view="10" resistance="14" resists="4" strong="is------" usedby="" movementtype="Walk" mana="33" tier="3" general="N" advanced="N" race="Fey" alignment="Neutral" cost="205g 150m" description="Basic Fey missile unit" hkey="p" line1="PIXIE" line2="Abilities: None" line3="" flag="Small, Land, Missile">}}

@@ -4,14 +4,14 @@ weight: 0
 chapter: true
 layout: data
 ---
-Revenants of K'Oulis is a Plaguelords faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+Revenants of K'Oulis is a Plaguelords faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1
 
 ### Changes
 
-- Enhanced Mutagens removed
+- Rimechant removed
 - Hall of Plague produces Necrophagous Cannibalism
 ### Units
 
@@ -36,7 +36,7 @@ This was last updated for TPE 0.9.1
 {{< card code="AGGP" name="Gurgling Phlegm" combat="2" hp="75" speed="6" min="7" max="11" type="Slashing" range="0" attacktype="None" view="8" resistance="10" resists="4" strong="--------" usedby="" movementtype="Walk" mana="0" tier="1" general="N" advanced="Y" race="Mutant" alignment="Evil" cost="40g" description="Advanced parasite" hkey="g" line1="GURGLING PHLEGM" line2="Abilities: Vampirism" line3="" flag="Large, Land, Spearman">}}
 ### Buildings
 
-{{< card-building code="BKG0" name="Hall of Plague" combat="50" hp="2000" min="" max="0" type="Piercing" range="0" attacktype="" view="8" resistance="12" resists="8" strong="" usedby="Plaguelords (Gol-Draaka), Plaguelords (Revenants of K'Oulis)" mana="0" tier="" general="" advanced="" race="Plaguelord" alignment="" cost="100g 100s" secondstoproduce="45" description="Produces retinue" hkey="h" line1="LEVEL 1 HALL OF PLAGUE" line2="Build: Nothing" line3="Research: Level 2 Hall of Plague, Affliction & unit creation upgrades" armylimit="---:---" produces="Hall of Plague (Building), Resurrect Hero (Powerup), Defiling Emanation (Powerup), Necronosis (Powerup), Rimechant (Powerup), Consumption (Powerup), Terminal Mitosis (Powerup)" requires="" flag="">}}
+{{< card-building code="BKG0" name="Hall of Plague" combat="50" hp="2000" min="" max="0" type="Piercing" range="0" attacktype="" view="8" resistance="12" resists="8" strong="" usedby="Plaguelords (Gol-Draaka), Plaguelords (Revenants of K'Oulis)" mana="0" tier="" general="" advanced="" race="Plaguelord" alignment="" cost="100g 100s" secondstoproduce="45" description="Produces retinue" hkey="h" line1="LEVEL 1 HALL OF PLAGUE" line2="Build: Nothing" line3="Research: Level 2 Hall of Plague, Affliction & unit creation upgrades" armylimit="---:---" produces="Hall of Plague (Building), Resurrect Hero (Powerup), Defiling Emanation (Powerup), Necronosis (Powerup), Necrophagous Cannibalism (Powerup), Consumption (Powerup), Terminal Mitosis (Powerup)" requires="" flag="">}}
 {{< card-building code="BKG1" name="Hall of Plague" combat="50" hp="3000" min="" max="0" type="Piercing" range="0" attacktype="" view="12" resistance="12" resists="8" strong="" usedby="Plaguelords (Gol-Draaka), Plaguelords (Revenants of K'Oulis)" mana="0" tier="" general="" advanced="" race="Plaguelord" alignment="" cost="100g 200m 100s" secondstoproduce="75" description="Increases army limit" hkey="h" line1="LEVEL 2 HALL OF PLAGUE" line2="Build: Nothing" line3="Research: Level 3 Hall of Plague, Affliction & unit creation upgrades" armylimit="---:---" produces="Hall of Plague (Building), Resurrect Hero (Powerup), Defiling Emanation (Powerup), Necronosis (Powerup), Enhanced Mutagens (Powerup), Consumption (Powerup), Terminal Mitosis (Powerup)" requires="" flag="UnknownPsych 255 (str. 202 radius 20)">}}
 {{< card-building code="BKG2" name="Hall of Plague" combat="50" hp="4000" min="" max="0" type="Piercing" range="0" attacktype="" view="12" resistance="12" resists="8" strong="" usedby="Plaguelords (Gol-Draaka), Plaguelords (Revenants of K'Oulis)" mana="0" tier="" general="" advanced="" race="Plaguelord" alignment="" cost="200g 400m 200s" secondstoproduce="90" description="Increases army limit" hkey="h" line1="LEVEL 3 HALL OF PLAGUE" line2="Build: Nothing" line3="Research: Level 4 Hall of Plague, Affliction & unit creation upgrades" armylimit="---:---" produces="Hall of Plague (Building), Resurrect Hero (Powerup), Defiling Emanation (Powerup), Necronosis (Powerup), Enhanced Mutagens (Powerup), Consumption (Powerup), Terminal Mitosis (Powerup)" requires="" flag="UnknownPsych 255 (str. 182 radius 81)">}}
 {{< card-building code="BKG3" name="Hall of Plague" combat="50" hp="5000" min="" max="0" type="Piercing" range="0" attacktype="" view="15" resistance="12" resists="8" strong="" usedby="Plaguelords (Gol-Draaka), Plaguelords (Revenants of K'Oulis)" mana="0" tier="" general="" advanced="" race="Plaguelord" alignment="" cost="300g 600m 300s" secondstoproduce="105" description="Increases army limit" hkey="h" line1="LEVEL 4 HALL OF PLAGUE" line2="Build: Nothing" line3="Research: Level 5 Hall of Plague, Affliction & unit creation upgrades" armylimit="---:---" produces="Hall of Plague (Building), Resurrect Hero (Powerup), Defiling Emanation (Powerup), Necronosis (Powerup), Enhanced Mutagens (Powerup), Consumption (Powerup), Terminal Mitosis (Powerup)" requires="" flag="">}}

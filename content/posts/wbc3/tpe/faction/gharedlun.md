@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-Gharedlun, Garden of the Dead is a Undead faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+Gharedlun, Garden of the Dead is a Undead faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1
@@ -15,7 +15,7 @@ This was last updated for TPE 0.9.1
 - Dark Mill produces Catapult
 - Bone Catapult removed
 - Dark Mill produces Battering Ram
-- Fire Dragon removed
+- Dragonliche removed
 - Brood produces Celestial Dragon
 - Glimpse of the Beyond removed
 - Graveyard produces Gardenkeeper

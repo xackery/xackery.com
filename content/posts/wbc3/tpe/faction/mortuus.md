@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-The Legion of Mortuus is a Undead faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+The Legion of Mortuus is a Undead faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1

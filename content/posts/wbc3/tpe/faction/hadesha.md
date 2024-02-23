@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-Hadesha, World of Nightmares is a Daemon faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+Hadesha, World of Nightmares is a Daemon faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1

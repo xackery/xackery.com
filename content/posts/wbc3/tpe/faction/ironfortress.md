@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-The Iron Fortress is a Daemon faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+The Iron Fortress is a Daemon faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1
@@ -17,6 +17,8 @@ This was last updated for TPE 0.9.1
 - Portal produces Cybermancy (I)
 - Intangibility (II) removed
 - Portal produces Cybermancy (II)
+- Frost Dragon removed
+- Brood produces Night Dragon
 - Soul Binding removed
 - Iron Factory produces Iron Factory
 ### Units

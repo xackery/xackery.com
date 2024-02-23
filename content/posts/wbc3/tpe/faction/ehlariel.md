@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-Ehlariel, Citadel of Ice is a High Elf faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+Ehlariel, Citadel of Ice is a High Elf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1

@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 layout: data
 ---
-The Verkanian Coalition is a Dark Dwarf faction found in Warlords Battlecry III: The Protectors of Etherium mod.
+The Verkanian Coalition is a Dark Dwarf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
 This was last updated for TPE 0.9.1
@@ -29,9 +29,7 @@ This was last updated for TPE 0.9.1
 - Furnace produces Tanner (I)
 - Armorer (II) removed
 - Furnace produces Tanner (II)
-- Bat removed
-- Eyrie produces Eagle
-- Fire Dragon removed
+- Celestial Dragon removed
 - Eyrie produces Sol Dragon
 ### Units
 
