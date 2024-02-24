@@ -14,7 +14,7 @@
                     <p class="fs-6 p-01">{{ .Get "requirement" }}</p>
                     <p class="fs-6 p-01">{{ .Get "description" }}</p>
                     <p class="fs-6 p-01">Hotkey: {{ .Get "hkey" }}</p>
-                    <p class="fs-6 p-01">Used By: {{ .Get "usedby" }}</p>
+                    <p class="fs-6 p-01">Used By: {{ if .Inner }}{{ .Inner }}{{else}}None{{ end}}</p>
                 </div>
             </div>
         </div>

@@ -730,6 +730,9 @@ img.portrait {
 	top: 431px;
 	left: 0;
   }*/
+.icon-link {
+  text-decoration: none; }
+
 .dark ul {
   color: white; }
 

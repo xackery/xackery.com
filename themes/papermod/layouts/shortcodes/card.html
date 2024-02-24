@@ -32,7 +32,7 @@
                     
                     <p> -- advanced --</p>
                     <p class="fs-6 p-01">Movement Type: {{ .Get "movementtype" }}</p>
-                    <p class="fs-6 p-01">Used By: {{ .Get "usedby" }}</p>
+                    <p class="fs-6 p-01">Used By: {{ if .Inner }}{{ .Inner }}{{else}}None{{ end}}</p>
                 </div>
                 <div class="col-md-4" style="flex-basis: 33.33%; max-width: 33.33%;">
                     <p class="fs-6 p-01">General: {{ .Get "general" }}</p>

@@ -19,22 +19,17 @@
                     <p class="fs-6 p-01">{{ .Get "line2" }}</p>
                     <p class="fs-6 p-01">{{ .Get "line3" }}</p>
                     <p class="fs-6 p-01">Requires: {{ .Get "requires" }}</p>
-                    <p class="fs-6 p-01">Produces: {{ .Get "produces" }}</p>
-                    
-                    
-                    
+                    <p class="fs-6 p-01">Produces: {{ .Get "produces" }}</p>                    
                 </div>
                 <div class="col-md-4" style="flex-basis: 50%; max-width: 50%;">
                     <p class="fs-6 p-01">Cost: {{ .Get "cost" }}</p>
                     <p class="fs-6 p-01">Hotkey: {{ .Get "hkey" }}</p>
-                    
-                    
                     <p class="fs-6 p-01">Damage: {{ if .Get "min"}}{{ .Get "min" }}-{{ .Get "max"}} {{ .Get "type" }}{{else}}None{{end}}</p>
                     <p class="fs-6 p-01">Resistance: {{ .Get "resistance" }}</p>
                     <p class="fs-6 p-01">View: {{ .Get "view" }}</p>
                     <p class="fs-6 p-01">Resists: {{ .Get "resists" }}</p>
                     <p> -- advanced --</p>
-                    <p class="fs-6 p-01">Used By: {{ .Get "usedby" }}</p>
+                    <p class="fs-6 p-01">Used By: {{ if .Inner }}{{ .Inner }}{{else}}None{{ end}}</p>
                 </div>
             </div>
         </div>
