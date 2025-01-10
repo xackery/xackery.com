@@ -4,7 +4,7 @@ weight: 0
 chapter: true
 ---
 
-This was last updated for TPE 0.9
+This was last updated for TPE 0.9.1
 
 ## Races
 
