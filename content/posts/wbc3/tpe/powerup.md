@@ -7,16 +7,16 @@ layout: data
 
 NOTICE! This is still heavily work in progress! Expect bugs. :)
 
-This was last updated for TPE 0.9.2a
+This was last updated for TPE 0.9.2b
 
 {{< card-powerup code="PBRR" name="Aberration of Oros" description="Allows you to merge one Contaminator, one Gazer and two Ghouls into a Pillar Of Eyes" cost="Unknown" hkey="">}}Plaguelords (Revenants of K'Oulis){{< /card-powerup >}}
 {{< card-powerup code="PABO" name="Abominator Strain" description="Allows you to merge one Slime, one Cyst Hydra and two Ghouls into an Abomination" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PNMD" name="Acclimatization" description="Barbarian units become 50% resistant to negative weather/negative cover and immune to negative terrain effects" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PCL0" name="Acculturation (II)" description="Doubles culture gain rate" cost="Unknown" hkey="">}}Empire (Merchant State of Goldor){{< /card-powerup >}}
 {{< card-powerup code="PCL1" name="Acculturation (II)" description="Doubles culture gain rate" cost="Unknown" hkey="">}}Empire (Merchant State of Goldor){{< /card-powerup >}}
+{{< card-powerup code="PCL0" name="Acculturation (II)" description="Doubles culture gain rate" cost="Unknown" hkey="">}}Empire (Merchant State of Goldor){{< /card-powerup >}}
 {{< card-powerup code="PCL2" name="Acculturation (III)" description="Triples culture gain rate" cost="Unknown" hkey="">}}Empire (Merchant State of Goldor){{< /card-powerup >}}
-{{< card-powerup code="PVTR" name="Acid (I)" description="Makes Slimes and Gelatinous Cubes good vs. Buildings" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PAC0" name="Acid (I)" description="Makes Slimes and Gelatinous Cubes good vs. Buildings" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PVTR" name="Acid (I)" description="Makes Slimes and Gelatinous Cubes good vs. Buildings" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PAC1" name="Acid (II)" description="Makes Slimes and Gelatinous Cubes excellent vs. Buildings" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PAC2" name="Acid (III)" description="Unused" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PAL0" name="Alacrity (I)" description="+2 speed for all units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -49,8 +49,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PAR0" name="Armorer (I)" description="+12.5% HP for all units" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley)  Barbarian (Palmyr)  Dark Dwarf (The Verkanian Coalition)  Empire (Diraqine Empire)  Orc (Dark Orcs of Toragnar){{< /card-powerup >}}
 {{< card-powerup code="PAR1" name="Armorer (II)" description="+25% HP for all units" cost="Unknown" hkey="">}}Barbarian (Palmyr)  Dark Dwarf (The Verkanian Coalition)  Empire (Diraqine Empire)  Orc (Dark Orcs of Toragnar){{< /card-powerup >}}
 {{< card-powerup code="PAM0" name="Aspect of Melkor (II)" description="Gives +8% damage and a chaos attack of strength 17 to melee units you control" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PAU0" name="Augment (I)" description="The Perfected unit gets a bonus depending on the type of unit" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
 {{< card-powerup code="PNNS" name="Augment (I)" description="The Perfected unit gets a bonus depending on the type of unit" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PAU0" name="Augment (I)" description="The Perfected unit gets a bonus depending on the type of unit" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
 {{< card-powerup code="PAU1" name="Augment (II)" description="The Perfected unit gets a bonus depending on the type of unit" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
 {{< card-powerup code="PAU2" name="Augment (III)" description="The Perfected unit gets a bonus depending on the type of unit" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
 {{< card-powerup code="PAU3" name="Augment (IV)" description="The Perfected unit gets a bonus depending on the type of unit" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
@@ -60,8 +60,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PTHA" name="Axe of Sartek" description="Allows Minotaur Axe-Throwers & Gnoll Raiders to be produced" cost="Unknown" hkey="">}}Minotaur (Order of Malignus){{< /card-powerup >}}
 {{< card-powerup code="PSNH" name="Back in Line!" description="Allows sacrificing Goblins for curing all psychological afflictions of nearby units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSTR" name="Balanced Axes" description="+2 range for Minotaur Axe Throwers" cost="Unknown" hkey="">}}Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
-{{< card-powerup code="PBAN" name="Banubir's Ceremony" description="Lay Wasp Eggs, Lay Scorpion Eggs and Lay Scarab Eggs abilities cost 30% less to activate" cost="Unknown" hkey="">}}Swarm (The Fertilum Sect){{< /card-powerup >}}
 {{< card-powerup code="PWON" name="Banubir's Ceremony" description="Lay Wasp Eggs, Lay Scorpion Eggs and Lay Scarab Eggs abilities cost 30% less to activate" cost="Unknown" hkey="">}}Wood Elf (Sylvan Elves of Solhaven){{< /card-powerup >}}
+{{< card-powerup code="PBAN" name="Banubir's Ceremony" description="Lay Wasp Eggs, Lay Scorpion Eggs and Lay Scarab Eggs abilities cost 30% less to activate" cost="Unknown" hkey="">}}Swarm (The Fertilum Sect){{< /card-powerup >}}
 {{< card-powerup code="PBAR" name="Barbarian King" description="+18.75% Damage for all melee units" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley)  Barbarian (Palmyr){{< /card-powerup >}}
 {{< card-powerup code="PIRB" name="Barkskin" description="+31.25% HP for Oakmen, Treants and Ancient Treants" cost="Unknown" hkey="">}}Barbarian (Lindenloth){{< /card-powerup >}}
 {{< card-powerup code="PABR" name="Barricade" description="Allows Ramparts to be upgraded into Walls" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -74,8 +74,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PBIN" name="Binding" description="All extraplanar creatures gain the immunity to Banishment spells" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PBI0" name="Bio-Suspension (I)" description="Gives your non-hero units +9.375% HP and +1 Resistance" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
 {{< card-powerup code="PBI1" name="Bio-Suspension (II)" description="Gives your non-hero units +18.75% HP and +2 Resistance" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
-{{< card-powerup code="RMOR" name="Black Ward (I)" description="+2 Resistance to all units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PRE0" name="Black Ward (I)" description="+2 Resistance to all units" cost="Unknown" hkey="">}}Dark Elf (Yrm, Stronghold of Sorcery){{< /card-powerup >}}
+{{< card-powerup code="RMOR" name="Black Ward (I)" description="+2 Resistance to all units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PRE1" name="Black Ward (II)" description="+4 Resistance to all units" cost="Unknown" hkey="">}}Dark Elf (Yrm, Stronghold of Sorcery){{< /card-powerup >}}
 {{< card-powerup code="PRE2" name="Black Ward (III)" description="+6 Resistance to all units" cost="Unknown" hkey="">}}Dark Elf (Yrm, Stronghold of Sorcery){{< /card-powerup >}}
 {{< card-powerup code="PBLE" name="Blending" description="Your non-flying units become invisible in cover" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl)  Swarm (The Kagh'ri Sect){{< /card-powerup >}}
@@ -117,10 +117,10 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PESF" name="Cloaking Field" description="Allows Firebombs to use the Deploy Mine ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PCCO" name="Collective Consciousness" description="Allows you to merge two Slimes into a Gelatinous Cube" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PEPO" name="Confluence of Power" description="Allows Dark Mithril Golems to use the Titanic Blow ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PCON" name="Construction" description="+3 build skill for all builders" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PBST" name="Construction" description="+3 build skill for all builders" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PRCS" name="Construction Directive" description="Allows Clay Golems to build base buildings and defenses with a build skill of 10" cost="Unknown" hkey="">}}Dwarf (Khamar, City of Artifice)  Minotaur (Raiders of the Pale Sea)  Orc (Dark Orcs of Toragnar){{< /card-powerup >}}
+{{< card-powerup code="PCON" name="Construction" description="+3 build skill for all builders" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PCND" name="Construction Directive" description="Allows Clay Golems to build base buildings and defenses with a build skill of 10" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
+{{< card-powerup code="PRCS" name="Construction Directive" description="Allows Clay Golems to build base buildings and defenses with a build skill of 10" cost="Unknown" hkey="">}}Dwarf (Khamar, City of Artifice)  Minotaur (Raiders of the Pale Sea)  Orc (Dark Orcs of Toragnar){{< /card-powerup >}}
 {{< card-powerup code="PMUT" name="Consumption" description="When your units or buildings inflict Disease or Scourge, they also inflict Poison" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PCN0" name="Contagion (I)" description="Allows Plague Tasters to garrison enemy mines and bring permanent Pestilence, decreasing income by 23% (does not affect friendly owned mines). Also applies Pestilence to all your mines with miners, with no negative effect" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PCN1" name="Contagion (II)" description="Pestilence inflicted by your side decreases income by 46% (does not affect friendly owned mines)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -129,8 +129,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PCN4" name="Contagion (V)" description="Pestilence inflicted by your side decreases income by 115% (does not affect friendly owned mines)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSRP" name="Contagion Spell Research" description="Improve spellcasting by +1 in the Contagion spell sphere (for this battle only)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PLAB" name="Contract Killers" description="Produces 5 Nightblades" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PLAP" name="Convicted Recruits" description="Mercenaries are 25% cheaper" cost="Unknown" hkey="">}}Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PCNV" name="Convicted Recruits" description="Mercenaries are 25% cheaper" cost="Unknown" hkey="">}}Minotaur (Order of the Iron Fist){{< /card-powerup >}}
+{{< card-powerup code="PLAP" name="Convicted Recruits" description="Mercenaries are 25% cheaper" cost="Unknown" hkey="">}}Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PSWB" name="Copper Plating" description="+2 Resistance for all ships" cost="Unknown" hkey="">}}Daemon (The Iron Fortress)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
 {{< card-powerup code="PCSH" name="Corroded Shrapnel" description="Plaguelord Towers get an attack type which deals slashing-electrical damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PHM3" name="Corrosive Venom" description="Gives Scorpions and Scartauri Lethal Poison attacks of strengths 11 and 13 (replacing their poison attacks)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -140,12 +140,12 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PCFA" name="Couatl's Favor" description="+3 Combat and +2 Speed for all units during daytime" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl)  Ssrathi (Tongu, the Blessed Haven){{< /card-powerup >}}
 {{< card-powerup code="PCWR" name="Couatl's Wrath" description="Allows the Sun Temple to cast a fire spell that causes multiple explosions around it" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
 {{< card-powerup code="PCOW" name="Cowards!" description="Orc Warriors & Wolfriders deal +15 & +25 damage to missile units respectively" cost="Unknown" hkey="">}}Orc (Goblin Mountain){{< /card-powerup >}}
-{{< card-powerup code="PMED" name="Crusade (I)" description="Your units gain +1 XP per kill" cost="Unknown" hkey="">}}Knight (Crownsmen of Bartonia)  Orc (Orcs of Darkmyr){{< /card-powerup >}}
-{{< card-powerup code="PCR0" name="Crusade (I)" description="Your units gain +1 XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PCR1" name="Crusade (II)" description="Your units gain +2 XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PCR2" name="Crusade (III)" description="Your units gain +3 XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PCR3" name="Crusade (IV)" description="Your units gain +4 XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PCR4" name="Crusade (V)" description="Your units gain +5 XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PMED" name="Crusade (I)" description="Your units gain +150% XP per kill" cost="Unknown" hkey="">}}Knight (Crownsmen of Bartonia)  Orc (Orcs of Darkmyr){{< /card-powerup >}}
+{{< card-powerup code="PCR0" name="Crusade (I)" description="Your units gain +150% XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PCR1" name="Crusade (II)" description="Your units gain +300% XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PCR2" name="Crusade (III)" description="Your units gain +450% XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PCR3" name="Crusade (IV)" description="Your units gain +600% XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PCR4" name="Crusade (V)" description="Your units gain +750% XP per kill" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSRF" name="Cryomancy Spell Research" description="Improve spellcasting by +1 in the Cryomancy spell sphere (for this battle only)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PLAS" name="Cult of Aranea" description="Produces 4 Spiders, 1 Queen Spider and 1 Spider Priestess" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSY0" name="Cultivation (I)" description="+5 to your Army Limit" cost="Unknown" hkey="">}}Minotaur (Order of the Iron Fist){{< /card-powerup >}}
@@ -218,10 +218,10 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PFBL" name="Faerie Blade" description="+12.5% damage for all melee units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFFI" name="Faerie Fire" description="Sylphs change their attack type to fire & +10% damage for all elemental missile units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFSI" name="Faerie Sight" description="+2 range for Faerie missile units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PFAL" name="Fallen Knight" description="Slayer Knights & Doom Knights do triple damage versus Humans" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PTOR" name="Fallen Knight" description="Slayer Knights & Doom Knights do triple damage versus Humans" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead)  Undead (Licheguard of Zhur){{< /card-powerup >}}
-{{< card-powerup code="PFME" name="Fame" description="Mercenaries are 20% cheaper" cost="Unknown" hkey="">}}Empire (New Lysean Empire){{< /card-powerup >}}
+{{< card-powerup code="PFAL" name="Fallen Knight" description="Slayer Knights & Doom Knights do triple damage versus Humans" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PRID" name="Fame" description="Mercenaries are 20% cheaper" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PFME" name="Fame" description="Mercenaries are 20% cheaper" cost="Unknown" hkey="">}}Empire (New Lysean Empire){{< /card-powerup >}}
 {{< card-powerup code="PFM0" name="Fame (I)" description="Allows Foreign Merc.(II): Spellcaster" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFM1" name="Fame (II)" description="Allows Foreign Merc.(III): General" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFM2" name="Fame (III)" description="Discounts foreign mercenaries by 15%" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -233,8 +233,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PFV0" name="Fever (II)" description="Any Disease, Scourge or Ghoulplague afflictions inflicted by your side also gives -4 Combat" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
 {{< card-powerup code="PFV1" name="Fever (III)" description="Any Disease, Scourge or Ghoulplague afflictions inflicted by your side also gives -6 Combat" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
 {{< card-powerup code="PFLS" name="Filth Seeking" description="+2 Speed for Plague Tasters" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
-{{< card-powerup code="PMS0" name="Finesse (I)" description="+2 Speed for Brawlers" cost="Unknown" hkey="">}}Dwarf (Holy City of Duernoth)  Dwarf (Khamar, City of Artifice){{< /card-powerup >}}
 {{< card-powerup code="PAIR" name="Finesse (I)" description="+2 Speed for Brawlers" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PMS0" name="Finesse (I)" description="+2 Speed for Brawlers" cost="Unknown" hkey="">}}Dwarf (Holy City of Duernoth)  Dwarf (Khamar, City of Artifice){{< /card-powerup >}}
 {{< card-powerup code="PMS1" name="Finesse (II)" description="+1 Combat & +10% Damage for Brawlers" cost="Unknown" hkey="">}}Dwarf (Drak-Dum, the Dragon Fortress)  Dwarf (Holy City of Duernoth)  Dwarf (Khamar, City of Artifice){{< /card-powerup >}}
 {{< card-powerup code="PFOJ" name="Fires of Judgement" description="Ssrathi Towers get an attack type which deals poisoned piercing-fire damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFLA" name="Flaming Arrows" description="Arrows gain fire damage. Poison arrows also get +25% poison strength" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley){{< /card-powerup >}}
@@ -272,11 +272,11 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PCLK" name="Ghostly Overseers" description="Non-wall buildings you control have a command radius of 12" cost="Unknown" hkey="">}}Dwarf (Khamar, City of Artifice)  Orc (Dark Orcs of Toragnar){{< /card-powerup >}}
 {{< card-powerup code="PGHG" name="Giant Strain" description="Allows mutations into Ghoul Giants" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFDV" name="Giant Strain" description="Allows mutations into Ghoul Giants" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PGIA" name="Giantlord" description="Allows Giants to be produced" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PUHW" name="Giantlord" description="Allows Giants to be produced" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PGIA" name="Giantlord" description="Allows Giants to be produced" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PGOI" name="Gifts of Immortality" description="36% chance that Daemonic creatures can be raised as undead upon death" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PGLA" name="Gladiators" description="+2 Combat for Tribesmen & Reavers" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley)  Barbarian (Palmyr)  Minotaur (Beastmen of K'Varr)  Minotaur (Order of Malignus)  Minotaur (Order of the Broken Sword)  Minotaur (Order of the Iron Fist)  Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PSST" name="Gladiators" description="+2 Combat for Tribesmen & Reavers" cost="Unknown" hkey="">}}Barbarian (Lindenloth)  Orc (Orcs of Darkmyr){{< /card-powerup >}}
+{{< card-powerup code="PGLA" name="Gladiators" description="+2 Combat for Tribesmen & Reavers" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley)  Barbarian (Palmyr)  Minotaur (Beastmen of K'Varr)  Minotaur (Order of Malignus)  Minotaur (Order of the Broken Sword)  Minotaur (Order of the Iron Fist)  Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PRTW" name="Glimpse of the Beyond" description="Allows Skeletons to use the Despairstrike ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PBWD" name="Glittering Wings" description="Allows Faerie Dragons to use the Faerie Powder ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PLAG" name="Gnollish Piracy" description="Produces 5 Gnoll Raiders" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -297,10 +297,10 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PSWA" name="Gunpowder" description="+ 10 damage to destroyers vs. buildings and changes damage to fire" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PROL" name="Hadesha's Embrace" description="Allows Husks to use the Silence spell" cost="Unknown" hkey="">}}Swarm (The Fertilum Sect){{< /card-powerup >}}
 {{< card-powerup code="PLAD" name="Hadeshan Gate" description="Produces 1 Succubus, 1 Nightmare and 3 Imps" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PHDW" name="Hadeshan Warp" description="Gives +5 affliction strength to all units and buildings you control" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PCOR" name="Hadeshan Warp" description="Gives +5 affliction strength to all units and buildings you control" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
-{{< card-powerup code="PSB2" name="Hard Labor" description="Increases income from miners by 20%" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
+{{< card-powerup code="PHDW" name="Hadeshan Warp" description="Gives +5 affliction strength to all units and buildings you control" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PHLB" name="Hard Labor" description="Increases income from miners by 20%" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
+{{< card-powerup code="PSB2" name="Hard Labor" description="Increases income from miners by 20%" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PHL0" name="Hard Labor (I)" description="Increases mine income by 12.5% for each mine" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PHL1" name="Hard Labor (II)" description="Increases mine income by 25% for each mine" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PHL2" name="Hard Labor (III)" description="Increases mine income by 37.5% for each mine" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -314,8 +314,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PRG2" name="Healing (III)" description="+750% HP regeneration for garrisoned units you control and +1080% HP regeneration for buildings you control" cost="Unknown" hkey="">}}High Elf (Ehlariel, Citadel of Ice)  Wood Elf (Light Elves of Twilight Woods){{< /card-powerup >}}
 {{< card-powerup code="PSRE" name="Healing Spell Research" description="Improve spellcasting by +1 in the Healing spell sphere (for this battle only)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PUBW" name="Healing Waters" description="Cures and Blesses Allied Units" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
-{{< card-powerup code="PHSH" name="Heavy Shot" description="+25% Damage for your ships" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSWC" name="Heavy Shot" description="+25% Damage for your ships" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PHSH" name="Heavy Shot" description="+25% Damage for your ships" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PHBB" name="Herbal Breeze" description="Poison and disease dissipate 10 times faster for friendly units & 5 times faster for friendly buildings near Mirrorwood Trees you control" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PHRB" name="Herbalism" description="Every 7 seconds, an allied unit within a range of 12 of a Kiln is cured of disease, scourge, ghoulplague, poison and lethal poison" cost="Unknown" hkey="">}}Orc (Dark Orcs of Toragnar)  Orc (Goblin Mountain)  Orc (Graww)  Orc (Orcs of Darkmyr)  Orc (Orcs of Kor){{< /card-powerup >}}
 {{< card-powerup code="PHRF" name="Hidden Refuge" description="Your units become invisible when near your Keeps" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley){{< /card-powerup >}}
@@ -367,12 +367,12 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PIR1" name="Iron Clad Horns (II)" description="+25% Damage for all melee units" cost="Unknown" hkey="">}}Minotaur (Order of Malignus){{< /card-powerup >}}
 {{< card-powerup code="PSHT" name="Iron Fist" description="+3 Combat for all Golems" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PIRO" name="Iron Fist" description="+3 Combat for all Golems" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
-{{< card-powerup code="PFMA" name="Iron Fist Mercenary: Fighter" description="Recruits a random fighter from another race" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="POME" name="Iron Fist Mercenary: Fighter" description="Recruits a random fighter from another race" cost="Unknown" hkey="">}}Empire (Diraqine Empire){{< /card-powerup >}}
+{{< card-powerup code="PFMA" name="Iron Fist Mercenary: Fighter" description="Recruits a random fighter from another race" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFMC" name="Iron Fist Mercenary: General" description="Recruits a random general from another race" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFMB" name="Iron Fist Mercenary: Spellcaster" description="Recruits a random spellcaster from another race" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PJST" name="Jousting" description="Gives cavalry you control +2 combat & +2 speed" cost="Unknown" hkey="">}}Knight (Crownsmen of Bartonia){{< /card-powerup >}}
 {{< card-powerup code="PBTH" name="Jousting" description="Gives cavalry you control +2 combat & +2 speed" cost="Unknown" hkey="">}}Knight (Theiran Trollslayers){{< /card-powerup >}}
+{{< card-powerup code="PJST" name="Jousting" description="Gives cavalry you control +2 combat & +2 speed" cost="Unknown" hkey="">}}Knight (Crownsmen of Bartonia){{< /card-powerup >}}
 {{< card-powerup code="PJUN" name="Jungle Grace" description="Allows units you control to move through cover unimpeded and gives them +2 speed when in cover" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PFKN" name="Knights of Faerie" description="+2 combat for all units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PELC" name="Knights of the Bronze Dragon" description="Dragon Knights get +2 combat" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -390,8 +390,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PLGE" name="Lingering Essence" description="Bones remain on the battlefield for an additional 120 seconds" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
 {{< card-powerup code="PGOB" name="Lingering Essence" description="Bones remain on the battlefield for an additional 120 seconds" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PLHB" name="Lingering Habitation" description="When you destroy a mine or utility building, its reconstruction time is increased by 25%" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PLOM" name="Lord of Murder" description="Allows Minotaur Slayers to use the Unbridled Fury ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PTMI" name="Lord of Murder" description="Allows Minotaur Slayers to use the Unbridled Fury ability" cost="Unknown" hkey="">}}Empire (New Lysean Empire){{< /card-powerup >}}
+{{< card-powerup code="PLOM" name="Lord of Murder" description="Allows Minotaur Slayers to use the Unbridled Fury ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PLO0" name="Lore (I)" description="+1 XP level for newly produced units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PLO1" name="Lore (II)" description="+1 XP level for newly produced units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PLO2" name="Lore (III)" description="+1 XP level for newly produced units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -406,8 +406,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PMDW" name="Medical Wards" description="Poison and disease dissipate 10 times faster for your garrisoned units & 5 times faster for friendly buildings" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition)  Dwarf (Holy City of Duernoth){{< /card-powerup >}}
 {{< card-powerup code="PMOR" name="Medical Wards" description="Poison and disease dissipate 10 times faster for your garrisoned units & 5 times faster for friendly buildings" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PMSS" name="Medicinal Subsistence" description="Gives units you control +335% HP Regeneration when in cover" cost="Unknown" hkey="">}}Orc (Orcs of Darkmyr){{< /card-powerup >}}
-{{< card-powerup code="PME0" name="Meditation (I)" description="+5 Ritual skill for your hero" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PDRS" name="Meditation (I)" description="+5 Ritual skill for your hero" cost="Unknown" hkey="">}}Dwarf (Holy City of Duernoth){{< /card-powerup >}}
+{{< card-powerup code="PME0" name="Meditation (I)" description="+5 Ritual skill for your hero" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PME1" name="Meditation (II)" description="+10 Ritual skill for your hero" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PME2" name="Meditation (III)" description="+20 Ritual skill for your hero" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PMCU" name="Melkor's Curse" description="Poison and Lethal Poison that you inflict degenerates at +0.5HP per second" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -429,8 +429,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PMO0" name="Morale (I)" description="+3 to your Morale score" cost="Unknown" hkey="">}}Barbarian (Palmyr)  Dark Dwarf (The Verkanian Coalition)  Dwarf (Holy City of Duernoth)  Empire (Merchant State of Goldor)  High Elf (Ehlariel, Citadel of Ice)  Knight (Crownsmen of Bartonia)  Minotaur (Order of the Broken Sword)  Orc (Orcs of Darkmyr)  Ssrathi (Tongu, the Blessed Haven)  Swarm (The Kagh'ri Sect)  Wood Elf (Light Elves of Twilight Woods){{< /card-powerup >}}
 {{< card-powerup code="PMO1" name="Morale (II)" description="+6 to your Morale score" cost="Unknown" hkey="">}}Barbarian (Palmyr)  Dark Dwarf (The Verkanian Coalition)  Dwarf (Holy City of Duernoth)  Empire (Merchant State of Goldor)  High Elf (Ehlariel, Citadel of Ice)  Knight (Crownsmen of Bartonia)  Minotaur (Order of the Broken Sword)  Orc (Orcs of Darkmyr)  Ssrathi (Tongu, the Blessed Haven)  Swarm (The Kagh'ri Sect)  Wood Elf (Light Elves of Twilight Woods){{< /card-powerup >}}
 {{< card-powerup code="PMO2" name="Morale (III)" description="+9 to your Morale score" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition)  Dwarf (Holy City of Duernoth)  Empire (Merchant State of Goldor)  Empire (Thalassian Empire)  Knight (Crownsmen of Bartonia)  Minotaur (Order of the Broken Sword)  Orc (Orcs of Darkmyr)  Ssrathi (Tongu, the Blessed Haven)  Swarm (The Kagh'ri Sect)  Wood Elf (Light Elves of Twilight Woods){{< /card-powerup >}}
-{{< card-powerup code="PMRF" name="Morannin's Fervor" description="Increases unit ability levels by +5 when within a radius of 12 of Dwarf Towers you control" cost="Unknown" hkey="">}}Dwarf (Holy City of Duernoth){{< /card-powerup >}}
 {{< card-powerup code="ROAF" name="Morannin's Fervor" description="Increases unit ability levels by +5 when within a radius of 12 of Dwarf Towers you control" cost="Unknown" hkey="">}}Dwarf (Holy City of Duernoth){{< /card-powerup >}}
+{{< card-powerup code="PMRF" name="Morannin's Fervor" description="Increases unit ability levels by +5 when within a radius of 12 of Dwarf Towers you control" cost="Unknown" hkey="">}}Dwarf (Holy City of Duernoth){{< /card-powerup >}}
 {{< card-powerup code="PSWS" name="Mordaine's Ruination" description="Allows Orbs of Sorrow to cast Stormstrike" cost="Unknown" hkey="">}}Knight (The Guardian Order){{< /card-powerup >}}
 {{< card-powerup code="PMUD" name="Mud Slingshot" description="Swarm Towers get an attack type which deals crushing-magic damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PMRD" name="Murderous Intent" description="Gives +4 Fear strength to Dark Pegasi" cost="Unknown" hkey="">}}Dark Elf (Yrm, Stronghold of Sorcery){{< /card-powerup >}}
@@ -443,8 +443,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PLI1" name="Mysticism (II)" description="+30 Mana for spellcasters" cost="Unknown" hkey="">}}Empire (Thalassian Empire)  High Elf (Ehlariel, Citadel of Ice){{< /card-powerup >}}
 {{< card-powerup code="PNMF" name="Nassapep's Manifestation" description="Allows Poison and Lethal Poison afflictions you inflict to affect Undead and Mechanical units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PNBW" name="Natural Bulwark" description="Your units gain +20% armour vs. all damage types when in cover" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PSL0" name="Natural Selection (I)" description="Gives +4% HP, +2 combat for defensive purposes only and +40% HP Regeneration to units you control" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PAM1" name="Natural Selection (I)" description="Gives +4% HP, +2 combat for defensive purposes only and +40% HP Regeneration to units you control" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PSL0" name="Natural Selection (I)" description="Gives +4% HP, +2 combat for defensive purposes only and +40% HP Regeneration to units you control" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSL1" name="Natural Selection (II)" description="Gives +8% HP, +4 combat for defensive purposes only and +80% HP Regeneration to units you control" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PNAT" name="Natural Splendour" description="Your Resource Trees are 100% harder to convert" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSRI" name="Nature Spell Research" description="Improve spellcasting by +1 in the Nature spell sphere (for this battle only)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -469,11 +469,11 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="POTT" name="Orin's Tutelage" description="Allows Dwarf Infantry and Vanguards to build defences with a skill of 10" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
 {{< card-powerup code="PFOC" name="Oven Chamber" description="Allows Kilns to upgrade" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="POVR" name="Overgrowth" description="Allows Resource Trees to spawn Thorn Sentinels" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PPHN" name="Pack Hunting" description="Wardogs get +1 damage for each adjacent wardog, up to a maximum of +3 damage" cost="Unknown" hkey="">}}Barbarian (Palmyr){{< /card-powerup >}}
 {{< card-powerup code="PGRR" name="Pack Hunting" description="Wardogs get +1 damage for each adjacent wardog, up to a maximum of +3 damage" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley){{< /card-powerup >}}
+{{< card-powerup code="PPHN" name="Pack Hunting" description="Wardogs get +1 damage for each adjacent wardog, up to a maximum of +3 damage" cost="Unknown" hkey="">}}Barbarian (Palmyr){{< /card-powerup >}}
 {{< card-powerup code="PPGU" name="Palace Guard" description="Gives your units +20% damage vs. enemies which are vulnerable to their damage types (have less than 0% armor)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PPAL" name="Paladin" description="Cavaliers & Paladins do double damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSWO" name="Paladin" description="Cavaliers & Paladins do double damage" cost="Unknown" hkey="">}}Dwarf (Holy City of Duernoth){{< /card-powerup >}}
+{{< card-powerup code="PPAL" name="Paladin" description="Cavaliers & Paladins do double damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PPA0" name="Panoply (I)" description="+12.5% HP for all units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PPA1" name="Panoply (II)" description="+25% HP for all units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PPOG" name="Paragons of Anger" description="Allows units to use the Infernal Rage ability (berserking with damage and attack speed increases). Only triggers if your army limit is under 33% of max" cost="Unknown" hkey="">}}Dark Elf (Tierremar, Land of Eternal Grief){{< /card-powerup >}}
@@ -487,8 +487,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PPHI" name="Philosophy" description="Your buildings can only be converted after culture drops to 0 and enemy converters reduce culture first" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PATH" name="Philosophy" description="Your buildings can only be converted after culture drops to 0 and enemy converters reduce culture first" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PGSP" name="Pike Square" description="Allows Pikemen to use the Threatening Control ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PPVK" name="Pile-On!" description="Goblins and Goblin Chiefs get +1 damage for each adjacent goblin unit (including Shamans and Chiefs) up to a maximum of +4 damage" cost="Unknown" hkey="">}}Orc (Orcs of Darkmyr){{< /card-powerup >}}
 {{< card-powerup code="PPON" name="Pile-On!" description="Goblins and Goblin Chiefs get +1 damage for each adjacent goblin unit (including Shamans and Chiefs) up to a maximum of +4 damage" cost="Unknown" hkey="">}}Orc (Goblin Mountain){{< /card-powerup >}}
+{{< card-powerup code="PPVK" name="Pile-On!" description="Goblins and Goblin Chiefs get +1 damage for each adjacent goblin unit (including Shamans and Chiefs) up to a maximum of +4 damage" cost="Unknown" hkey="">}}Orc (Orcs of Darkmyr){{< /card-powerup >}}
 {{< card-powerup code="PSSV" name="Pious Chivalry" description="Allows Knight Errants to use the Righteous Fervor ability" cost="Unknown" hkey="">}}Ssrathi (Tongu, the Blessed Haven){{< /card-powerup >}}
 {{< card-powerup code="PSRK" name="Poison Spell Research" description="Improve spellcasting by +1 in the Poison spell sphere (for this battle only)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PRT1" name="Polytheistic Reverence" description="Allows Archons to cast Blessing which gives combat for defense purposes and minor HP improvements" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -502,8 +502,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PPT1" name="Power of Tlatecolotl (III)" description="Gives +4 frostbite strength to melee units you control, for a total of 14 frostbite strength. If a melee unit already had a frostbite attack, instead, they gain +2 frostbite strength, for a total of +6 frostbite strength" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
 {{< card-powerup code="PGWD" name="Primeval Power" description="Allows the Tyrannosaurus Rex to use the Stonecrush ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PRIM" name="Primordial Armaments" description="Melee units you control gain a 3-cell forward splash attack. In addition, all units you control get +12.5% HP" cost="Unknown" hkey="">}}Wood Elf (Light Elves of Twilight Woods)  Wood Elf (Sylvan Elves of Solhaven){{< /card-powerup >}}
-{{< card-powerup code="PPFV" name="Profane Venomancy" description="Gives +5 affliction strength to all sources of Poison & Lethal Poison you control and Poison and Lethal Poison that you inflict degenerates at +0.5HP per second" cost="Unknown" hkey="">}}Swarm (The Kagh'ri Sect){{< /card-powerup >}}
 {{< card-powerup code="PMOL" name="Profane Venomancy" description="Gives +5 affliction strength to all sources of Poison & Lethal Poison you control and Poison and Lethal Poison that you inflict degenerates at +0.5HP per second" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PPFV" name="Profane Venomancy" description="Gives +5 affliction strength to all sources of Poison & Lethal Poison you control and Poison and Lethal Poison that you inflict degenerates at +0.5HP per second" cost="Unknown" hkey="">}}Swarm (The Kagh'ri Sect){{< /card-powerup >}}
 {{< card-powerup code="PCAM" name="Professional Camaraderie" description="Increases the level of Encourage by +5 and doubles the duration of Fortitude" cost="Unknown" hkey="">}}Empire (Merchant State of Goldor)  Empire (New Lysean Empire)  Empire (Thalassian Empire){{< /card-powerup >}}
 {{< card-powerup code="PLAW" name="Provoke!" description="Allows Orc Warriors to use the Taunt ability" cost="Unknown" hkey="">}}Empire (Thalassian Empire){{< /card-powerup >}}
 {{< card-powerup code="PMOB" name="Prowling" description="Allows Wardogs to use the Observe ability" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead)  Undead (Licheguard of Zhur){{< /card-powerup >}}
@@ -517,8 +517,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PRSA" name="Rage of Sartek" description="Allows Minotaur Shamans to be produced" cost="Unknown" hkey="">}}Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PRAN" name="Ragnaran Berserker" description="Allows infantry to go berserk (+2 speed, +3 combat but -3 HP on attack), also giving the unit Frenzy, +70% damage and -25% armor" cost="Unknown" hkey="">}}Barbarian (Dragonslayers of Northern Reach){{< /card-powerup >}}
 {{< card-powerup code="PLCR" name="Raise Livestock" description="Produces 4 Sheep and 4 Cows" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PLAU" name="Raise the Dead" description="Produces 4 Skeletons, 4 Wraiths and 4 Cultists" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PCIM" name="Raise the Dead" description="Produces 4 Skeletons, 4 Wraiths and 4 Cultists" cost="Unknown" hkey="">}}Orc (Goblin Mountain){{< /card-powerup >}}
+{{< card-powerup code="PLAU" name="Raise the Dead" description="Produces 4 Skeletons, 4 Wraiths and 4 Cultists" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PRMP" name="Rampage!" description="Makes War Elephants good vs. Buildings" cost="Unknown" hkey="">}}Empire (New Lysean Empire){{< /card-powerup >}}
 {{< card-powerup code="PRNS" name="Ransacking" description="Grounded melee units you control get +100% damage vs enemy mines and utilities" cost="Unknown" hkey="">}}Barbarian (Dragonslayers of Northern Reach)  Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PREA" name="Rearing" description="+3 Combat for Riders, Pegasi & Warlords" cost="Unknown" hkey="">}}Barbarian (Lindenloth){{< /card-powerup >}}
@@ -545,8 +545,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PRCH" name="Rimechant" description="Allows you to start a blizzard from the Hall of Plague and makes your units immune to snow/blizzard weather" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
 {{< card-powerup code="PANC" name="Rite of Acid" description="Allows Snakepriests to use the Spray Acid spell" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
 {{< card-powerup code="PVAM" name="Rite of Farseeing" description="Allows White Towers to use the Farseeing ability" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
-{{< card-powerup code="PDII" name="Rites of Dawn" description="Changes night into day and weather to fine" cost="Unknown" hkey="">}}High Elf (The White Council){{< /card-powerup >}}
 {{< card-powerup code="PROD" name="Rites of Dawn" description="Changes night into day and weather to fine" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
+{{< card-powerup code="PDII" name="Rites of Dawn" description="Changes night into day and weather to fine" cost="Unknown" hkey="">}}High Elf (The White Council){{< /card-powerup >}}
 {{< card-powerup code="PRPR" name="Ritual Procession" description="Instantly summon up to 8 Supplicants for a small sum of gold" cost="Unknown" hkey="">}}Daemon (The Dark Path){{< /card-powerup >}}
 {{< card-powerup code="PTUR" name="Ritual Tournament" description="Units produced with Ragespawn get +2 unit levels" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PRTT" name="Rotten Earth" description="Mines you afflicted with Pestilence will give you +16.2% of their income (friendly and enemy mines included)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -576,8 +576,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PSS1" name="Self-Sufficiency (II)" description="Gives +4 ability levels to the Rally Vigilante ability" cost="Unknown" hkey="">}}Empire (Thalassian Empire){{< /card-powerup >}}
 {{< card-powerup code="PSS2" name="Self-Sufficiency (III)" description="Gives +6 ability levels to the Rally Vigilante ability" cost="Unknown" hkey="">}}Empire (Thalassian Empire){{< /card-powerup >}}
 {{< card-powerup code="PPRM" name="Serpentine Ferocity" description="Allows Snakemen to use the Bleeding Charge ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PSER" name="Servile Horde" description="+7 Build Skill for Goblins. Allows resource scavenging for Goblins" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PZOM" name="Servile Horde" description="+7 Build Skill for Goblins. Allows resource scavenging for Goblins" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
+{{< card-powerup code="PSER" name="Servile Horde" description="+7 Build Skill for Goblins. Allows resource scavenging for Goblins" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSKL" name="Shackles" description="Allows Imps to be garrisoned into towers" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PYAC" name="Shadowdance" description="Non-hero, non-flier & non-large/huge units you control become invisible in fog weather" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
 {{< card-powerup code="PSHD" name="Shadowdance" description="Non-hero, non-flier & non-large/huge units you control become invisible in fog weather" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
@@ -594,15 +594,15 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PSWR" name="Shipwrights" description="+250% HP Regeneration for your ships" cost="Unknown" hkey="">}}Daemon (The Iron Fortress)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
 {{< card-powerup code="RVIV" name="Shipwrights" description="+250% HP Regeneration for your ships" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSIE" name="Siegecraft" description="+2 Range for Siege Weapons" cost="Unknown" hkey="">}}Dwarf (Drak-Dum, the Dragon Fortress)  Dwarf (Holy City of Duernoth)  Dwarf (Khamar, City of Artifice){{< /card-powerup >}}
-{{< card-powerup code="PSKD" name="Skirmish Drills" description="Allows Knight Errants to use the Weave ability which halves missile damage" cost="Unknown" hkey="">}}Dwarf (Drak-Dum, the Dragon Fortress)  Dwarf (Holy City of Duernoth)  Dwarf (Khamar, City of Artifice)  Dwarf (Khaz Agar){{< /card-powerup >}}
 {{< card-powerup code="PTOS" name="Skirmish Drills" description="Allows Knight Errants to use the Weave ability which halves missile damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PSKD" name="Skirmish Drills" description="Allows Knight Errants to use the Weave ability which halves missile damage" cost="Unknown" hkey="">}}Dwarf (Drak-Dum, the Dragon Fortress)  Dwarf (Holy City of Duernoth)  Dwarf (Khamar, City of Artifice)  Dwarf (Khaz Agar){{< /card-powerup >}}
 {{< card-powerup code="PSKY" name="Sky Raiders" description="Allows Pterodactyls to transport up to two small/medium-sized units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSLH" name="Slavehorde" description="You may instantly summon up to 8 Thralls to serve you" cost="Unknown" hkey="">}}Dark Dwarf (Khaz-Tor, the Cursed Empire)  Dark Dwarf (The Verkanian Coalition)  Empire (Merchant State of Goldor)  Empire (Thalassian Empire)  Orc (Dark Orcs of Toragnar)  Orc (Goblin Mountain)  Orc (Graww)  Orc (Orcs of Darkmyr)  Orc (Orcs of Kor)  Undead (Gharedlun, Garden of the Dead)  Undead (Licheguard of Zhur)  Undead (The Legion of Mortuus){{< /card-powerup >}}
 {{< card-powerup code="PSA0" name="Soaring 1" description="+3 Speed for Griffin" cost="Unknown" hkey="">}}Minotaur (Order of Malignus)  Minotaur (Order of the Broken Sword)  Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PSA1" name="Soaring 2" description="+6 Speed for Griffin" cost="Unknown" hkey="">}}Dwarf (Drak-Dum, the Dragon Fortress)  Minotaur (Order of Malignus)  Minotaur (Order of the Broken Sword)  Minotaur (Raiders of the Pale Sea){{< /card-powerup >}}
 {{< card-powerup code="PSCA" name="Songs of Clarity" description="Woodriders can cast Change Weather" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PRCN" name="Songs of Mending" description="Allows Forestguards to use the Gemberry ability" cost="Unknown" hkey="">}}Empire (New Lysean Empire){{< /card-powerup >}}
 {{< card-powerup code="PSMD" name="Songs of Mending" description="Allows Forestguards to use the Gemberry ability" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PRCN" name="Songs of Mending" description="Allows Forestguards to use the Gemberry ability" cost="Unknown" hkey="">}}Empire (New Lysean Empire){{< /card-powerup >}}
 {{< card-powerup code="PSTH" name="Songs of Thorns" description="Gladewardens can cast Wall of Thorns" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PDAO" name="Sorcery (I)" description="+15 Mana for Sorcerers & Spider Priestesses" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PSO0" name="Sorcery (I)" description="+15 Mana for Sorcerers & Spider Priestesses" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -614,8 +614,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PSHR" name="Soul Harvest" description="Allows Necromantic Conduits to be built" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead)  Undead (Licheguard of Zhur){{< /card-powerup >}}
 {{< card-powerup code="PSSP" name="Soul Splicing" description="Increases the stat effects of Souls for your units by 30%" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PAAA" name="Soul Torturing (I)" description="Allows spawning of souls on kills, which produce income" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PST0" name="Soul Torturing (II)" description="Increases income of Tortured Souls by +100%" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PST1" name="Soul Torturing (II)" description="Increases income of Tortured Souls by +100%" cost="Unknown" hkey="">}}{{< /card-powerup >}}
+{{< card-powerup code="PST0" name="Soul Torturing (II)" description="Increases income of Tortured Souls by +100%" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PST2" name="Soul Torturing (III)" description="Increases income of Tortured Souls by +200%" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSPP" name="Spare Parts" description="25% Faster Golem/Siege Production" cost="Unknown" hkey="">}}Dwarf (Drak-Dum, the Dragon Fortress)  Dwarf (Holy City of Duernoth)  Dwarf (Khamar, City of Artifice)  Dwarf (Khaz Agar){{< /card-powerup >}}
 {{< card-powerup code="PSPK" name="Sparkly tricks" description="Overrun! ability also gives +5 spell levels" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -650,14 +650,14 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PSGM" name="Storm Giant Mutation" description="Gazers spawn each time you kill Storm Giants" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSCL" name="Stormcall" description="Allows you to start a thunderstorm" cost="Unknown" hkey="">}}Daemon (The Dark Path){{< /card-powerup >}}
 {{< card-powerup code="PUSR" name="Strip Dragon Flesh" description="Allows Rotting Dragon to Morph into Dragonliche" cost="Unknown" hkey="">}}Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
-{{< card-powerup code="PSUB" name="Subterranean Network" description="Buildings you construct are constructed 10% faster and 10% cheaper" cost="Unknown" hkey="">}}Swarm (The Kagh'ri Sect){{< /card-powerup >}}
 {{< card-powerup code="PINF" name="Subterranean Network" description="Buildings you construct are constructed 10% faster and 10% cheaper" cost="Unknown" hkey="">}}Swarm (The Fertilum Sect){{< /card-powerup >}}
+{{< card-powerup code="PSUB" name="Subterranean Network" description="Buildings you construct are constructed 10% faster and 10% cheaper" cost="Unknown" hkey="">}}Swarm (The Kagh'ri Sect){{< /card-powerup >}}
 {{< card-powerup code="PWAI" name="Summon Mana (I)" description="+250% mana regeneration for your non-hero units" cost="Unknown" hkey="">}}Dark Dwarf (Khaz-Tor, the Cursed Empire)  Dark Dwarf (The Verkanian Coalition)  Orc (Dark Orcs of Toragnar)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
 {{< card-powerup code="PMR0" name="Summon Mana (I)" description="+250% mana regeneration for your non-hero units" cost="Unknown" hkey="">}}Daemon (The Iron Fortress)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
 {{< card-powerup code="PMR1" name="Summon Mana (II)" description="+500% mana regeneration for your non-hero units" cost="Unknown" hkey="">}}Daemon (The Iron Fortress)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
 {{< card-powerup code="PMR2" name="Summon Mana (III)" description="+750% mana regeneration for your non-hero units" cost="Unknown" hkey="">}}Daemon (The Iron Fortress)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
-{{< card-powerup code="PSU0" name="Summoning (I)" description="All Daemons are produced 25% faster and Riftspawn costs 25% less souls" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PDPF" name="Summoning (I)" description="All Daemons are produced 25% faster and Riftspawn costs 25% less souls" cost="Unknown" hkey="">}}Daemon (The Dark Path){{< /card-powerup >}}
+{{< card-powerup code="PSU0" name="Summoning (I)" description="All Daemons are produced 25% faster and Riftspawn costs 25% less souls" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PSU1" name="Summoning (II)" description="All Daemons are produced 50% faster and Riftspawn costs 50% less souls" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PSRN" name="Summoning Spell Research" description="Improve spellcasting by +1 in the Summoning spell sphere (for this battle only)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PBRS" name="Sun's Kiss" description="Allows Snakepriests to use the Cauterize spell" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -666,12 +666,12 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PNSP" name="Survival Drills" description="All units you control gain +50% resistance to the negative effects of all weather types" cost="Unknown" hkey="">}}Swarm (The Kagh'ri Sect){{< /card-powerup >}}
 {{< card-powerup code="PSRV" name="Survival Drills" description="All units you control gain +50% resistance to the negative effects of all weather types" cost="Unknown" hkey="">}}Minotaur (Order of the Broken Sword){{< /card-powerup >}}
 {{< card-powerup code="PSUS" name="Susceptibility" description="+6 affliction strength to all afflictions you control vs. enemy units in negative cover" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PDKS" name="Swimming" description="Snakemen, Snakepriests and Nagas can traverse water" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
 {{< card-powerup code="PSWM" name="Swimming" description="Snakemen, Snakepriests and Nagas can traverse water" cost="Unknown" hkey="">}}Ssrathi (Tongu, the Blessed Haven){{< /card-powerup >}}
+{{< card-powerup code="PDKS" name="Swimming" description="Snakemen, Snakepriests and Nagas can traverse water" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
 {{< card-powerup code="PDIV" name="Swooping" description="Griffin become excellent against missile units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PSCV" name="Sylvan Cultivation" description="Allows Mirrorwood Trees you control to convert" cost="Unknown" hkey="">}}Fey (Sacred Guard of Vivellius Madra){{< /card-powerup >}}
-{{< card-powerup code="PSML" name="Sylvan Mail" description="+12.5% HP for all  units" cost="Unknown" hkey="">}}Wood Elf (Light Elves of Twilight Woods){{< /card-powerup >}}
 {{< card-powerup code="PBRF" name="Sylvan Mail" description="+12.5% HP for all  units" cost="Unknown" hkey="">}}Wood Elf (Sylvan Elves of Solhaven){{< /card-powerup >}}
+{{< card-powerup code="PSML" name="Sylvan Mail" description="+12.5% HP for all  units" cost="Unknown" hkey="">}}Wood Elf (Light Elves of Twilight Woods){{< /card-powerup >}}
 {{< card-powerup code="PTAC" name="Tactical Formations" description="Units get +2 combat for each adjacent friendly unit of the same unit type (infantry, spearman, cavalry, missile)" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PTOP" name="Tactical Opportunism" description="Gives your units +55% damage vs. enemies at lower height or in negative cover which are vulnerable to their damage types (have less than 0% armor)" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition){{< /card-powerup >}}
 {{< card-powerup code="PAUG" name="Tamed Instinct" description="Allows War Elephants to use the Unbridled Fury ability" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley)  Knight (The Guardian Order){{< /card-powerup >}}
@@ -679,18 +679,18 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PTN0" name="Tanner (I)" description="Gives your non-hero units +6% HP and +1 Speed" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition)  Empire (Diraqine Empire){{< /card-powerup >}}
 {{< card-powerup code="PTN1" name="Tanner (II)" description="Gives your non-hero units +12% HP and +2 Speed" cost="Unknown" hkey="">}}Dark Dwarf (The Verkanian Coalition)  Empire (Diraqine Empire){{< /card-powerup >}}
 {{< card-powerup code="PCMP" name="Terminal Mitosis" description="Increases the number of units that split upon death of Clot Hydras, Spore Hydras, Contaminators, Plague Priests and Abominations" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PTBO" name="Territorial Insight" description="Increases unit ability levels by 5 when activated in cover" cost="Unknown" hkey="">}}Orc (Orcs of Darkmyr){{< /card-powerup >}}
 {{< card-powerup code="PTIN" name="Territorial Insight" description="Increases unit ability levels by 5 when activated in cover" cost="Unknown" hkey="">}}Orc (Orcs of Darkmyr){{< /card-powerup >}}
+{{< card-powerup code="PTBO" name="Territorial Insight" description="Increases unit ability levels by 5 when activated in cover" cost="Unknown" hkey="">}}Orc (Orcs of Darkmyr){{< /card-powerup >}}
 {{< card-powerup code="PSWT" name="Teyahuotli's Springwater" description="Altars of Teyahuotli give +700% HP regeneration for friendly units within a radius of 12" cost="Unknown" hkey="">}}Ssrathi (Tongu, the Blessed Haven){{< /card-powerup >}}
 {{< card-powerup code="PUNI" name="The Alicorn" description="Unicorn damage +31.25%" cost="Unknown" hkey="">}}High Elf (Ehlariel, Citadel of Ice)  High Elf (Isle of Lunarion)  High Elf (The White Council){{< /card-powerup >}}
-{{< card-powerup code="PPOA" name="Thorns" description="+31.25% damage for Oakmen, Treants and Ancient Treants" cost="Unknown" hkey="">}}Dark Elf (Tierremar, Land of Eternal Grief){{< /card-powerup >}}
 {{< card-powerup code="PTHO" name="Thorns" description="+31.25% damage for Oakmen, Treants and Ancient Treants" cost="Unknown" hkey="">}}Barbarian (Lindenloth){{< /card-powerup >}}
+{{< card-powerup code="PPOA" name="Thorns" description="+31.25% damage for Oakmen, Treants and Ancient Treants" cost="Unknown" hkey="">}}Dark Elf (Tierremar, Land of Eternal Grief){{< /card-powerup >}}
 {{< card-powerup code="PTHU" name="Thump" description="+31.25% to Ogre and Fire Giant damage" cost="Unknown" hkey="">}}Orc (Goblin Mountain)  Orc (Graww){{< /card-powerup >}}
 {{< card-powerup code="PPIK" name="Thundering Hooves" description="Pegasi gain +40 damage vs. buildings" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PTHH" name="Thundering Hooves" description="Pegasi gain +40 damage vs. buildings" cost="Unknown" hkey="">}}Barbarian (Lindenloth){{< /card-powerup >}}
 {{< card-powerup code="PTFV" name="Tlatecolotl's Favor" description="Gives your non-hero units +3 Combat and +2 Speed during fog" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
-{{< card-powerup code="PTBC" name="Tombcurse" description="Whenever a unit you control is killed by an enemy unit, the enemy unit is paralysed and loses 1 Resistance permanently" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PCVE" name="Tombcurse" description="Whenever a unit you control is killed by an enemy unit, the enemy unit is paralysed and loses 1 Resistance permanently" cost="Unknown" hkey="">}}Swarm (The Kagh'ri Sect){{< /card-powerup >}}
+{{< card-powerup code="PTBC" name="Tombcurse" description="Whenever a unit you control is killed by an enemy unit, the enemy unit is paralysed and loses 1 Resistance permanently" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PTMT" name="Torment" description="Improves bonuses from devouring Souls by 25 HP, 2 mana" cost="Unknown" hkey="">}}Daemon (The Iron Fortress){{< /card-powerup >}}
 {{< card-powerup code="PLAA" name="Tormentum Plantae" description="This is not a thing anymore" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PTTW" name="Totemic Ward" description="Orc Towers get an attack type which deals crushing-ice damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
@@ -738,8 +738,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PWIF" name="Walk it Off" description="Overrun! ability also gives +6 resistance" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PWAL" name="Wall Scaling" description="Allows damaging of garrisoned units and gives +10% damage vs buildings for all your units" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PWAR" name="Warhorse" description="+2 Combat for Cavalry" cost="Unknown" hkey="">}}{{< /card-powerup >}}
-{{< card-powerup code="PVI2" name="Warmth" description="+5 Morale" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
 {{< card-powerup code="PWRM" name="Warmth" description="+5 Morale" cost="Unknown" hkey="">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card-powerup >}}
+{{< card-powerup code="PVI2" name="Warmth" description="+5 Morale" cost="Unknown" hkey="">}}Plaguelords (Gol-Draaka){{< /card-powerup >}}
 {{< card-powerup code="PWHN" name="Warrior's Honor" description="+13% faster conversion for all units and buildings you control and your buildings are +13% harder to convert" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PWE0" name="Weaponsmith (I)" description="+12.5% Damage for all melee units" cost="Unknown" hkey="">}}Barbarian (Alfheim, the Lost Valley)  Barbarian (Palmyr)  Orc (Dark Orcs of Toragnar)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
 {{< card-powerup code="PWE1" name="Weaponsmith (II)" description="+25% Damage for all melee units" cost="Unknown" hkey="">}}Barbarian (Palmyr)  Orc (Dark Orcs of Toragnar)  Undead (Gharedlun, Garden of the Dead){{< /card-powerup >}}
@@ -748,8 +748,8 @@ This was last updated for TPE 0.9.2a
 {{< card-powerup code="PWF0" name="Wolfpack (I)" description="+2 to Wolfrider Speed" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PWF1" name="Wolfpack (II)" description="+4 to Wolfrider Speed" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PWF2" name="Wolfpack (III)" description="+6 to Wolfrider Speed" cost="Unknown" hkey="">}}Orc (Dark Orcs of Toragnar)  Orc (Graww){{< /card-powerup >}}
-{{< card-powerup code="PDVH" name="Woodcraft" description="Allows Squires to build ramparts" cost="Unknown" hkey="">}}Barbarian (Lindenloth){{< /card-powerup >}}
 {{< card-powerup code="PWDC" name="Woodcraft" description="Allows Squires to build ramparts" cost="Unknown" hkey="">}}Knight (Crownsmen of Bartonia)  Knight (The Guardian Order){{< /card-powerup >}}
+{{< card-powerup code="PDVH" name="Woodcraft" description="Allows Squires to build ramparts" cost="Unknown" hkey="">}}Barbarian (Lindenloth){{< /card-powerup >}}
 {{< card-powerup code="PWRN" name="Wrath of Nature" description="Wood Elf Towers get an attack type which deals piercing-electric damage" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PWOS" name="Wrath of Sartek" description="Allows Minotaur Slayers to be produced" cost="Unknown" hkey="">}}{{< /card-powerup >}}
 {{< card-powerup code="PWOT" name="Wreathe of Thunder" description="Barbarian Towers get an attack type which deals piercing-electric damage" cost="Unknown" hkey="">}}Barbarian (Palmyr){{< /card-powerup >}}
