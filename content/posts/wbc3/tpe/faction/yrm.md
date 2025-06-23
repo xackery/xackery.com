@@ -7,7 +7,7 @@ layout: data
 Yrm, Stronghold of Sorcery is a Dark Elf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2b
+This was last updated for TPE 0.9.2c
 
 ### Changes
 
@@ -18,7 +18,7 @@ This was last updated for TPE 0.9.2b
 - Adds [<i class="xa xa-aura"></i> Murderous Intent](#PMRD) to [<i class="xa xa-tower"></i> Brood](#BAE1)
 - Removes [<i class="xa xa-aura"></i> Rite of Farseeing](#PVAM) from [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Adds [<i class="xa xa-aura"></i> Murderous Intent](#PMRD) to [<i class="xa xa-tower"></i> Brood](#BAE2)
-- Removes [<i class="xa xa-player"></i> Dragonliche](#AADU) from [<i class="xa xa-tower"></i> Brood](#BAE2)
+- Removes [<i class="xa xa-player"></i> Rotting Dragon](#AARD) from [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i> Fire Dragon](#AADR) to [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Removes [<i class="xa xa-aura"></i> Arcane Finesse](#PAFN) from [<i class="xa xa-tower"></i> Void](#BPVO)
 - Adds [<i class="xa xa-aura"></i> Darkbolt](#PNCR) to [<i class="xa xa-tower"></i> Void](#BPVO)

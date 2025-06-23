@@ -7,7 +7,7 @@ layout: data
 Sun Ssrathi of Kalpaxotl is a Ssrathi faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2b
+This was last updated for TPE 0.9.2c
 
 ### Changes
 

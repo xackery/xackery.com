@@ -7,7 +7,7 @@ layout: data
 Tongu, the Blessed Haven is a Ssrathi faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2b
+This was last updated for TPE 0.9.2c
 
 ### Changes
 
@@ -17,8 +17,6 @@ This was last updated for TPE 0.9.2b
 - Adds [<i class="xa xa-aura"></i> Swimming](#PSWM) to [<i class="xa xa-tower"></i> Worker Sect](#BAKS)
 - Removes [<i class="xa xa-aura"></i> Rite of Acid](#PANC) from [<i class="xa xa-tower"></i> Religious Sect](#BARS)
 - Adds [<i class="xa xa-aura"></i> Pious Chivalry](#PSSV) to [<i class="xa xa-tower"></i> Religious Sect](#BARS)
-- Removes [<i class="xa xa-player"></i> Celestial Dragon](#AADC) from [<i class="xa xa-tower"></i> Nest](#BAN2)
-- Adds [<i class="xa xa-player"></i> Storm Dragon](#AADB) to [<i class="xa xa-tower"></i> Nest](#BAN2)
 ### Units
 
 {{< card code="ALBX" name="Chameleon" combat="3" hp="70" speed="11" min="30830" max="8" type="Slashing" range="0" attacktype="None" view="14" resistance="7" resists="28270" strong="--------" movementtype="Walk" mana="8" tier="1" general="N" advanced="N" race="Ssrathi" alignment="Neutral" cost="55g" description="Basic Ssrathi builder with Poison" hkey="c" line1="CHAMELEON" line2="Traits: Can build (skill 11), Can mine (2 slots), Poison attacks (strength 8)" line3="" flag="Building 11, Poison (str. 8), Small, Land, Infantry">}}Ssrathi (Night Ssrathi of Tzicolotl){{< /card >}}
