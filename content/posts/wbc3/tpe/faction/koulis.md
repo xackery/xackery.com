@@ -7,7 +7,7 @@ layout: data
 Revenants of K'Oulis is a Plaguelords faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2c
+This was last updated for TPE 0.9.2d
 
 ### Changes
 

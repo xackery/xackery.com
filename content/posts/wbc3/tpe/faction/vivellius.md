@@ -7,7 +7,7 @@ layout: data
 Sacred Guard of Vivellius Madra is a Fey faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2c
+This was last updated for TPE 0.9.2d
 
 ### Changes
 
@@ -17,7 +17,7 @@ This was last updated for TPE 0.9.2c
 - Adds [<i class="xa xa-aura"></i> Divine Accouterments](#PWSH) to [<i class="xa xa-tower"></i> Tome](#BPTM)
 - Removes [<i class="xa xa-aura"></i> Skirmish Drills](#PTOS) from [<i class="xa xa-tower"></i> Tome](#BPTM)
 - Adds [<i class="xa xa-aura"></i> Dementia](#PMST) to [<i class="xa xa-tower"></i> Tome](#BPTM)
-- Removes [<i class="xa xa-player"></i> Night Dragon](#AADN) from [<i class="xa xa-tower"></i> Nest](#BAN2)
+- Removes [<i class="xa xa-player"></i> Celestial Dragon](#AADC) from [<i class="xa xa-tower"></i> Nest](#BAN2)
 - Adds [<i class="xa xa-player"></i> Storm Dragon](#AADB) to [<i class="xa xa-tower"></i> Nest](#BAN2)
 ### Units
 

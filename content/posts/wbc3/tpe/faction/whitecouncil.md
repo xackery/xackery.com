@@ -7,7 +7,7 @@ layout: data
 The White Council is a High Elf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2c
+This was last updated for TPE 0.9.2d
 
 ### Changes
 
@@ -15,7 +15,7 @@ This was last updated for TPE 0.9.2c
 - Adds [<i class="xa xa-aura"></i> Divine Intervention](#PELP) to [<i class="xa xa-tower"></i> Healer](#BPHE)
 - Removes [<i class="xa xa-aura"></i> Blizzard Call](#PSSC) from [<i class="xa xa-tower"></i> Tower of the](#BPMT)
 - Adds [<i class="xa xa-aura"></i> Rites of Dawn](#PDII) to [<i class="xa xa-tower"></i> Tower of the](#BPMT)
-- Removes [<i class="xa xa-player"></i> Frost Dragon](#AADW) from [<i class="xa xa-tower"></i> Nest](#BAN2)
+- Removes [<i class="xa xa-player"></i> Swamp Dragon](#AADG) from [<i class="xa xa-tower"></i> Nest](#BAN2)
 - Adds [<i class="xa xa-player"></i> White Counsellor](#APGC) to [<i class="xa xa-tower"></i> Nest](#BAN2)
 ### Units
 
