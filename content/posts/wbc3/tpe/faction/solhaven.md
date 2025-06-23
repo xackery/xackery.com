@@ -7,7 +7,7 @@ layout: data
 Sylvan Elves of Solhaven is a Wood Elf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2a
+This was last updated for TPE 0.9.2b
 
 ### Changes
 

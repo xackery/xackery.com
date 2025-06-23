@@ -7,7 +7,7 @@ layout: data
 The Old Ones is a Fey faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2a
+This was last updated for TPE 0.9.2b
 
 ### Changes
 

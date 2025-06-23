@@ -7,14 +7,12 @@ layout: data
 Light Elves of Twilight Woods is a Wood Elf faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2a
+This was last updated for TPE 0.9.2b
 
 ### Changes
 
 - Removes [<i class="xa xa-aura"></i> Fletcher](#PFLE) from [<i class="xa xa-tower"></i> Rangers' Guild](#BPRG)
 - Adds [<i class="xa xa-aura"></i> Infiltration](#PMIR) to [<i class="xa xa-tower"></i> Rangers' Guild](#BPRG)
-- Removes [<i class="xa xa-player"></i> Wyvern](#AAWY) from [<i class="xa xa-tower"></i> Nest](#BAN1)
-- Adds [<i class="xa xa-player"></i> Pegasus](#AAPE) to [<i class="xa xa-tower"></i> Nest](#BAN1)
 ### Units
 
 {{< card code="AEBX" name="Wisp" combat="1" hp="25" speed="10" min="35980" max="4" type="Magic" range="5" attacktype="None" view="12" resistance="10" resists="12940" strong="--------" movementtype="Flap" mana="0" tier="1" general="N" advanced="N" race="Fey" alignment="Good" cost="30g" description="Basic Fey missile builder" hkey="w" line1="WISP" line2="Traits: Can build (skill 11)" line3="" flag="Building 11, Small, Extra-Planar, Float, Missile">}}{{< /card >}}

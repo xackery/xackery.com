@@ -7,7 +7,7 @@ layout: data
 Gharedlun, Garden of the Dead is a Undead faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2a
+This was last updated for TPE 0.9.2b
 
 ### Changes
 
@@ -17,7 +17,7 @@ This was last updated for TPE 0.9.2a
 - Adds [<i class="xa xa-player"></i> Battering Ram](#ASBA) to [<i class="xa xa-tower"></i> Dark Mill](#BPDM)
 - Removes [<i class="xa xa-aura"></i> Unhallowed Grounds](#PUHG) from [<i class="xa xa-tower"></i> Gravestone](#BAGR)
 - Adds [<i class="xa xa-aura"></i> Healing (I)](#PRG0) to [<i class="xa xa-tower"></i> Gravestone](#BAGR)
-- Removes [<i class="xa xa-player"></i> Frost Dragon](#AADW) from [<i class="xa xa-tower"></i> Brood](#BAE2)
+- Removes [<i class="xa xa-player"></i> Fire Dragon](#AADR) from [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i> Celestial Dragon](#AADC) to [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Removes [<i class="xa xa-aura"></i> Lingering Essence](#PGOB) from [<i class="xa xa-tower"></i> Graveyard](#BAGY)
 - Adds [<i class="xa xa-player"></i> Gardenkeeper](#AWK2) to [<i class="xa xa-tower"></i> Graveyard](#BAGY)

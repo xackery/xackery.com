@@ -7,7 +7,7 @@ layout: data
 Gol-Draaka is a Plaguelords faction found in Warlords Battlecry III: The Protectors of Etheria mod.
 <!--more-->
 
-This was last updated for TPE 0.9.2a
+This was last updated for TPE 0.9.2b
 
 ### Changes
 
@@ -29,9 +29,7 @@ This was last updated for TPE 0.9.2a
 - Adds [<i class="xa xa-player"></i> Battering Ram](#ASBA) to [<i class="xa xa-tower"></i> Cess Pool](#BACP)
 - Removes [<i class="xa xa-aura"></i> Consumption](#PMUT) from [<i class="xa xa-tower"></i> Hall of Plague](#BKG0)
 - Adds [<i class="xa xa-aura"></i> Rimechant](#PRCH) to [<i class="xa xa-tower"></i> Hall of Plague](#BKG0)
-- Removes [<i class="xa xa-player"></i> Wyvern](#AAWY) from [<i class="xa xa-tower"></i> Brood](#BAE1)
-- Adds [<i class="xa xa-player"></i> Harpy](#AAHA) to [<i class="xa xa-tower"></i> Brood](#BAE1)
-- Removes [<i class="xa xa-player"></i> Fire Dragon](#AADR) from [<i class="xa xa-tower"></i> Brood](#BAE2)
+- Removes [<i class="xa xa-player"></i> Frost Dragon](#AADW) from [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i> Dragonliche](#AADU) to [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Removes [<i class="xa xa-player"></i> Night Dragon](#AADN) from [<i class="xa xa-tower"></i> Brood](#BAE2)
 - Adds [<i class="xa xa-player"></i> Frost Dragon](#AADW) to [<i class="xa xa-tower"></i> Brood](#BAE2)
